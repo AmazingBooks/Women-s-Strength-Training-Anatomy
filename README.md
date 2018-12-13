@@ -8,4 +8,5 @@ Part reference, part exercise, this books is a manual with helpful hints and fac
 >You may have decided that you want to perform only resistance training. However, if you have fat to lose or have difficulty maintaining >your body weight, it
 >is wise to add some cardio training. Stretching regularly to maintain flexibility
 >as well as good posture is also important, especially given that it requires only
->a few minutes per week
+>a few minutes per week.
+>>Rest assured that as long as you are training regularly and eating a balanced, healthy diet, fat will diminish and muscles will develop.
