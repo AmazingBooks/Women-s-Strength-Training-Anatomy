@@ -19,6 +19,11 @@ To create a perfectly tailored weight training program that suits your needs, yo
   - Fight the loss of mobility due to aging
 
 ## STEP 2 - Decide How Many Days Per Week to Train
+For the various schedules, here are the options:
+  - One weekly weight training session: This schedule does not pose any recovery issues, and weight training can be done on any day.
+  - Two weekly weight training sessions: Separate workouts as much as possible (e.g., Monday and Thursday or Tuesday and Friday), but at a minimum, try to respect the pattern of one workout and one day of rest. 
+  - Three weekly weight training sessions: With this schedule, respecting the one-workout-one-day-of-rest pattern is difficult, but still possible. Try to balance your week as much as possible—for example, by weight training on Monday, Wednesday, and Friday or on Tuesday, Thursday, and Saturday.
+ - Four weekly weight training sessions: With such a high training frequency, properly spacing the workouts to provide your body with enough rest is difficult. Whenever you perform two workouts without rest between them, make sure that one targets your upper body and the other targets your lower body.
 ## STEP 3 - Choose Your Training Days
 To progress quickly, follow this one main rule: One day of weight training has to be followed by at least one day of rest from weight training (so doing a cardio workout the day after a weight training session is a possibility). Cardio training has fewer constraints because it does not traumatize the body nearly as much as weight training does. 
 ## STEP 4 - Decide Whether to Train More Than Once Per Day
