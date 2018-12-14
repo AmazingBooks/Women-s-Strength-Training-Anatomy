@@ -11,8 +11,7 @@ Part reference, part exercise, this books is a manual with helpful hints and fac
 >a few minutes per week.Rest assured that as long as you are training regularly and eating a balanced, healthy diet, fat will diminish and muscles will develop.
 
 ## STEP 1 - Identify Your Goals
-To create a perfectly tailored weight training program that suits your needs, you must first clearly define your objectives. 
-You work out to do one or a combination of the following:
+To create a perfectly tailored weight training program that suits your needs, you must first clearly define your objectives:
   - Reshape your body
   - Get rid of excess body fat
   - Improve your sport performance
