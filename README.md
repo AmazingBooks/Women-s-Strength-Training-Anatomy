@@ -31,7 +31,7 @@ We strongly advise not to weight train twice a day. Ideally, cardio can be perfo
 ## STEP 5 - Choose Your Training Time
 Is it better to train in the morning, at noon, in the afternoon, or in the evening?
 ANSWER: Scientific studies have shown that muscle strength and endurance vary throughout the day. Most women are stronger in the afternoon and weaker in the morning. The body is a little bit colder in the morning, and it slowly warms up with time and as a result of eating. This slight elevation in temperature is associated with an increase in central nervous system efficiency. Therefore, muscle power rises in parallel with body temperature. Training whenever your muscles are at their strongest is ideal, which for most woman this peak performance occurs in the afternoon.
-## STEP 5 - Choose an Order in Which to Work the Muscles in Each Session
+## STEP 6 - Choose an Order in Which to Work the Muscles in Each Session
 Training your whole body in one workout would be cumbersome. There are six major body regions which must be trainned:
 1. Legs (quadriceps, hamstrings, glutes, and calves)
 2. Abdomen
@@ -45,3 +45,4 @@ The following four tips can help you design your program:
 2. Rate the importance of each muscle according to your goals.
 3. Focus on your weak areas.
 4. Use the rotation principle.
+## STEP 7 - Choose Your Training Time
