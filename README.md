@@ -104,3 +104,25 @@ Do not weight train for more than an hour because this means that you are doing 
  - Doing too many exercises
  - Doing too many sets
  - Taking too much rest time between sets
+## STEP 12 - Learn the Proper Speed for Each Repetition
+The speed of your repetitions is a very important factor in the success of your program. Do not lift a weight with too much speed by using momentum and body swings instead of your own muscle strength. If you are just starting weight lifting, use a deliberate tempo rather than an explosive motion. You will quickly realize that a slower motion is more excruciating than a fast one. You use your muscles much more when you lift a weight up and down slowly, which is exactly what you want.
+We recommend that you take two or three seconds to raise a weight and atleast as much time, if not slightly more, to lower it. The weaker your muscles are, the slower each repetition should be performed. Raise the weight in five seconds and lower it in three to five seconds. 
+## STEP 13 -Determine How Long to Rest Between Sets\
+Consider your rest time between sets as a tool to help you reach your goal faster. If you mainly wish to sculpt your muscles, you need to rest long enough so that you recover most of your strength. On the other hand, you do not want to rest so much that your workout loses its intensity despite the heavier weight. If your goal is mainly to burn fat, do not rest much. Following are good between-set resting guidelines:
+ - To tone up, 30 to 45 seconds of rest should suffice. 
+ - To burn calories and fat, you should adopt a faster pace with only 10 to 20 seconds of rest between sets. As you progress, reduce this resting time to a bare minimum. 
+Research has shown that women performing a similar workload as men produce less lactic acid and experience a lower elevation of heart rate. Therefore, we require less rest than men do between sets.
+## STEP 14 - Avoid Rest Time Between Two Different Exercises
+Avoid wasting time when changing exercises. The time required to move from one machine to the next and adjust the seat or the weight (or both) provides enough rest. You might even have to wait for someone to finish a set. Do not add this compulsory wait time to a voluntary rest you just took. Moving fast burns both more calories and more fat while cutting down on the time you spend in the gym.
+## STEP 15 - Pick the Proper Weight for Each Exercise
+Start with a resistance that seems too light to be challenging for your muscles. This easy set will serve as a first warm-up.
+For your real first working set, increase the resistance even more. For your second working set, you might increase the resistance slightly more to render the movement more challenging. It is very helpful to note each of your weights as well as the number of repetitions you performed for each exercise in a notebook or in your phone. There are plenty of apps for this.
+## STEP 16 - Know When to Increase Resistance
+If you scrupulously note all your workouts as suggested, you will easily figure outwhen to increase your weight for your next workout. If you do not write down your weight, you will face a very tedious task.
+#### As a rule of thumb:
+ - If you performed more repetitions than expected for an exercise in your last workout, pick up a slightly heavier weight today.
+ - If you perform fewer repetitions than expected for an exercise in your last workout, use the same amount of resistance until you feel very comfortable with that weight.
+## STEP 17 -Choose Exercises That Suit Your Morphology
+Everybody's morphology is unique in terms of height and the length of torso, legs, and arms. Some exercises force us to adopt unnatural positions, whereas others feel very natural to us. If a movement places you in an uncomfortable position, eliminate it from your routine. When you start lifting, stick to movements that you feel your build is designed to perform safely. 
+As a rule of thumb, the taller you are, the more dangerous the basic free weight exercises will be because you have to go through
+a much greater range of motion. This is typically true of the squat and the chest press. By the same token, body weight exercises such as push-ups are likely to be more traumatic for your joints, also because of this greater range of motion.
