@@ -52,14 +52,14 @@ If you want chiseled abdominal muscles, you can begin each workout with abdomina
 If you want to make quick progress in strength and body shaping, the best thing to do is to work each muscle group twice a week.
 > Four Weekly Weight Training Workouts:
 #### Workout 1
- - Lower body: quadriceps, hamstrings, and glutes
- - Upper body: abdomen
+ - **Lower body**: quadriceps, hamstrings, and glutes
+ - **Upper body**: abdomen
 #### Workout 2
- - Upper body: abdomen, shoulders, and back
- - Lower body: glutes
+ - **Upper body**: abdomen, shoulders, and back
+ - **Lower body**: glutes
 #### Workout 3
- - Lower body: glutes, hamstrings, and quadriceps
- - Upper body: abdomen
+ - **Lower body**: glutes, hamstrings, and quadriceps
+ - **Upper body**: abdomen
 #### Workout 4
- - Upper body: abdomen, chest, and arms
- - Lower body: hamstrings
+ - **Upper body**: abdomen, chest, and arms
+ - **Lower body**: hamstrings
