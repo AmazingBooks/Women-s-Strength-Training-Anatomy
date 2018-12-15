@@ -63,3 +63,33 @@ If you want to make quick progress in strength and body shaping, the best thing 
 #### Workout 4
  - **Upper body**: abdomen, chest, and arms
  - **Lower body**: hamstrings
+## STEP 8 - Determine How Many Exercises to do Per Body Region
+## STEP 9 -Choose the Number of Sets Per Muscle Group
+For aesthetic purposes, muscles can artificially be divided into the following
+three major categories:
+1. Most important muscles: quadriceps, hamstrings, and glutes
+2. Complex muscles: back, shoulders, and abdominals
+3. Less important muscles: chest, biceps, triceps, forearms, and calves
+Beginners should aim for the following totals:
+ - Two or three sets for each of the most important muscles
+ - One or two sets for each of the complex muscles
+ - One set for each of the less important muscles
+After a couple months of training, you should aim for the following:
+ - Three or four sets for each of the most important muscles 
+ - Two or three sets for each of the complex muscles
+ - One or two sets for each of the less important muscles
+After six months of training, you should aim for the following totals:
+ - Four or five sets for each of the most important muscles
+ - Three or four sets for each of the complex muscles
+ - One to three sets for each of the less important muscles
+ 
+## STEP 10 - Choose the Number of Repetitions Per Set
+How many times (repetitions) should you perform an exercise in each set? 
+- For muscle toning, it is best to do from 10 to 20 repetitions with heavier weights. 
+- To burn calories and fat and to improve your cardiovascular health, do at least 30 repetitions, and up to 50, with lighter weights.
+##### Use the three set rule: 
+   1. Once your muscles are fully warmed up, start with a light weight and a high number of repetitions (e.g., 20) for the first set.      2. For the second set increase the weight enough so that you can perform only 12 to 15 repetitions. 
+     - However, do not stop during a set (except for the warm-up) because you have reached your repetition goal. 
+       If you were shooting for 12 reps but could do 16,go ahead and do them! 
+   3. For the third set, add weight so that you can perform only 10 repetitions.
+
