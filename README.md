@@ -90,4 +90,17 @@ How many times (repetitions) should you perform an exercise in each set?
 ##### Use the three set rule: 
    - Once your muscles are fully warmed up, start with a light weight and a high number of repetitions (e.g., 20) for the first set.        - For the second set increase the weight enough so that you can perform only 12 to 15 repetitions.
    - For the third set, add weight so that you can perform only 10 repetitions.
+## STEP 11 - Decide How Long Your Workout Should Last
+How much time should you devote to each workout? 
+ - This issue is very important not only to get fast results but also, and more important, to be able to stick to your program. You do not want to use too long a workout as an excuse not to go to the gym. A brief workout is much better than no workout at all.
+ - The objective of a good workout is to stimulate muscles to their maximum in the shortest time possible. What you should look for are strategies that increase a workout’s intensity rather than its length.
+A good weight training workout lasts at least 30 minutes and up to a maximum of 45 minutes. If you spend more than one hour working out, your effort is not intense enough. At the end of 30 to 45 minutes, your muscles should be begging for mercy.
+The duration of your workout depends on two things:
+1. Volume of work (number of exercises plus number of sets)
+2. Rest time between sets
 
+Do not weight train for more than an hour because this means that you are doing one, or a combination, of the following:
+ - Working too many muscles per session
+ - Doing too many exercises
+ - Doing too many sets
+ - Taking too much rest time between sets
