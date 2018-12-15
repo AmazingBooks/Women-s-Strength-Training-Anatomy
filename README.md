@@ -122,7 +122,23 @@ If you scrupulously note all your workouts as suggested, you will easily figure 
 #### As a rule of thumb:
  - If you performed more repetitions than expected for an exercise in your last workout, pick up a slightly heavier weight today.
  - If you perform fewer repetitions than expected for an exercise in your last workout, use the same amount of resistance until you feel very comfortable with that weight.
-## STEP 17 -Choose Exercises That Suit Your Morphology
+## STEP 17 - Choose Exercises That Suit Your Morphology
 Everybody's morphology is unique in terms of height and the length of torso, legs, and arms. Some exercises force us to adopt unnatural positions, whereas others feel very natural to us. If a movement places you in an uncomfortable position, eliminate it from your routine. When you start lifting, stick to movements that you feel your build is designed to perform safely. 
 As a rule of thumb, the taller you are, the more dangerous the basic free weight exercises will be because you have to go through
 a much greater range of motion. This is typically true of the squat and the chest press. By the same token, body weight exercises such as push-ups are likely to be more traumatic for your joints, also because of this greater range of motion.
+#### Machines Versus Free Weights - Which is more effective?
+The two main kinds of resistance in weight training are free weights (dumbbells and bar) and machines. Hamstrings, are difficult to train without machines. On the other hand, free weights are more appropriate for biceps. For this reason, a combination of both is best. It is a common belief in the gym that free weights are more effective than machines. This is simply not true. The most effective way to make progress is to use machines whenever they are more appropriate than free weights, and free weights whenever they are
+more appropriate than machines. Beginner should use machines machines, because they are typically much easier to master and better guide your movement as you learn the exerciseMany new machines provide quick response (QR) codes that allow you to view a video of how to use the machine on your smartphone. You do not have to rely on anyone to demonstrate the proper use of the equipment. Of course,
+there is no such QR code on free weights. Women starting weight lifting are more likely to make better progress with machines than with free weights. As you progress, you can move on to more complex, free weight exercises. They will be easier then because your muscles will have gotten used to the workout. Starting directly with free weight movement is more complicated because it involves motor learning that will slow down your gains of muscle strength.
+#### There are Two Major Exercise Subcategories
+All movements, can be divided into two major categories: 
+ - basic and multiple-joint exercises;
+ - isolated and single-joint exercises.
+1. Basic, multiple-joint exercises: Whenever more than one joint is flexed, the exercise is classified as a basic, multiple-joint exercise. For example, in a leg lunge, the knees, ankles, and hips are mobilized. Basic movements are more demanding than isolated movements, and they save time in your workout by working multiple muscles, but they are more complex to master.
+2. Isolated, single-joint exercises: Whenever only one joint is flexed, the exercise is classified as an isolated, single-joint exercise. For example, in the leg extension, only the knees are mobilized. Because of the lesser demand on the body, isolated movements are easier to perform than basic, multiple-joint ones. However, because they recruit fewer muscles groups, they are less effective in terms of strength gains and calorie expenditure. 
+## STEP 18 - Recognize When It’s Time to Change Your Program
+Maintain the same training program for as long as you are making gains on it. Once you are familiar with weight training, feel free to change your exercises as frequently as you wish because there are few learning curves as you introduce new movements.
+## STEP 19 - Take a Break
+If you go on a vacation or feel as though you need a break, it is fine to stop training for one or two weeks. But remember that when you stop working out, you do not burn as many calories; if you do not watch your diet, you might accumulate fat easily.
+## STEP 20 - Maintain Your Gains
+Maintaining muscle gain is easier than acquiring it. If strength increases rapidly as you first start training, its reduction occurs quickly if you stop working out for a while. Muscle shape is more resistant to a long rest period, which demonstrates that the reduction of strength is mainly due to a temporary weakening of the nervous signals. Your peak strength will return to its maximum within a couple weeks of training.
