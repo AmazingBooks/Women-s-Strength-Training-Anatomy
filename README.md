@@ -89,5 +89,5 @@ How many times (repetitions) should you perform an exercise in each set?
 - To burn calories and fat and to improve your cardiovascular health, do at least 30 repetitions, and up to 50, with lighter weights.
 ##### Use the three set rule: 
    - Once your muscles are fully warmed up, start with a light weight and a high number of repetitions (e.g., 20) for the first set.        - For the second set increase the weight enough so that you can perform only 12 to 15 repetitions. However, do not stop during a set (except for the warm-up) because you have reached your repetition goal. If you were shooting for 12 reps but could do 16,go ahead and do them! 
-    - For the third set, add weight so that you can perform only 10 repetitions.
+   - For the third set, add weight so that you can perform only 10 repetitions.
 
