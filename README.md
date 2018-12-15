@@ -42,7 +42,24 @@ Training your whole body in one workout would be cumbersome. There are six major
 
 The following four tips can help you design your program:
 1. Take full advantage of the indirect work.
+Always train your arms before your back or chest. This results in the biceps or triceps being too tired to handle the weight necessary to stimulate the chest and the back. The same goes for your legs. Training your calves first will tire them and decrease
+your strength for the basic leg exercises. Furthermore, the quadriceps and hamstring exercises provide enough indirect calf stimulation to render direct lower-leg exercises superfluous in many cases.
 2. Rate the importance of each muscle according to your goals.
+If you want chiseled abdominal muscles, you can begin each workout with abdominal exercises as a warm-up.
 3. Focus on your weak areas.
 4. Use the rotation principle.
-## STEP 7 - Choose Your Training Time
+## STEP 7 - Schedule Your Body Regions for Each Workout
+If you want to make quick progress in strength and body shaping, the best thing to do is to work each muscle group twice a week.
+> Four Weekly Weight Training Workouts:
+#### Workout 1
+ - Lower body: quadriceps, hamstrings, and glutes
+ - Upper body: abdomen
+#### Workout 2
+ - Upper body: abdomen, shoulders, and back
+ - Lower body: glutes
+#### Workout 3
+ - Lower body: glutes, hamstrings, and quadriceps
+ - Upper body: abdomen
+#### Workout 4
+ - Upper body: abdomen, chest, and arms
+ - Lower body: hamstrings
