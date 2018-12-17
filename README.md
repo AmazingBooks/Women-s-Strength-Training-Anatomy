@@ -107,7 +107,7 @@ Do not weight train for more than an hour because this means that you are doing 
 ## STEP 12 - Learn the Proper Speed for Each Repetition
 The speed of your repetitions is a very important factor in the success of your program. Do not lift a weight with too much speed by using momentum and body swings instead of your own muscle strength. If you are just starting weight lifting, use a deliberate tempo rather than an explosive motion. You will quickly realize that a slower motion is more excruciating than a fast one. You use your muscles much more when you lift a weight up and down slowly, which is exactly what you want.
 We recommend that you take two or three seconds to raise a weight and atleast as much time, if not slightly more, to lower it. The weaker your muscles are, the slower each repetition should be performed. Raise the weight in five seconds and lower it in three to five seconds. 
-## STEP 13 -Determine How Long to Rest Between Sets\
+## STEP 13 -Determine How Long to Rest Between Sets
 Consider your rest time between sets as a tool to help you reach your goal faster. If you mainly wish to sculpt your muscles, you need to rest long enough so that you recover most of your strength. On the other hand, you do not want to rest so much that your workout loses its intensity despite the heavier weight. If your goal is mainly to burn fat, do not rest much. Following are good between-set resting guidelines:
  - To tone up, 30 to 45 seconds of rest should suffice. 
  - To burn calories and fat, you should adopt a faster pace with only 10 to 20 seconds of rest between sets. As you progress, reduce this resting time to a bare minimum. 
@@ -146,7 +146,7 @@ Maintaining muscle gain is easier than acquiring it. If strength increases rapid
 #### How do you increase the intesity of your trainning? 
 - The most obvious are adding weight and increasing the number of repetitions. These techniques use the overload principle. Both are excellent ways to put more stress on the muscles, but they also place more tension on the joints and ligaments;
 
-### Techniques to increase the level of training intensity without traumatizing your joints:
+## Techniques to increase training intensity without traumatizing your joints:
 ##### Muscle Burn
 As your set progresses, your muscles feel as if they are burning. As you perform more and more repetitions, the intensity of this burn amplifies. This painful sensation is caused by the accumulation of waste known as lactic acid that gets trapped in the working muscles. The muscle burn pain is a signal that you are pushing your muscles past what they are accustomed to. As a result, they have to become stronger and more resistant, which also translates into increased muscle definition. Because it makes you uncomfortable, lactic acid may seem like an enemy. One goal of weight training is to turn this obstacle around and transform it into an opportunity for progression. Your main concern should be to learn how to generate and tolerate as much muscle burn as possible. Trying to achieve more muscle burn
 is a good alternative to handling heavier weight because it is safer on the joints
