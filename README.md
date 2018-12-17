@@ -178,7 +178,7 @@ Main BENEFITS: With antagonistic supersets, by moving quickly from one exercise 
      -   Preexhaustion exercises: Start with an isolating exercise. When you reach exhaustion, move on to a basic, multiple-joint exercise. For example, start training your buttocks with a machine such as the Butt Blaster. At failure, go directly to the squat or the lunge. 
 Main BENEFITS: With antagonistic supersets, by moving quickly from one exercise to another, you shape your muscles while increasing their endurance and burning more calories and fat.
 
-### Tips and Tricks SECTION
+## Tips and Tricks SECTION
 ###### Importance of the Warm-Up 
 You can sustain an injury even while performing a very safe exercise if you do not warm up sufficiently. This is especially true as you get stronger. As you begin to be able to handle heavier weights, the warm-up becomes more and more critical. When you are not very strong, the joints and the tendons do not need much warming up because the muscular tension required is not significant. As you gain strength, you will need to increase your warm-up time, because you will be subjecting yourmuscles to tension that more and more closely approaches their point of rupture.
 
@@ -197,7 +197,7 @@ all stretching exercises just because you have an unstable shoulder. You can sti
 ##### Joint Laxity During Menstruation 
 The risk of injury, especially of ligaments, is much greater in women than in men. For example, the incidence of tearing the cruciate ligaments of the knee is three times higher in female athletes than in their male counterparts. This vulnerability is largely due to a higher secretion of estrogen in women than in men. It is especially true during the preovulatory period. By the same token, hormonal fluctuations during this period cause increased flexibility in the muscles and tendons, suddenly rendering the joints less stable. Whenever you notice a sudden increase in joint laxity, stop stretching that joint. Also, reduce the amount of weight you are using on the exercises that mobilize that joint because the risk of injury has skyrocketed. Wait for stability to return to normal before resuming heavy training and stretching.
 
-### Breakdown of Cardio Versus Weight Training
+## Breakdown of Cardio Versus Weight Training
 Weight training and cardio (aerobic) training are two very different forms of exercise. Yet, they are very complementary. Medical researchers have shown that cardio training favors fat loss, whereas resistance training enhances lean muscle mass as well as strength. Furthermore, aerobic activity is most appropriate for improving endurance and cardiovascular health.
 The respective importance you should give to each form of training depends on your goals. Consider the following:
 >  - If your priority is to lose body fat, you should mainly perform cardio training. However, do not neglect resistance training to preserve your lean mass. It is best to spend two thirds of your time performing cardio exercises and only one third performing weight training.
