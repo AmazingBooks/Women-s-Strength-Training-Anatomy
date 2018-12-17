@@ -190,9 +190,9 @@ Women’s tendons are already much more flexible than men’s are. This is one r
 all stretching exercises just because you have an unstable shoulder. You can still stretch your hips, your lower back, your ankles, and other areas. Following a workout is the best time to stretch because a temporary reduction in muscle strength, if it occurs, will not be an issue. Ideally, you should stretch the muscles you have just worked because theywill be warm.
 
 ###### How to Stretch? 
-     - Static stretching: Static stretching consists of holding the stretch position for 10 to 30 seconds. The degree of stretch has to be modulated according to your level of flexibility. If you are not flexible, do not stretch too much or for too long. As your flexibility improves, you can intensify the degree of stretching. 
-     - Dynamic stretching: Dynamic stretching uses movement, often sportspecific movement, to achieve a stretch. Walking lunges, arm circles, and leg swings are examples of this type of stretch. 
-      - Ballistic stretching: Ballistic stretching combines small bursts of stretching with small recoils of muscle contractions. You can repeat this combination of small, back and forth movements for 10 to 30 seconds.
+  - Static stretching: Static stretching consists of holding the stretch position for 10 to 30 seconds. The degree of stretch has to be modulated according to your level of flexibility. If you are not flexible, do not stretch too much or for too long. As your flexibility improves, you can intensify the degree of stretching. 
+  - Dynamic stretching: Dynamic stretching uses movement, often sportspecific movement, to achieve a stretch. Walking lunges, arm circles, and leg swings are examples of this type of stretch. 
+  - Ballistic stretching: Ballistic stretching combines small bursts of stretching with small recoils of muscle contractions. You can repeat this combination of small, back and forth movements for 10 to 30 seconds.
 
 ##### Joint Laxity During Menstruation 
 The risk of injury, especially of ligaments, is much greater in women than in men. For example, the incidence of tearing the cruciate ligaments of the knee is three times higher in female athletes than in their male counterparts. This vulnerability is largely due to a higher secretion of estrogen in women than in men. It is especially true during the preovulatory period. By the same token, hormonal fluctuations during this period cause increased flexibility in the muscles and tendons, suddenly rendering the joints less stable. Whenever you notice a sudden increase in joint laxity, stop stretching that joint. Also, reduce the amount of weight you are using on the exercises that mobilize that joint because the risk of injury has skyrocketed. Wait for stability to return to normal before resuming heavy training and stretching.
@@ -200,7 +200,7 @@ The risk of injury, especially of ligaments, is much greater in women than in me
 ### Breakdown of Cardio Versus Weight Training
 Weight training and cardio (aerobic) training are two very different forms of exercise. Yet, they are very complementary. Medical researchers have shown that cardio training favors fat loss, whereas resistance training enhances lean muscle mass as well as strength. Furthermore, aerobic activity is most appropriate for improving endurance and cardiovascular health.
 The respective importance you should give to each form of training depends on your goals. Consider the following:
-> If your priority is to lose body fat, you should mainly perform cardio training. However, do not neglect resistance training to preserve your lean mass. It is best to spend two thirds of your time performing cardio exercises and only one third performing weight training.
-> If you mainly want to tone your body, devote two thirds of your time to weights and one third to cardio.
-> If you desire to tone up and lose fat at the same time, divide your training time equally between weights and cardio.
-> If you are too skinny, you can skip cardio as you attempt to gain as much muscle as possible.
+>  - If your priority is to lose body fat, you should mainly perform cardio training. However, do not neglect resistance training to preserve your lean mass. It is best to spend two thirds of your time performing cardio exercises and only one third performing weight training.
+>  - If you mainly want to tone your body, devote two thirds of your time to weights and one third to cardio.
+>  - If you desire to tone up and lose fat at the same time, divide your training time equally between weights and cardio.
+>  - If you are too skinny, you can skip cardio as you attempt to gain as much muscle as possible.
