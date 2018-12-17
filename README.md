@@ -146,7 +146,7 @@ Maintaining muscle gain is easier than acquiring it. If strength increases rapid
 #### How do you increase the intesity of your trainning? 
 - The most obvious are adding weight and increasing the number of repetitions. These techniques use the overload principle. Both are excellent ways to put more stress on the muscles, but they also place more tension on the joints and ligaments;
 
-#### Techniques which can be used to increase the level of training intensity without traumatizing your joints
+## Techniques which can be used to increase the level of training intensity without traumatizing your joints:
 ##### Muscle Burn
 As your set progresses, your muscles feel as if they are burning. As you perform more and more repetitions, the intensity of this burn amplifies. This painful sensation is caused by the accumulation of waste known as lactic acid that gets trapped in the working muscles. The muscle burn pain is a signal that you are pushing your muscles past what they are accustomed to. As a result, they have to become stronger and more resistant, which also translates into increased muscle definition. Because it makes you uncomfortable, lactic acid may seem like an enemy. One goal of weight training is to turn this obstacle around and transform it into an opportunity for progression. Your main concern should be to learn how to generate and tolerate as much muscle burn as possible. Trying to achieve more muscle burn
 is a good alternative to handling heavier weight because it is safer on the joints
