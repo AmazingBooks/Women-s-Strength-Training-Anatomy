@@ -142,3 +142,38 @@ Maintain the same training program for as long as you are making gains on it. On
 If you go on a vacation or feel as though you need a break, it is fine to stop training for one or two weeks. But remember that when you stop working out, you do not burn as many calories; if you do not watch your diet, you might accumulate fat easily.
 ## STEP 20 - Maintain Your Gains
 Maintaining muscle gain is easier than acquiring it. If strength increases rapidly as you first start training, its reduction occurs quickly if you stop working out for a while. Muscle shape is more resistant to a long rest period, which demonstrates that the reduction of strength is mainly due to a temporary weakening of the nervous signals. Your peak strength will return to its maximum within a couple weeks of training.
+
+#### How do you increase the intesity of your trainning? 
+- The most obvious are adding weight and increasing the number of repetitions. These techniques use the overload principle. Both are excellent ways to put more stress on the muscles, but they also place more tension on the joints and ligaments;
+
+### Technique which can be used to increase the level of training intensity without traumatizing your joints
+##### Muscle Burn
+As your set progresses, your muscles feel as if they are burning. As you perform more and more repetitions, the intensity of this burn amplifies. This painful sensation is caused by the accumulation of waste known as lactic acid that gets trapped in the working muscles. The muscle burn pain is a signal that you are pushing your muscles past what they are accustomed to. As a result, they have to become stronger and more resistant, which also translates into increased muscle definition. Because it makes you uncomfortable, lactic acid may seem like an enemy. One goal of weight training is to turn this obstacle around and transform it into an opportunity for progression. Your main concern should be to learn how to generate and tolerate as much muscle burn as possible. Trying to achieve more muscle burn
+is a good alternative to handling heavier weight because it is safer on the joints
+
+##### Continuous Tension
+Maintaining continuous tension in the muscle throughout the repetitions is a good way to increase difficulty without increasing weight. This requires that you not relax your muscles at any time during the exercise.
+
+##### Descending Sets
+Using descending sets allows you to continue a set once you have reached fatigue without having to cheat. 
+How does it works? - For example, imagine that you are performing some barbell curls with 30 pounds(13.6 kg). At failure, you remove 10 pounds (4.5 kg) and resume the curls for a few extra reps. If you wish to push your muscles extra hard, whenever you reachfailure again, strip down another 10 pounds (4.5 kg) and immediately start the exercise again. In general, you should not lighten the weights more than twice during a single set.
+
+##### Supersets
+A superset involves moving from one exercise to the next without taking any rest between movements. This technique allows you to work even more beyond failure than you can using descending sets. The two main forms are antagonistic supersets and supersets for the same muscles. 
+ -  Antagonistic Supersets 
+> Antagonistic supersets consist of doing an exercise for one muscle followed immediately by another exercise for the antagonistic  
+> muscle. For example, you start with a quadriceps exercise such as the leg extension and follow it with a hamstring exercise such as  
+> the leg curl. The goal here is to save time by not having to rest between sets. The muscles of the quadriceps recover while you train  > the hamstrings, and vice versa. 
+> Examples of the main antagonistic supersets:
+   - Crunch for the abs and hyperextension for the lower back
+   - Incline press for the chest and machine pull-down for the back
+   - Lateral raise for the shoulders and rowing for the back
+   - Biceps curl and pulley triceps extension
+Main BENEFITS: With antagonistic supersets, by moving quickly from one exercise to another, you shape your muscles while increasing their endurance and burning more calories and fat.
+ -  Supersets for the Same Muscle
+> A superset for the same muscle consists of doing an exercise for a muscle followed immediately by another exercise for the same 
+> muscle. The goal is to increase the time under tension and muscle burn.
+> You can choose your exercises for this type of superset based on one of the following rules:
+     -  Postexhaustion exercises: Start with a basic, multiple-joint exercise. When you reach exhaustion, move on to an isolating exercise. For example, the squats alone may not induce an intense muscle burn in the glutes, but by moving to the ButtBlaster, your glutes will soon be on fire.
+     -   Preexhaustion exercises: Start with an isolating exercise. When you reach exhaustion, move on to a basic, multiple-joint exercise. For example, start training your buttocks with a machine such as the Butt Blaster. At failure, go directly to the squat or the lunge. 
+Main BENEFITS: With antagonistic supersets, by moving quickly from one exercise to another, you shape your muscles while increasing their endurance and burning more calories and fat.
