@@ -204,3 +204,37 @@ The respective importance you should give to each form of training depends on yo
 >  - If you mainly want to tone your body, devote two thirds of your time to weights and one third to cardio.
 >  - If you desire to tone up and lose fat at the same time, divide your training time equally between weights and cardio.
 >  - If you are too skinny, you can skip cardio as you attempt to gain as much muscle as possible.
+
+#### Timing of Cardio Training
+Following are times to perform cardio training:
+  - First thing in the morning
+  - At night, before bedtime
+  - After and Before weight training
+You can also perform half your cardio before weight training as a warm-up and the other half at the end of the workout as a cool-down. Researchers have shown that cardio training involving the legs before a lower-body workout temporarily reduces leg strength. This does not occur when cardio is performed before an upper-body training session. The timing of your cardio training will be mainly dictated by your daily schedule, but it can also depend on the effects you wish to produce in your body. Fatty acid release from the adipose tissues is not constant throughout the day. It follows a natural circadian pattern of being higher in the evening and in the morning after fasting overnight and lower during the day. It makes sense to perform cardio whenever the release of lipids is elevated, because doing so facilitates utilization and fat destruction. This means that cardio would be most beneficial when performed either in the evening or first thing in the morning. 
+
+#### Timing of Eating With Cardio Training
+Cardio can be performed in the morning on an empty stomach to use more fat as fuel because your body is running low on glycogen (energy) after a night of fasting. Studies have shown that performing cardio in a fasted state is the best way to reduce abnormally high triglycerides and cholesterol levels. On the other hand, cardio in a fasted state is not very effective for addressing glycemia. Our conclusion is that if you are prone to diabetes, it is best to do cardio after your last meal of the day. Our conclusion is that if you are prone to diabetes, it is best to do cardio after your last meal of the day. 
+
+#### High-Intensity Versus Low-Intensity Cardio
+Following are the two main forms of cardio training:
+  - High-intensity cardio: The goal of high-intensity cardio is to run, cycle, or swim as fast as possible for around 20 minutes. The main advantage is that this burns a lot of calories in a minimal amount of time. Its main drawback is that while some of the
+energy comes from fat, most of it is derived from reserves of carbohydrate (glycogen inside the muscle). This is an inefficient way of losing fat; the best way is to burn fat rather than carbohydrate.
+  - Low-intensity cardio: The goal of low-intensity cardio is to run, cycle, or swim at a slower pace for at least 30 minutes. The main advantage is that it burns a lot of fat while sparing glycogen. Its main drawback is that it is more time-consuming because it burns fewer calories per minute.
+
+#### Cardio Training Methods
+In summary, running may be more beneficial than cycling to lose weight. However, running is much more traumatic for the knees, hips, and lower back. The treadmill is obviously less traumatic than classic running. Biomechanical studies have shown that to reduce the pressure on the knees and the hips, it is best to use slower, long strides rather than short, fast ones. A stair stepper is a great alternative to running, especially because it targets the glutes more than the treadmill does.
+
+#### Keeping a Workout Notebook
+It is important to keep a workout notebook so you can easily recall the number of repetitions you did for each exercise as well as the weight, or resistance, you used. Note the duration of your workouts as well. Time measurement is important because, if you rest longer between sets, your performance will improve, but it will not necessarily result in strength gains. To compare two workouts, you must
+ensure that they are of approximately the same duration.
+After each workout, examine your training session and ask yourself the following questions:
+  - What worked well?
+  - What did not work well? 
+  - Why did it not work well?
+  - How can I improve my next workout?
+
+How can you determine whether you really used the proper form in each exercise? An easy way is to film yourself. If possible, do so from a different angle at each successive set. It can be very surprising to see yourself train because the fluidity of the movement is not always what you imagine. Using this feedback, you can immediately self-correct and thereby improve your form. High-level athletes
+frequently use this strategy to enhance their techniques.
+
+#  PART II - Exercises
+  
