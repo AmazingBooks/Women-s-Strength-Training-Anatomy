@@ -1,6 +1,6 @@
 # Women-s-Strength-Training-Anatomy
 Part reference, part exercise, this books is a manual with helpful hints and facts. It includes beautiful drawings to guide you how to exercise your muscles and in which order. Overall this is a complete manual for someone looking to get health benefits and enhance their appearance as well.
-
+<!-- When you share your personal life with someone, expect to be judged! -->
 ## PART 1 - 20 Steps to Creating a Personalized Program
 > Creating your own program involves 20 steps, described below. They will give you the answers you need to start training with a program
 >that best matches your goals.
