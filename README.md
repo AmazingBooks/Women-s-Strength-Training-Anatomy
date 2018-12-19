@@ -241,3 +241,15 @@ frequently use this strategy to enhance their techniques.
  #### 1. How do you round your Glutes?
 There are plenty of body weight exercises for toning the glutes. they work wonders at first, but their main limitation is the lack of resistance they provide. After a while, as your muscles get stronger, these exercises become too easy. You may perform more and more repetitions, but this is not the best way to get fast results. You have to overload the glutes with constantly heavier weights
 to get them to respond. Because at first any repetition pattern provides results, it is best to remainbelow the 25-repetition range for toning. If you want rapid toning the best way to go is simply use the machines, beacuse they allow you to easily add resistance to really overload the glutes, which is the key to rapid results in muscle toning.
+Now to understand how the Glutes work let's find out about the Anatomy and Morphology of the GLUTES. 
+The glutes comprise three muscles:
+  - **Gluteus Maximus**, which is by far the biggest of the three glute muscles. It is also the most visible.
+  - **Gluteus Medius**, which is a small muscle that lies laterally above the gluteus maximus. It is visible from the side and the rear.
+  - **Gluteus Minimus**, which is a small muscle that lies laterally below the gluteus maximus. therefore, it is not visible at all.
+this section concentrates mainly on the gluteus maximus and a little on the gluteus medius.
+***How do you put your glutes to work?*** - When you walk slowly, they hardly work. But as soon as you accelerate and start running, the glutes are heavily recruited. So is time to put those trainning shoes on and start running :D!
+***How to improve your glutes contour?*** - Regular weight training will increase the size as well as the roundness and firmness of the glutes. It may also somewhat lift up the glutes, but this is far harder to achieve.
+To visualize what you are trying to achieve, consider a woman’s overall posture and appearance while wearing high heels; specif cally, the lower back is slightly arched and the glutes are more visible. By weight training your glutes properly, you can achieve the same effect without the high heels.
+
+
+  #### 2. How do you round your Glutes?
