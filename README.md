@@ -237,4 +237,7 @@ How can you determine whether you really used the proper form in each exercise? 
 frequently use this strategy to enhance their techniques.
 
 #  PART II - Exercises
-  
+### Now some of the must known Topics: 
+ #### 1. How do you round your Glutes?
+There are plenty of body weight exercises for toning the glutes. they work wonders at first, but their main limitation is the lack of resistance they provide. After a while, as your muscles get stronger, these exercises become too easy. You may perform more and more repetitions, but this is not the best way to get fast results. You have to overload the glutes with constantly heavier weights
+to get them to respond. Because at first any repetition pattern provides results, it is best to remainbelow the 25-repetition range for toning. If you want rapid toning the best way to go is simply use the machines, beacuse they allow you to easily add resistance to really overload the glutes, which is the key to rapid results in muscle toning.
