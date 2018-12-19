@@ -249,9 +249,9 @@ The glutes comprise three muscles:
 this section concentrates mainly on the gluteus maximus and a little on the gluteus medius.
 ![Glute Muscles](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/muscles.png)
 
-**How do you put your glutes to work?** - When you walk slowly, they hardly work. But as soon as you accelerate and start running, the glutes are heavily recruited. So is time to put those trainning shoes on and start running 😏.
+**How effciently trigger your Glutes?** - When you walk slowly, they hardly work. But as soon as you accelerate and start running, the glutes are heavily recruited. So is time to put those trainning shoes on and start running 😏.
 
-**How to improve your glutes contour?** - Regular weight training will increase the size as well as the roundness and firmness of the glutes. It may also somewhat lift up the glutes, but this is far harder to achieve.
+**How to improve your Glutes contour?** - Regular weight training will increase the size as well as the roundness and firmness of the glutes. It may also somewhat lift up the glutes, but this is far harder to achieve.
 To visualize what you are trying to achieve, consider a woman’s overall posture and appearance while wearing high heels; specif cally, the lower back is slightly arched and the glutes are more visible. By weight training your glutes properly, you can achieve the same effect without the high heels.
 
 ![](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/heels.png)
