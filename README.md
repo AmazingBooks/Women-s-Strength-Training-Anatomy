@@ -278,8 +278,17 @@ There are 4 main categories of Glutes exercises from which women can benefit:
   
 **Note**: squats, lunges, and deadlifts are also excellent exercises for the glutes.
 
-**Tip**: To better recruit the glutes while performing these exercises, squeeze your buttocks together tightly throughout the exercises.
+**Tips for efficient Glutes execises**: 
+ - **Squeeze those Buttocks** - To better recruit the glutes while performing these exercises, squeeze your buttocks together tightly throughout the exercises.
+ - **Warm Up the Glutes** - Always start with Warm up the Glutes by performing 20-30 easy repetitions of the following exercises using light weigths. Move from one exercise to the next without rest. If you do notfeel that one cycle was enough to warm you up, feel free to perform a second cycle.
+ The exercises for warm up are one round of the above:
+    - **Squats** -  perform 20 to 30 easy repetitions;
+    - **Stiff-leg deadlift** - perform 20 to 30 easy repetitions;
+    - **Calf raise** -  perform 20 to 30 easy repetitions;
 
-1. Hip Extension
+
+**1. Hip Extension**
+
+
  
  
