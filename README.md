@@ -275,9 +275,11 @@ There are 4 main categories of Glutes exercises from which women can benefit:
   2. Bridge
   3. One-leg Butt Press
   4. Lateral Hip Abduction
-**Note**: squats, lunges, and deadlifts are also excellent exercises for the glutes.
-**Tip**: To better recruit the glutes while performing these exercises, squeeze your buttocks together tightly throughout the exercises.
   
-  1. Hip Extension
+**Note**: squats, lunges, and deadlifts are also excellent exercises for the glutes.
+
+**Tip**: To better recruit the glutes while performing these exercises, squeeze your buttocks together tightly throughout the exercises.
+
+1. Hip Extension
  
  
