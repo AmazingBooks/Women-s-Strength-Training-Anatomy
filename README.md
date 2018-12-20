@@ -267,7 +267,7 @@ and progesterone favor the growth of fat cells, particularly in the lower body. 
 Is it possible to spot-reduce cellulite by specifically working the legs or the glutes? 
 For a long time, medical studies were not able to prove that fat could be specifically eliminated in trouble spots by stimulating the underlying muscles. Increasing the adipose tissue blood ﬂ ow enhances the local release of fat, whereas reduced blood ﬂ ow inside a fat deposit promotes its growth. therefore, working a muscle group frequently not only prevents local fat hypertrophy but also favors the topical release of fat. consequently, it is important to frequently contract the muscles located under the fat deposit you want to
 get rid of. 
-However, note that the magnitude of the local fat release is small. therefore, you will not see results in weeks, but rather, in months, unless you follow a low-calorie diet. If you wish to develop leaner legs, you can do either cycling or running. We do not recommend swimming or rowing except for overall fat loss.
+***However, note that the magnitude of the local fat release is small. Therefore, you will not see results in weeks, but rather, in months, unless you follow a low-calorie diet. If you wish to develop __Leaner Legs__, you can do either cycling or running. We do not recommend swimming or rowing except for overall fat loss.***
 
 **Glute exercises**
 There are 4 main categories of Glutes exercises from which women can benefit:
