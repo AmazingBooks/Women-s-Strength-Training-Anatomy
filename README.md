@@ -299,4 +299,13 @@ Starting with both feet together, lift one leg up as far back as possible using 
 
 ![Hips](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/hips.png)
  
- 
+**Pros**
+ - It is the easiest exercise to perform that directly targets the glute muscles.
+ - It can be performed at home without much equipment.
+
+**Cons**
+ - Once you have gained more experience in weight training, you may want to move on to more complete leg exercises such as the squat or deadlift.
+
+ **Tips**:
+ - To really work the gluteus maximus, do not pivot your leg toward the outside too much. It is OK for the leg to move slightly toward the outside, but do not exaggerate this abduction of the leg.
+ - Hip extension is limited by the iliofemoral ligament.
