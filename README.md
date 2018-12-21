@@ -263,6 +263,10 @@ To visualize what you are trying to achieve, consider a woman’s overall postur
  - Development begins in adolescence, when girls start to release more and more female hormones. Both estrogen
 and progesterone favor the growth of fat cells, particularly in the lower body. This fat proliferation impairs the microcirculation of blood in the lower body, which triggers localized inflammation. As a result of this blood flow restriction and inflammation, extra water is retained in the legs and bundles of collagen that give the skin its firmness become damaged. This looser skin explains theorange peel appearance of cellulite. Your genetic background also plays a major role in the localization of fat deposits around your glute area.
 
+![Cellulite](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/2018-12-20%2013_44_06-Window.png)
+
+![Cellulite](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/2018-12-20%2013_43_26-Window.png)
+
 ###### How can we get rid of Cellulite?
 Is it possible to spot-reduce cellulite by specifically working the legs or the glutes? 
 For a long time, medical studies were not able to prove that fat could be specifically eliminated in trouble spots by stimulating the underlying muscles. Increasing the adipose tissue blood ﬂ ow enhances the local release of fat, whereas reduced blood ﬂ ow inside a fat deposit promotes its growth. therefore, working a muscle group frequently not only prevents local fat hypertrophy but also favors the topical release of fat. consequently, it is important to frequently contract the muscles located under the fat deposit you want to
@@ -288,6 +292,10 @@ There are 4 main categories of Glutes exercises from which women can benefit:
 
 
 **1. Hip Extension**
+The hip extension belongs in the isolated, single-joint exercise category because only the hip joints are mobilized. Nevertheless, the hip extension recruits muscles in addition to the gluteus maximus: the hamstrings and the lower back. 
+
+**How to Do It**
+Starting with both feet together, lift one leg up as far back as possible using your Glutes. Hold the contracted position for one second while squeezing your buttocks together as tightly as possible. Return to the starting position and repeat. Once you have finished a set with one leg, move immediately to the other leg. To increase the range of motion, you can bring your leg forward until your thigh is about parallel with the ground and then straighten it to the back. The easiest way to perform the hip extension is standing because the range of motion is short and gravity results in little resistance being placed on the Gluteus Maximus.
 
 
  
