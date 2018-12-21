@@ -297,6 +297,6 @@ The hip extension belongs in the isolated, single-joint exercise category becaus
 **How to Do It**
 Starting with both feet together, lift one leg up as far back as possible using your Glutes. Hold the contracted position for one second while squeezing your buttocks together as tightly as possible. Return to the starting position and repeat. Once you have finished a set with one leg, move immediately to the other leg. To increase the range of motion, you can bring your leg forward until your thigh is about parallel with the ground and then straighten it to the back. The easiest way to perform the hip extension is standing because the range of motion is short and gravity results in little resistance being placed on the Gluteus Maximus.
 
-
+![Hips](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/hips.png)
  
  
