@@ -291,7 +291,7 @@ There are 4 main categories of Glutes exercises from which women can benefit:
     - **Calf raise** -  perform 20 to 30 easy repetitions;
 
 
-**1. Hip Extension**
+## 1. Hip Extension
 The hip extension belongs in the isolated, single-joint exercise category because only the hip joints are mobilized. Nevertheless, the hip extension recruits muscles in addition to the gluteus maximus: the hamstrings and the lower back. 
 
 **How to Do It**
@@ -309,3 +309,34 @@ Starting with both feet together, lift one leg up as far back as possible using 
  **Tips**:
  - To really work the gluteus maximus, do not pivot your leg toward the outside too much. It is OK for the leg to move slightly toward the outside, but do not exaggerate this abduction of the leg.
  - Hip extension is limited by the iliofemoral ligament.
+ - Free WeIghTS or MaChine? - machines render the movement more effective in terms of muscle toning by adding extra resistance, thereby increasing the difficulty of the movement.
+ 
+###### There are 4 tipes of Variations for Glutes: 
+   1. **Standing Variations** - some glute machines place extra resistance, either behind the knee or on the achilles tendon.
+   2. **Prone Variations** - By lying on the floor, you increase the resistance but decrease the range of motion.
+            - lie on your abdomen and support yourself on your forearms with a slight arch in your lower back.
+            - You can also perform a superman version in which you start prone with your legs out behind you and your arms straight ahead and raise your legs and arms simultaneously. This variation also works the lower back and the backs of the shoulders
+    3. **Kneeling Variations**(often called a donkey kick variation)- By kneeling, you increase both the resistance and the range of motion. Use an elastic band, an ankle cuff weight, or an ankle cable attachment to place extra weight on the glutes. For an added challenge, positioned on your hands and knees, simultaneously lift the opposing arm and leg. Instead of kneeling on the floor, you can place the rested knee on a bench to further increase the range of motion of the movement and therefore its difficulty.
+    4. **Machine Variations** - machines called Butt Blasters add extra resistance on the soles of yourfeet to render the exercise more intense and more effective. Note that there is a difference in the movement because the knee joint is mobilized.As a result, in addition to recruiting the glutes and the hamstrings, the quadriceps also come into play.
+    
+## 2. Bridge
+The bridge belongs in the basic, multiple-joint exercise category because the hip, knee, and ankle joints are mobilized. as a result, the bridge recruits muscles in addition to the glutes: the lumbar muscles and thighs.
+
+###### How to Do It
+Lie on your back with your knees bent at 90 degrees. place your arms by your sides. Using your shoulders as a pivot point, raise your torso by contracting your glutes as tightly as possible while pushing on your heels. hold the contracted position for one second before returning to the starting position. make sure you use constant tension by stopping each repetition short of touching the floor with your glutes.
+
+**Pros**
+ - It is a very easy exercise to perform to tone your whole legs, especially the glute muscles.
+ - It can be performed at home without much equipment.
+
+**Cons**
+ - You will progress very quickly, which will force you to find ways to render this exercise more challenging.
+
+ **Tips**:
+ - Place your hands on the sides of your glutes to better feel them working.
+ - To increase your range of motion, don’t arch your lower back too much.
+ - Keep your lower back really straight. If you overextend it, you may damage your discs.
+ - Look at the ceiling so that you do not damage your cervical spine.
+ - No machine can duplicate this body weight exercise. 
+ 
+ 
