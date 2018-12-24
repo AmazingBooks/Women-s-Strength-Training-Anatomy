@@ -348,4 +348,19 @@ When this exercise becomes too easy, you may render it more effective by doing a
  ![bridge-bench](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/bridge-bench.png)
  
 ## 3. One-Leg Butt Press
+The butt press recruits muscles in addition to the glutes: the lumbar muscles and thighs.
 
+**Pros**
+ - This exercise stretches your glutes like no others can. You will feel them contract immediately
+
+**Cons**
+ - You have to work one leg at a time, which makes this exercise more time-consuming than bilateral exercises.
+ - Because it is unilateral, this exercise places an uneven pressure on your lower back, which might exacerbate any existing pain or damage.
+
+ **Tips**:
+ - Do not arch your back too much as you straighten your leg in an attempt to get a more powerful contraction of the glutes. If your back is pain free, a little arching of the lower back is fine, but excessive arching can damage your discs.
+ - If you don’t have access to an assisted pull-up machine, you can perform a one-leg step up.
+ ![leg-press](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/leg-press.png)
+
+ 
+ ## 4. Lateral Hip Abduction
