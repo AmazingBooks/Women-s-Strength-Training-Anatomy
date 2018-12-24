@@ -339,4 +339,12 @@ Lie on your back with your knees bent at 90 degrees. place your arms by your sid
  - Look at the ceiling so that you do not damage your cervical spine.
  - No machine can duplicate this body weight exercise. 
  
+  **Variations**:
+When this exercise becomes too easy, you may render it more effective by doing any of the following:
+ - Add an extra load on your body by placing a weight on the lower part of your abdomen.
+ - Place your calves or feet on a bench or chair to achieve a greater range of motion requiring a more powerful muscle contraction.
+ - Lift one leg.
  
+ 
+## 3. One-Leg Butt Press
+
