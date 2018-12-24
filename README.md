@@ -344,7 +344,8 @@ When this exercise becomes too easy, you may render it more effective by doing a
  - Add an extra load on your body by placing a weight on the lower part of your abdomen.
  - Place your calves or feet on a bench or chair to achieve a greater range of motion requiring a more powerful muscle contraction.
  - Lift one leg.
- 
+ ![bridge-leg](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/bridge-leg.png)
+ ![bridge-bench](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/bridge-bench.png)
  
 ## 3. One-Leg Butt Press
 
