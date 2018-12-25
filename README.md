@@ -364,3 +364,26 @@ The butt press recruits muscles in addition to the glutes: the lumbar muscles an
 
  
  ## 4. Lateral Hip Abduction
+In case you want to have rounder Glutes this is the exercise for you.The lateral hip abduction does not recruit muscles other than its primary targets: the gluteus medius and the gluteus minimus.
+
+**How to Do It**
+Lie on your side with your bottom hand either flat on the floor or supporting your head and your top hand resting on the floor. By contracting your glutes, raise your leg as high as possible. Hold this contraction for a count of 2 before lowering your leg. Make sure you use constant tension by stopping each repetition short of your legs touching each other. Keep your body, especially your legs, straight at all times throughout the exercise. By lying laterally on the floor, you increase the resistance but decrease the
+range of motion. The working leg can be either kept straight (harder version) or bent (easier version).
+
+**Pros**
+ - Studies have shown that the lateral hip abduction is the best exercise to target the gluteus medius, the toning of which provides a rounder appearance to your glutes.
+
+**Cons**
+ - This exercise works only a tiny portion of the glutes. as a result, it should make up only a small fraction of your glute workout.
+ - When performed in a unilateral fashion, this exercise might place an uneven pressure on your lower back, which could exacerbate
+any existing pain.
+ - Arching your back allows a greater range of motion, but this is dangerous for your lower back.
+
+ **Tips**:
+ - If your knees shake laterally during squats or lunges, your abductor muscles are too weak. abductor exercises will correct this problem and therefore better protect your knees.
+ - Using your free hand to touch the part of your glutes you want to develop enhances your brain–muscle connection. This simple maneuver
+enables you to feel your working muscles more, rendering the exercise more effective.
+ - You can elevate your leg laterally only so far. Some women have a greater range of motion than others. this is not due to greater flexibility,but rather to the shape of their bones. 
+ 
+**Standing Variations**
+The easiest way to perform the lateral hip abduction is standing because the range of motion is short and gravity results in little resistance placed on the gluteus medius. 
