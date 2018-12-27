@@ -387,7 +387,7 @@ enables you to feel your working muscles more, rendering the exercise more effec
  
 **Standing Variations**
 The easiest way to perform the lateral hip abduction is standing because the range of motion is short and gravity results in little resistance placed on the gluteus medius. 
-![standing](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/standing.png)
+![standing-hip](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/standing-hip.png)
 
 **Kneeling Variation**
 By kneeling, you increase both the resistance and the range of motion. In the kneeling version, you have to bend your leg to move it up laterally.
