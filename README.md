@@ -387,3 +387,19 @@ enables you to feel your working muscles more, rendering the exercise more effec
  
 **Standing Variations**
 The easiest way to perform the lateral hip abduction is standing because the range of motion is short and gravity results in little resistance placed on the gluteus medius. 
+![standing](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/bridge-bench.png)
+
+**Kneeling Variation**
+By kneeling, you increase both the resistance and the range of motion. In the kneeling version, you have to bend your leg to move it up laterally.
+![kneeling](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/bridge-bench.png)
+
+**Machine Variations**
+Two kinds of machines are available to increase the resistance on your legs and make the exercise more effective.
+  1. Seated, allows you to work both legs simultaneously. By bending forward or backward on the seated machine, you can shift the area of the glutes that experiences the majority of the contraction. By bending backward, you favor the recruitment of the upper area of the external part of the glutes. By bending forward, you favor the recruitment of the middle area of the external part of the glutes.
+![seated](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/bridge-bench.png)
+
+  2. Standing position - Some standing machines allow you to train both legs at a time; whereas others, only one. In both versions, the movement is the same as that of the other variations.
+ 
+**Free Weights or MachIne?**
+All of the lateral hip abduction variations are relatively similar. Their main differences relate only to the degree of resistance placed on the glute muscles and to the range of motion of the movement. ankle cuffs, elastic bands, and machines render the movement more effective in terms of muscle toning by adding extra resistance, thereby increasing the difficulty of the movement. 
+
