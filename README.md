@@ -387,16 +387,16 @@ enables you to feel your working muscles more, rendering the exercise more effec
  
 **Standing Variations**
 The easiest way to perform the lateral hip abduction is standing because the range of motion is short and gravity results in little resistance placed on the gluteus medius. 
-![standing](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/bridge-bench.png)
+![standing](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/standing.png)
 
 **Kneeling Variation**
 By kneeling, you increase both the resistance and the range of motion. In the kneeling version, you have to bend your leg to move it up laterally.
-![kneeling](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/bridge-bench.png)
+![kneeling](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/kneeling.png)
 
 **Machine Variations**
 Two kinds of machines are available to increase the resistance on your legs and make the exercise more effective.
   1. Seated, allows you to work both legs simultaneously. By bending forward or backward on the seated machine, you can shift the area of the glutes that experiences the majority of the contraction. By bending backward, you favor the recruitment of the upper area of the external part of the glutes. By bending forward, you favor the recruitment of the middle area of the external part of the glutes.
-![seated](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/bridge-bench.png)
+![seated](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/seated.png)
 
   2. Standing position - Some standing machines allow you to train both legs at a time; whereas others, only one. In both versions, the movement is the same as that of the other variations.
  
