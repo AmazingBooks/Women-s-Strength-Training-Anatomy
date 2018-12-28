@@ -404,7 +404,7 @@ Two kinds of machines are available to increase the resistance on your legs and 
 All of the lateral hip abduction variations are relatively similar. Their main differences relate only to the degree of resistance placed on the glute muscles and to the range of motion of the movement. ankle cuffs, elastic bands, and machines render the movement more effective in terms of muscle toning by adding extra resistance, thereby increasing the difficulty of the movement. 
 
 
-## Tone Your Quadriceps
+# Tone Your Quadriceps
 
 **Anatomy and Morphology**:
 
@@ -418,15 +418,28 @@ As its name implies, the quadriceps contain four muscles:
 
 The main issue for women is defining how big (or small) they want their quadriceps to be. The answer is far from universal, and culture can influence preferences. In Brazil, for example, many women desire huge glutes and quadriceps. In Europe, the goal is more often to maintain thin legs. Women in the United States are more in the middle; many desire some toning to create athletic legs. Of course, these are generalizations and are not true of all women in these societies. The size of the quadriceps is a matter of taste for each woman. Most do not want to be able to see each muscle that makes up the quadriceps, because such defnition is considered a very manly feature. Therefore, you likely do want to keep some fat on your legs to hide the muscular defnition of the quadriceps.  If training the quadriceps is secondary to glute training for you, you will be happy to know that most of the basic quadriceps exercises also recruit the glutes and hamstrings.
 
-**Quadriceps Exercises**
-There are four main categories of exercises for the quadriceps from which women can benefit:
+**Quadriceps Exercises** - There are four main categories of exercises for the quadriceps from which women can benefit:
   1. Squat
   2. Leg press
   3. Lunge
   4. Leg extension
-  
-  
+ 
+## Squat
 
+**How to Do It**
+Stand with your feet about shoulder-width apart, and place a barbell on your upper back. Keeping your back arched very slightly backward, bend your legs just until your torso starts to really bend forward. When this happens, thigh involvement lessens and the lumbar muscles begin to do the majority of the work. When you have reached your low position, push down through your heels
+to straighten your legs. Once you are upright, perform another repetition.
+
+**Pros**
+ - The whole lower-body and part of the upper-body muscles are recruited, which makes the squat one of the most complete exercises.
+
+**Cons**
+ - The squat is a very difficult exercise to perform and requires athletic skills a beginner may not have.
+ - Because this exercise is exhausting, it carries some risk for the knees and back. Hanging at a pull-up bar to stretch your spine after your workout is advised, as it is with every workout.
+
+ **Tips**:
+ - Whenever you use a barbell, do not place it on your neck because doing so is likely to hurt your spine. Place the bar below your neck, roughly at your rear shoulder level. If the bar hurts, put a towel around it to make it more comfortable.
+![squats-bar](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/squats-bar.png)
 
 
 
