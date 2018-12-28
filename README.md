@@ -419,12 +419,12 @@ As its name implies, the quadriceps contain four muscles:
 The main issue for women is defining how big (or small) they want their quadriceps to be. The answer is far from universal, and culture can influence preferences. In Brazil, for example, many women desire huge glutes and quadriceps. In Europe, the goal is more often to maintain thin legs. Women in the United States are more in the middle; many desire some toning to create athletic legs. Of course, these are generalizations and are not true of all women in these societies. The size of the quadriceps is a matter of taste for each woman. Most do not want to be able to see each muscle that makes up the quadriceps, because such defnition is considered a very manly feature. Therefore, you likely do want to keep some fat on your legs to hide the muscular defnition of the quadriceps.  If training the quadriceps is secondary to glute training for you, you will be happy to know that most of the basic quadriceps exercises also recruit the glutes and hamstrings.
 
 **Quadriceps Exercises** - There are four main categories of exercises for the quadriceps from which women can benefit:
-  1. Squat
+  1. Squats
   2. Leg press
   3. Lunge
   4. Leg extension
  
-## Squat
+## 1. Squats
 
 **How to Do It**
 Stand with your feet about shoulder-width apart, and place a barbell on your upper back. Keeping your back arched very slightly backward, bend your legs just until your torso starts to really bend forward. When this happens, thigh involvement lessens and the lumbar muscles begin to do the majority of the work. When you have reached your low position, push down through your heels
@@ -441,6 +441,24 @@ to straighten your legs. Once you are upright, perform another repetition.
  - Whenever you use a barbell, do not place it on your neck because doing so is likely to hurt your spine. Place the bar below your neck, roughly at your rear shoulder level. If the bar hurts, put a towel around it to make it more comfortable.
 ![squats-bar](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/squats-bar.png)
 
+ - In order to increase the muscular intensity of the squat, use a continuous tension technique. This means that instead of allowing your leg muscles to rest at the top of the movement by completely straightening your legs, you stop your squat short and don’t straighten your legs completely. perform as many repetitions as possible using continuous tension. When the burn becomes unbearable, straighten your legs at the top of the movement in order to give your muscles a short rest, which will allow you to perform a few extra reps.
+ 
+ - Placing a thin board of wood or a weight plate under your heels will make it easier to keep your back straight as you go down. This trick is particularly helpful if you have long femurs or inflexible ankles.
+ 
+ ![squats-board](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/squats-board.png)
+ 
+ - In order to protect your spine from excessive damaging pressure, as your muscles grow stronger, we recommend that you don’t perform
+both squats and deadlifts during the same workout. As you advance in your training, center your leg workouts around squats and save the deadlifts for your back workouts.
+   - Don't look down or to the side when performing a squat. rather, look in front of you and slightly up to avoid damaging your neck.
+   - Rounding your back, especially at the end of a set when your muscles are tired, is much easier than keeping your back straight, but this rounded position increases the risk of damaging your lumbar discs.
+   
+   ![round-back](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/round-back.png)
 
+### Squats and the importance of Stance Width
+Varying the width of your feet during the squat can change the muscles targeted. Keeping them at about shoulder width and slightly turned out results in the __muscles of the entire thigh doing equal work__. When you narrow your stance, __the focus is on the quadriceps__, and __the knee joints__ experience greater pressure. Adopting a very **wide stance** works the __inner thighs, hamstrings,
+and glutes__. As with all variations, choose the one that feels most natural to you at first. Later, you can adopt a position that targets particular muscular zones.
+ ![stance](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/stance.png)
+ ![power-squat](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/power-squat.png)
+ 
 
 
