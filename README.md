@@ -458,7 +458,7 @@ both squats and deadlifts during the same workout. As you advance in your traini
 Varying the width of your feet during the squat can change the muscles targeted. Keeping them at about shoulder width and slightly turned out results in the __muscles of the entire thigh doing equal work__. When you narrow your stance, __the focus is on the quadriceps__, and __the knee joints__ experience greater pressure. Adopting a very **wide stance** works the __inner thighs, hamstrings,
 and glutes__. As with all variations, choose the one that feels most natural to you at first. Later, you can adopt a position that targets particular muscular zones.
  ![Stance](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/stance.png)
- ![Powesquat](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/powesquat.png)
+ ![Powersquat](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/powesquat.png)
  
 
 
