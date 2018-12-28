@@ -400,6 +400,34 @@ Two kinds of machines are available to increase the resistance on your legs and 
 
   2. Standing position - Some standing machines allow you to train both legs at a time; whereas others, only one. In both versions, the movement is the same as that of the other variations.
  
-**Free Weights or MachIne?**
+**Free Weights or Machine?**
 All of the lateral hip abduction variations are relatively similar. Their main differences relate only to the degree of resistance placed on the glute muscles and to the range of motion of the movement. ankle cuffs, elastic bands, and machines render the movement more effective in terms of muscle toning by adding extra resistance, thereby increasing the difficulty of the movement. 
+
+
+## Tone Your Quadriceps
+
+**Anatomy and Morphology**:
+
+As its name implies, the quadriceps contain four muscles:
+  1. The vastus lateralis, on the outside of the thigh;
+  2. The rectus femoris, in the center;  
+  3. The vastus medialis, on the inside of the thigh;
+  4. The vastus intermedius, which is mostly covered by the other three muscles;
+  
+![Quadriceps](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/quadriceps.png)
+
+The main issue for women is defining how big (or small) they want their quadriceps to be. The answer is far from universal, and culture can influence preferences. In Brazil, for example, many women desire huge glutes and quadriceps. In Europe, the goal is more often to maintain thin legs. Women in the United States are more in the middle; many desire some toning to create athletic legs. Of course, these are generalizations and are not true of all women in these societies. The size of the quadriceps is a matter of taste for each woman. Most do not want to be able to see each muscle that makes up the quadriceps, because such defnition is considered a very manly feature. Therefore, you likely do want to keep some fat on your legs to hide the muscular defnition of the quadriceps.  If training the quadriceps is secondary to glute training for you, you will be happy to know that most of the basic quadriceps exercises also recruit the glutes and hamstrings.
+
+**Quadriceps Exercises**
+There are four main categories of exercises for the quadriceps from which women can benefit:
+  1. Squat
+  2. Leg press
+  3. Lunge
+  4. Leg extension
+  
+  
+
+
+
+
 
