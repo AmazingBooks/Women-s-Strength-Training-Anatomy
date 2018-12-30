@@ -464,7 +464,46 @@ and glutes__. As with all variations, choose the one that feels most natural to 
 The easiest squat version is the free squat, in which you use only your own body weight. You can practice this exercise at home to tone up your legs without having to go to the gym. The main problem is that body weight squats rapidly become too easy because of the lack of resistance. Choose the arm position(with arms crossed in front or down at the sides) that feels the mostcomfortable and secure for you; arm position does not alter the recruitment of the leg muscles. Alternatively, you can do one-leg squats, which are much harder than
 regular squats and do not put pressure on the spine. If this variation is new to you, make sure you control the degree of descent, because the maximal range of motion of the one-leg squat can be much greater than that of the regular squat. going as deep as possible may result in profound muscular soreness after your workout. Therefore, increase your range of motion gradually over several workouts.
 
+
 ### Squat Depth
 The deeper you lower the weight, the more intense the squat becomes, because as you increase your range of motion, you are not recruiting only your quadriceps. Your hamstrings and especially your buttocks are going to be heavily recruited, as well. So, it seems to be a good idea to squat deep. From a muscular stand point, this is correct. But this is also where your morphology will come into play. The taller you are, the more you will have to bend your torso forward in order to keep your equilibrium as you squat down. In this position, the risk of spinal injury increases dramatically. Many people claim that bending the torso forward during a squat is bad
 technique. But morphologically, if you have long quadriceps and a shorter torso, it is mechanically impossible to keep your back straight as you go down in squats. You must bend forward to keep your balance. This is why it is easier to keep your back straight using a Smith machine because there is no balance issue! If you find that you have to bend forward to a dangerous level in free squats, you would be wise to find an alternative to this exercise rather than waste hours trying to master a technique that you cannot perform morphologically.
-  
+![free-squat](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/free-squat.png)
+
+### Dumbbell Variations
+ - When you grab one dumbbell between your legs, your thighs have towork harder, rendering the squat more effective. as an alternative, you can use a strong elastic band or squat on one leg only.
+- Grabbing two dumbbells adds even more resistance. The main advantage of dumbbells over a barbell is that they make it easier to keep your back straight and to keep your balance. however, as you grow stronger, dumbbells will not offer the resistance required to progress even more. This is when graduating to a long bar is required. By then, you should be able to keep your balance despite the overload placed on your legs. 
+
+![dumbell](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/dumbell.png)
+
+![dumbell-1](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/dumbell-1.png)
+
+### Resistance Band Variation
+An elastic band can replace dumbbells. The main advantage of the resistance band is that it provides a variable resistance that suits your muscular strength exactly. At the bottom of the movement, where your muscles are weaker, the band offers less resistance. as you straighten your legs and your muscles get stronger, the band gets pulled and therefore offers more resistance.
+
+![resistance-band](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/resistance-band.png)
+
+
+### Front squat Variation
+ - The front squat allows you to keep your back straighter than you can with the classic back squat. Doing the front squat variation it shifts the muscular recruitment from the glutes to the quadriceps, which may not be your goal if your main focus is glute development. Furthermore, carrying the bar on the front shoulders will feel very uncomfortable for many women. Moreover, mastering proper front squat technique is difficult. Without it, you will be very prone to losing your balance. as a result of these problems, the front squat is not a top leg exercise for most women.
+
+![front-squat](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/front-squat.png)
+
+### Smith Machine Variation
+Smith machines can be a good substitute for free-weight squats because the guidance they offer reduces the likelihood of accident due to a loss of balance. On a Smith machine you can place your feet forward, which allows you to keep your back very straight. In that position, you are recruiting your glutes while sparing your spine and your knees. Because of the stability of the Smith machine, you can easily keep your balance. Therefore, it is an excellent substitute for free squats, especially for beginners.
+
+![Smith Machine](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/smith.png)
+
+The Smith machine also allows you to adopt just about every foot position you wish to better target the areas of your lower body you
+want. Following are foot positions and the muscles they tend to recruit:
+
+![Smith Machine Variations](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/smith-1.png)
+
+> FREE WEIGHTS or MACHINE?
+> There are plenty of squat machines. Their main advantage is that they are less hazardous than the free squat because you have no
+> degree of freedom in terms of the trajectory of the movement. Therefore, it is much harder to lose your balance. This is especially   > important for beginners with no athletic background.
+
+
+## 2. Leg Press
+
+
