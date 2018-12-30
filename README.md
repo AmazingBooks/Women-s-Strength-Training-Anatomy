@@ -464,11 +464,14 @@ and glutes__. As with all variations, choose the one that feels most natural to 
 The easiest squat version is the free squat, in which you use only your own body weight. You can practice this exercise at home to tone up your legs without having to go to the gym. The main problem is that body weight squats rapidly become too easy because of the lack of resistance. Choose the arm position(with arms crossed in front or down at the sides) that feels the mostcomfortable and secure for you; arm position does not alter the recruitment of the leg muscles. Alternatively, you can do one-leg squats, which are much harder than
 regular squats and do not put pressure on the spine. If this variation is new to you, make sure you control the degree of descent, because the maximal range of motion of the one-leg squat can be much greater than that of the regular squat. going as deep as possible may result in profound muscular soreness after your workout. Therefore, increase your range of motion gradually over several workouts.
 
+![free-squat](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/free-squat.png)
 
 ### Squat Depth
 The deeper you lower the weight, the more intense the squat becomes, because as you increase your range of motion, you are not recruiting only your quadriceps. Your hamstrings and especially your buttocks are going to be heavily recruited, as well. So, it seems to be a good idea to squat deep. From a muscular stand point, this is correct. But this is also where your morphology will come into play. The taller you are, the more you will have to bend your torso forward in order to keep your equilibrium as you squat down. In this position, the risk of spinal injury increases dramatically. Many people claim that bending the torso forward during a squat is bad
 technique. But morphologically, if you have long quadriceps and a shorter torso, it is mechanically impossible to keep your back straight as you go down in squats. You must bend forward to keep your balance. This is why it is easier to keep your back straight using a Smith machine because there is no balance issue! If you find that you have to bend forward to a dangerous level in free squats, you would be wise to find an alternative to this exercise rather than waste hours trying to master a technique that you cannot perform morphologically.
-![free-squat](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/free-squat.png)
+
+![deep](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/deep.png)
+
 
 ### Dumbbell Variations
  - When you grab one dumbbell between your legs, your thighs have towork harder, rendering the squat more effective. as an alternative, you can use a strong elastic band or squat on one leg only.
