@@ -520,7 +520,7 @@ Sit in the machine with your feet about shoulder-width apart on the foot platfor
   - Some leg presses are poorly designed, and even a very good leg press machine may not suit your morphology.
   - The leg press may seem to be totally safe for the lower back. It is not! Although it is much safer than the squat, your spine will receive a great deal of pressure especially if you use an ample range of motion.
 
-![Leg Press](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/legpress.png)
+![Leg Press](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/leg-press.png)
   
  **Tips**
   - The wider your stance or greater your step is, the more your glutes and hamstrings have to work. Leaning your torso forward a little has the same effect.
@@ -536,7 +536,7 @@ Sit in the machine with your feet about shoulder-width apart on the foot platfor
   c. Together: quadriceps
   d. Wide apart: adductors
 
-![Leg Press Position](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/leppress-pos.png)
+![Leg Press Position](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/legpress-pos.png)
 
 ## Lunge
 The lunge belongs in the basic, multiple-joint exercise category because the hip, knee, and ankle joints are mobilized. as a result, the lunge recruits muscles in addition to the quadriceps: the glutes, hamstrings, and calves.
