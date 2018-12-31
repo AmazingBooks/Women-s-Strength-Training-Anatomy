@@ -516,7 +516,7 @@ Sit in the machine with your feet about shoulder-width apart on the foot platfor
 **Pro**
   - Because the movement is guided and the lower back is well supported, the leg press is one of the safest lower-body exercises.
   
-**Con**
+**Cons**
   - Some leg presses are poorly designed, and even a very good leg press machine may not suit your morphology.
   - The leg press may seem to be totally safe for the lower back. It is not! Although it is much safer than the squat, your spine will receive a great deal of pressure especially if you use an ample range of motion.
 
@@ -531,12 +531,34 @@ Sit in the machine with your feet about shoulder-width apart on the foot platfor
   1. **Varying level of descent** -  The lower you go, the more difficult the press becomes because it recruits a growing number of muscle groups. However, the level of descent must take into account not only the muscles you want to focus on but also your morphology. The longer your legs are, particularly your thighs, the more dangerous it is for your lower back and your knees if you go very low. An unfavorable leg-to-torso ratio will result in your having to lift your buttocks off the seat to keep lowering the foot platform, which increases the tension on your spine.
   2. **Varying foot placement** - You can adopt just about any foot position you wish to better target the muscle group you want. Following are foot placements and the muscles they recruit:
   
-  - High on the platform: glutes and hamstrings (spares the knees)
-  - Low on the platform: quadriceps (this position is tougher on the knees)
-  - Together: quadriceps
-  - Wide apart: adductors
+  a. High on the platform: glutes and hamstrings (spares the knees)
+  b. Low on the platform: quadriceps (this position is tougher on the knees)
+  c. Together: quadriceps
+  d. Wide apart: adductors
 
 ![Leg Press Position](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/leppress-pos.png)
 
 ## Lunge
-From a starting position with your feet together and both legs straight, take a step forward with your right leg. At first, go down about 8 to 10 inches (about 20 cm). Once you reach the bottom position, push back up with the right leg. Don’t straighten the right leg completely; keeping a slight bend maintains constant tension in the muscles. After completing a set with the right leg, move on to the left leg with minimal rest. Beginners can bend the rear leg if they lack flexibility. As you get used to this exercise, little by little, your muscles will get more flexible. You will find the lunges more challenging by gradually keeping the rear leg straighter and straighter.
+The lunge belongs in the basic, multiple-joint exercise category because the hip, knee, and ankle joints are mobilized. as a result, the lunge recruits muscles in addition to the quadriceps: the glutes, hamstrings, and calves.
+
+**How to Do It**
+From a starting position with your feet together and both legs straight, take a step forward with your right leg. At first, go down about 8 to 10 inches (about 20 cm). As you get stronger, you will be able to use a greater range of motion to make the exercise more difficult. Once you reach the bottom position, push back up with the right leg. Don’t straighten the right leg completely; keeping a slight bend maintains constant tension in the muscles. after completing a set with the right leg, move on to the left leg with minimal rest. 
+![Lunges](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/lunges.png)
+
+**Pro**
+  - Lunges are both a muscle builder and an excellent stretching movement.
+  - If you had to select only one leg exercise, it should be lunges; they recruit the quadriceps, hamstrings, and buttocks.
+  - Very little equipment is required to perform lunges.
+  - Body weight lunges will provide very little lower back stress. Even weighted lunges are far safer for the spine than squats.
+  
+**Con**
+  - Working one leg at a time can be time-consuming.
+  - The farther or more heavily you step, the more stress your kneecap will receive.
+ 
+**Tips**
+  - Rest your free hand (if you have one) on the muscle you want to isolate (glutes or quadriceps) to better feel the muscle contracting.
+  - The wider your stance or greater your step is, the more your glutes and hamstrings have to work. Leaning your torso forward a little has the same effect.
+  
+![Lunges](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/lunges-1.png)
+
+
