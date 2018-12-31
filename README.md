@@ -519,12 +519,24 @@ Sit in the machine with your feet about shoulder-width apart on the foot platfor
 **Con**
   - Some leg presses are poorly designed, and even a very good leg press machine may not suit your morphology.
   - The leg press may seem to be totally safe for the lower back. It is not! Although it is much safer than the squat, your spine will receive a great deal of pressure especially if you use an ample range of motion.
+
+![Leg Press](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/legpress.png)
   
  **Tips**
-  - The more you straighten your legs, the more you lose muscular tension. To remedy this problem, avoid fully straightening your legs at the top of the press so that you maintain continuous tension. The exercise becomes much more difficult when you do this because the muscles can no longer rest at the top. You can begin the exercise without straightening your legs. At failure, straighten them a little more so that you can rest somewhat and do a few more repetitions.
-  
-![Leg Press](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/legpress.png)
+  - The wider your stance or greater your step is, the more your glutes and hamstrings have to work. Leaning your torso forward a little has the same effect.
+  - Lifting your low back off the seat increases the range of motion of the exercise and enhances the recruitment of your glutes. however, although this may seem like a great idea, it will endanger your lower back. So, we do not recommend it.
 
+
+**Variations**
+  1. **Varying level of descent** -  The lower you go, the more difficult the press becomes because it recruits a growing number of muscle groups. However, the level of descent must take into account not only the muscles you want to focus on but also your morphology. The longer your legs are, particularly your thighs, the more dangerous it is for your lower back and your knees if you go very low. An unfavorable leg-to-torso ratio will result in your having to lift your buttocks off the seat to keep lowering the foot platform, which increases the tension on your spine.
+  2. **Varying foot placement** - You can adopt just about any foot position you wish to better target the muscle group you want. Following are foot placements and the muscles they recruit:
+  
+  - High on the platform: glutes and hamstrings (spares the knees)
+  - Low on the platform: quadriceps (this position is tougher on the knees)
+  - Together: quadriceps
+  - Wide apart: adductors
+
+![Leg Press Position](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/leppress-pos.png)
 
 ## Lunge
 From a starting position with your feet together and both legs straight, take a step forward with your right leg. At first, go down about 8 to 10 inches (about 20 cm). Once you reach the bottom position, push back up with the right leg. Don’t straighten the right leg completely; keeping a slight bend maintains constant tension in the muscles. After completing a set with the right leg, move on to the left leg with minimal rest. Beginners can bend the rear leg if they lack flexibility. As you get used to this exercise, little by little, your muscles will get more flexible. You will find the lunges more challenging by gradually keeping the rear leg straighter and straighter.
