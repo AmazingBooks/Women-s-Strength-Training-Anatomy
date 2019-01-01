@@ -520,7 +520,7 @@ Sit in the machine with your feet about shoulder-width apart on the foot platfor
   - Some leg presses are poorly designed, and even a very good leg press machine may not suit your morphology.
   - The leg press may seem to be totally safe for the lower back. It is not! Although it is much safer than the squat, your spine will receive a great deal of pressure especially if you use an ample range of motion.
 
-![Leg Press](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/legpress.png)
+![Leg Press](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/leg-press.png)
   
  **Tips**
   - The wider your stance or greater your step is, the more your glutes and hamstrings have to work. Leaning your torso forward a little has the same effect.
@@ -536,7 +536,7 @@ Sit in the machine with your feet about shoulder-width apart on the foot platfor
   c. Together: quadriceps
   d. Wide apart: adductors
 
-![Leg Press Position](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/leppress-pos.png)
+![Leg Press Position](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/legpress-pos.png)
 
 ## Lunge
 The lunge belongs in the basic, multiple-joint exercise category because the hip, knee, and ankle joints are mobilized. as a result, the lunge recruits muscles in addition to the quadriceps: the glutes, hamstrings, and calves.
@@ -545,13 +545,13 @@ The lunge belongs in the basic, multiple-joint exercise category because the hip
 From a starting position with your feet together and both legs straight, take a step forward with your right leg. At first, go down about 8 to 10 inches (about 20 cm). As you get stronger, you will be able to use a greater range of motion to make the exercise more difficult. Once you reach the bottom position, push back up with the right leg. Don’t straighten the right leg completely; keeping a slight bend maintains constant tension in the muscles. after completing a set with the right leg, move on to the left leg with minimal rest. 
 ![Lunges](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/lunges.png)
 
-**Pro**
+**Pros**
   - Lunges are both a muscle builder and an excellent stretching movement.
   - If you had to select only one leg exercise, it should be lunges; they recruit the quadriceps, hamstrings, and buttocks.
   - Very little equipment is required to perform lunges.
   - Body weight lunges will provide very little lower back stress. Even weighted lunges are far safer for the spine than squats.
   
-**Con**
+**Cons**
   - Working one leg at a time can be time-consuming.
   - The farther or more heavily you step, the more stress your kneecap will receive.
  
@@ -561,4 +561,78 @@ From a starting position with your feet together and both legs straight, take a 
   
 ![Lunges](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/lunges-1.png)
 
+## 3. Leg Extension
+The leg extension belongs in the isolated, single-joint exercise category because only the knee joint is mobilized. as a consequence, the leg extension does not recruit many of the muscle groups surrounding the quadriceps. Leg extensions are often used to warm up the knees at the beginning of a leg workout.
 
+**How to Do It**
+Sit in a leg extension machine and position your feet under the padded frame. Using your quadriceps, straighten your legs. Keep the contracted position for at least one second before bending your legs and repeating the movement.
+![Leg Extension](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/leg-extension.png)
+
+**Pro**
+  - Unlike most quadriceps exercises, there is no compression of the spine
+  
+**Cons**
+  - The leg extension is used to increase the definition of each head of the quadriceps. The glutes are not recruited at all; therefore, if glute development is your main goal, this is not the best exercise for you.
+
+**Tips**
+  - Put your hands on your quadriceps to better feel the contraction.
+  - Don’t arch your lower back in an attempt to create a stronger quadriceps contraction.
+  
+**Variation**
+If you don’t have access to a leg extension machine, you can perform the exercise while sitting, one leg at a time. You can also use a pair of ankle weights for added resistance.
+
+![Leg Extension](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/leg-extension-1.png)
+
+## Shape Your Hamstrings
+
+The hamstrings (the backs of the thighs) contain a group of four heads:
+  #### 1. Biceps femoris, short head
+  #### 2. Biceps femoris, long head
+  #### 3. Semimembranosus
+  #### 4. Semitendinosus
+ 
+**Take-Home Lesson for Women
+
+The hamstrings’ placement just below the glutes helps enhance the feminine curvature of the buttocks. Having round buttocks and flat hamstrings would look odd. The hamstrings should be round as well, to accentuate the roundness of the glutes. The adductors are not muscles you want to make bigger. They just need to be very slightly toned. More important, they should be trained with light weights and high repetitions (no more than 25) to prevent the accumulation of unaesthetic fat deposits on them. Another good reason for using lighter weights is that the adductors are very fragile muscles that are easily overstretched and torn. So, little weights with higher repetitions are perfect for them.
+
+#### Hamstring Exercises
+There are three main categories of exercises for the hamstrings, plus one for the adductors, from which women can benefit:
+`1. Stiff-leg deadlift`
+
+`2. Lying leg curl`
+
+`3. Seated leg curl`
+
+`4. Thigh adduction`
+
+
+
+## 1. Stiff-leg Deadlift
+The stiff-leg deadlift belongs in the isolated, single-joint exercise category because it mostly mobilizes the hip joint only, even though other joints are placed under extreme tension during the exercise. As a result, the stiff-leg deadlift recruits muscles in addition to the hamstrings: the glutes, lower back, and quadriceps. It differs from the other hamstring exercises in that it provides a strong muscle stretch.
+
+**How to do it**
+With your feet about shoulder-width apart and your back arched very slightly backward, bend over and lift two dumbbells or a barbell from the floor. Use a natural hand grip with dumbbells—that is, a semi-pronated grip that is somewhere between neutral (thumbs forward) and pronated (thumbs facing each other). Use a pronated grip with a bar. Stand up using the strength of your hamstrings and your glutes while keeping your legs semistraight. Once you are standing, bend forward without bending your legs to return to your starting position. The weights do not have to touch the floor before you start another repetition.
+
+![Stiff Leg](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/stiff-leg.png)
+
+![Stiff Leg](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/stiff-leg1.png)
+
+
+**Pro**
+  - This is the best exercise for working the hamstrings intensely.
+  
+**Cons**
+  - Because it stretches the hamstrings very intensely, this exercise can cause intense soreness that may last a few days.
+  - Although the stiff-leg deadlift may seem easy, it is actually much more dangerous than it appears. Maintaining both your balance and good technical execution can be difficult. Bending your spine and pulling too much with your back rather than your hamstrings can allow you to use more weight or do more repetitions, but this will reduce the workload on your hamstrings and make this exercise dangerous for your spine.
+
+**Tips**
+  - If you have good flexibility, consider leaning forward with your torso parallel to the ground; then stand up. If this places too much tension on either your spine or your hamstrings, stop the movement short of parallel.
+  - Do not bring your torso up until it is perpendicular to the floor. By not coming all the way up, you maintain continuous tension in the hamstrings. Only at failure should you come all the way up and rest for a few seconds so that you can perform a few more repetitions.
+  - When the lumbar muscles tire, maintaining the slight natural arch of the back is difficult. As a result, the spine will start to curve. When this happens, reduce the range of motion so that you can always keep your back straight. The same problem occurs with the good morning variation described next.
+  
+**Variation**
+Instead of holding the weight with your hands, you can put the bar on your upper back just as you do with squats and bend as in the standard stiff-leg deadlift just described. This variation is called a good morning. This variation will target the lower body more while reducing the involvement of the upper-body muscles, especially the lats, the lower trapezius, and the arms.
+
+![Deadlift](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/deadlift.png)
+
+![Deadlift](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/deadlift1.png)
