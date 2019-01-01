@@ -598,6 +598,41 @@ The hamstrings’ placement just below the glutes helps enhance the feminine cur
 #### Hamstring Exercises
 There are three main categories of exercises for the hamstrings, plus one for the adductors, from which women can benefit:
 `1. Stiff-leg deadlift`
+
 `2. Lying leg curl`
+
 `3. Seated leg curl`
+
 `4. Thigh adduction`
+
+
+
+## 1. Stiff-leg Deadlift
+The stiff-leg deadlift belongs in the isolated, single-joint exercise category because it mostly mobilizes the hip joint only, even though other joints are placed under extreme tension during the exercise. As a result, the stiff-leg deadlift recruits muscles in addition to the hamstrings: the glutes, lower back, and quadriceps. It differs from the other hamstring exercises in that it provides a strong muscle stretch.
+
+**How to do it**
+With your feet about shoulder-width apart and your back arched very slightly backward, bend over and lift two dumbbells or a barbell from the floor. Use a natural hand grip with dumbbells—that is, a semi-pronated grip that is somewhere between neutral (thumbs forward) and pronated (thumbs facing each other). Use a pronated grip with a bar. Stand up using the strength of your hamstrings and your glutes while keeping your legs semistraight. Once you are standing, bend forward without bending your legs to return to your starting position. The weights do not have to touch the floor before you start another repetition.
+
+![Stiff Leg](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/stiff-leg.png)
+
+![Stiff Leg](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/stiff-leg1.png)
+
+
+**Pro**
+  - This is the best exercise for working the hamstrings intensely.
+  
+**Cons**
+  - Because it stretches the hamstrings very intensely, this exercise can cause intense soreness that may last a few days.
+  - Although the stiff-leg deadlift may seem easy, it is actually much more dangerous than it appears. Maintaining both your balance and good technical execution can be difficult. Bending your spine and pulling too much with your back rather than your hamstrings can allow you to use more weight or do more repetitions, but this will reduce the workload on your hamstrings and make this exercise dangerous for your spine.
+
+**Tips**
+  - If you have good flexibility, consider leaning forward with your torso parallel to the ground; then stand up. If this places too much tension on either your spine or your hamstrings, stop the movement short of parallel.
+  - Do not bring your torso up until it is perpendicular to the floor. By not coming all the way up, you maintain continuous tension in the hamstrings. Only at failure should you come all the way up and rest for a few seconds so that you can perform a few more repetitions.
+  - When the lumbar muscles tire, maintaining the slight natural arch of the back is difficult. As a result, the spine will start to curve. When this happens, reduce the range of motion so that you can always keep your back straight. The same problem occurs with the good morning variation described next.
+  
+**Variation**
+Instead of holding the weight with your hands, you can put the bar on your upper back just as you do with squats and bend as in the standard stiff-leg deadlift just described. This variation is called a good morning. This variation will target the lower body more while reducing the involvement of the upper-body muscles, especially the lats, the lower trapezius, and the arms.
+
+![Deadlift](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/deadlift.png)
+
+![Deadlift](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/deadlift1.png)
