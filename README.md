@@ -545,13 +545,13 @@ The lunge belongs in the basic, multiple-joint exercise category because the hip
 From a starting position with your feet together and both legs straight, take a step forward with your right leg. At first, go down about 8 to 10 inches (about 20 cm). As you get stronger, you will be able to use a greater range of motion to make the exercise more difficult. Once you reach the bottom position, push back up with the right leg. Don’t straighten the right leg completely; keeping a slight bend maintains constant tension in the muscles. after completing a set with the right leg, move on to the left leg with minimal rest. 
 ![Lunges](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/lunges.png)
 
-**Pro**
+**Pros**
   - Lunges are both a muscle builder and an excellent stretching movement.
   - If you had to select only one leg exercise, it should be lunges; they recruit the quadriceps, hamstrings, and buttocks.
   - Very little equipment is required to perform lunges.
   - Body weight lunges will provide very little lower back stress. Even weighted lunges are far safer for the spine than squats.
   
-**Con**
+**Cons**
   - Working one leg at a time can be time-consuming.
   - The farther or more heavily you step, the more stress your kneecap will receive.
  
@@ -561,4 +561,43 @@ From a starting position with your feet together and both legs straight, take a 
   
 ![Lunges](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/lunges-1.png)
 
+## 3. Leg Extension
+The leg extension belongs in the isolated, single-joint exercise category because only the knee joint is mobilized. as a consequence, the leg extension does not recruit many of the muscle groups surrounding the quadriceps. Leg extensions are often used to warm up the knees at the beginning of a leg workout.
 
+**How to Do It**
+Sit in a leg extension machine and position your feet under the padded frame. Using your quadriceps, straighten your legs. Keep the contracted position for at least one second before bending your legs and repeating the movement.
+![Leg Extension](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/leg-extension.png)
+
+**Pro**
+  - Unlike most quadriceps exercises, there is no compression of the spine
+  
+**Cons**
+  - The leg extension is used to increase the definition of each head of the quadriceps. The glutes are not recruited at all; therefore, if glute development is your main goal, this is not the best exercise for you.
+
+**Tips**
+  - Put your hands on your quadriceps to better feel the contraction.
+  - Don’t arch your lower back in an attempt to create a stronger quadriceps contraction.
+  
+**Variation**
+If you don’t have access to a leg extension machine, you can perform the exercise while sitting, one leg at a time. You can also use a pair of ankle weights for added resistance.
+
+![Leg Extension](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/leg-extension-1.png)
+
+## Shape Your Hamstrings
+
+The hamstrings (the backs of the thighs) contain a group of four heads:
+  #### 1. Biceps femoris, short head
+  #### 2. Biceps femoris, long head
+  #### 3. Semimembranosus
+  #### 4. Semitendinosus
+ 
+**Take-Home Lesson for Women
+
+The hamstrings’ placement just below the glutes helps enhance the feminine curvature of the buttocks. Having round buttocks and flat hamstrings would look odd. The hamstrings should be round as well, to accentuate the roundness of the glutes. The adductors are not muscles you want to make bigger. They just need to be very slightly toned. More important, they should be trained with light weights and high repetitions (no more than 25) to prevent the accumulation of unaesthetic fat deposits on them. Another good reason for using lighter weights is that the adductors are very fragile muscles that are easily overstretched and torn. So, little weights with higher repetitions are perfect for them.
+
+#### Hamstring Exercises
+There are three main categories of exercises for the hamstrings, plus one for the adductors, from which women can benefit:
+`1. Stiff-leg deadlift`
+`2. Lying leg curl`
+`3. Seated leg curl`
+`4. Thigh adduction`
