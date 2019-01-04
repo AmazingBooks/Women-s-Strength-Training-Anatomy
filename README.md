@@ -597,6 +597,7 @@ The hamstrings’ placement just below the glutes helps enhance the feminine cur
 
 #### Hamstring Exercises
 There are three main categories of exercises for the hamstrings, plus one for the adductors, from which women can benefit:
+
 `1. Stiff-leg deadlift`
 
 `2. Lying leg curl`
@@ -636,3 +637,20 @@ Instead of holding the weight with your hands, you can put the bar on your upper
 ![Deadlift](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/deadlift.png)
 
 ![Deadlift](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/deadlift1.png)
+
+
+## 2.Lying Leg Curl
+The lying leg curl belongs in the isolated, single-joint exercise category because only the knee joints are mobilized. As a result, it recruits only the hamstrings and part of the calves.
+
+#### How to Do It
+Place your ankles beneath the pad of the moving arm of the machine and lie facedown on the machine. Using your hamstrings, bring the pad up to your buttocks. At the top of the movement, hold the contraction for two seconds and bring your feet back toward the floor. repeat before you have completely straightened your legs.
+
+**Pro**
+  - This exercise really isolates the backs of the thighs, which increases your awareness of these hard-to-feel muscles.
+  
+**Cons**
+  - The leg extension is used to increase the definition of each head of the quadriceps. The glutes are not recruited at all; therefore, if glute development is your main goal, this is not the best exercise for you.
+
+**Tips**
+  - Put your hands on your quadriceps to better feel the contraction.
+  - Don’t arch your lower back in an attempt to create a stronger quadriceps contraction.
