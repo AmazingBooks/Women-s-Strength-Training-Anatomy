@@ -654,3 +654,5 @@ Place your ankles beneath the pad of the moving arm of the machine and lie faced
 **Tips**
   - Put your hands on your quadriceps to better feel the contraction.
   - Don’t arch your lower back in an attempt to create a stronger quadriceps contraction.
+
+![Machine Curl Example](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/machine-curl.png)
