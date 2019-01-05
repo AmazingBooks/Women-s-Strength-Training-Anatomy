@@ -671,3 +671,18 @@ Sit in the machine and place your ankles on top of the pad of the moving arm of 
 
 ![Seated Leg Curl](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/seated.png)
 
+**Pro**
+  - There is a very powerful contraction of the hamstrings making it the best machine exercise for this muscle
+  
+**Cons**
+  - With some machines, it is simply not possible to move the torso forward, even slightly.
+
+**Tips**
+  - Perform this exercise in a slow and controlled manner, not explosively. Do not straighten your legs completely in the stretched position so that you maintain continuous tension in the hamstrings.
+  - Don’t arch your lower back as you contract your hamstrings.
+  
+ **Advanced Variation**
+Even though this is technically an isolation exercise, the seated leg curl is a multiple-joint exercise if you move your torso forward as you bring your legs down. As you contract your hamstrings, they become progressively weaker, which forces you to arch your lower back. This demonstrates the physiological absurdity of staying firmly seated during the entire exercise. By moving your torso forward as your legs move backward, your hamstrings will become progressively stronger instead of weaker as the repetitions go on. Your range of motion in the contracted position will be greater, and there will be no arching of the lower back. The farther you bring your legs under you, the more you lean forward. While the legs are bending to 90 degrees, the torso is bending to 45 degrees. The reverse happens when you extend your legs. 
+
+![Advanced Variation Leg Curl](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/advanced.png)
+  
