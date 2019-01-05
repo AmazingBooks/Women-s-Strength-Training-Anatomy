@@ -656,3 +656,18 @@ Place your ankles beneath the pad of the moving arm of the machine and lie faced
   - Don’t arch your lower back in an attempt to create a stronger quadriceps contraction.
 
 ![Machine Curl Example](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/machine-curl.png)
+
+**Leg Curl Variations**
+ 1. Dumbbell Variations
+Holding a dumbbell between your feet renders the exercise much more productive. An incline bench is even more effective as shown below:
+
+![Dumbell Leg Curl](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/dumbell-legCurl.png)
+
+**Seated Leg Curl**
+The seated leg curl belongs in the isolated, single-joint exercise categorybecause only the knee joints are mobilized. As a result, it recruits only the hamstrings and part of the calves.
+
+###### How to Do It
+Sit in the machine and place your ankles on top of the pad of the moving arm of the machine. Using your hamstrings, bring the pad down toward your buttocks. At the bottom of the movement, hold the contraction for two seconds and bring your feet back up. Repeat.
+
+![Seated Leg Curl](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/seated.png)
+
