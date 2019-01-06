@@ -639,7 +639,7 @@ Instead of holding the weight with your hands, you can put the bar on your upper
 ![Deadlift](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/deadlift1.png)
 
 
-## 2.Lying Leg Curl
+## 2. Lying Leg Curl
 The lying leg curl belongs in the isolated, single-joint exercise category because only the knee joints are mobilized. As a result, it recruits only the hamstrings and part of the calves.
 
 #### How to Do It
@@ -658,12 +658,11 @@ Place your ankles beneath the pad of the moving arm of the machine and lie faced
 ![Machine Curl Example](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/machine-curl.png)
 
 **Leg Curl Variations**
- 1. Dumbbell Variations
-Holding a dumbbell between your feet renders the exercise much more productive. An incline bench is even more effective as shown below:
+Dumbbell Variations - Holding a dumbbell between your feet renders the exercise much more productive. An incline bench is even more effective as shown below:
 
 ![Dumbell Leg Curl](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/dumbell-legCurl.png)
 
-**Seated Leg Curl**
+## 3. Seated Leg Curl
 The seated leg curl belongs in the isolated, single-joint exercise categorybecause only the knee joints are mobilized. As a result, it recruits only the hamstrings and part of the calves.
 
 ###### How to Do It
@@ -686,3 +685,26 @@ Even though this is technically an isolation exercise, the seated leg curl is a 
 
 ![Advanced Variation Leg Curl](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/advanced.png)
   
+## 4. Thigh adduction
+The thigh adduction belongs to the isolated, single-joint exercise category because only the hip joints are mobilized.
+This is considered a good finishing exercise for the legs because it is relatively easy to perform even when tired as a result of previous thigh movements.
+![Thigh adduction](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/tight.png)
+
+#### How to Do It
+Sit in the machine and place your legs behind the pads of the moving arms of the machine. Using your adductors, squeeze your legs together. When they are as close as possible, hold the contraction for a count of 5 before returning to the starting position. With most machines, you have to sit. You can also perform the movement while standing because even if standing is not as comfortable as sitting, it is a more efficient way to work the adductors.
+
+![Thigh adduction Machine](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/machine.png)
+
+**Pro**
+  - It is hard to really isolate the adductor as well as this exercise does. 
+  
+**Cons**
+  - Getting in and out of some machines may prove difficult. Make sure you do not overstretch your adductors when doing so.
+
+**Tips**
+  - Perform this exercise very slowly over a short range of motion.
+  - It is almost impossible to isolate the adductor muscles with free weights. This is a situation in which machines are very handy. If no machine is available, you can substitute with a **cable**, but adductor machines are easier to master.
+
+![Thigh adduction Cable](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/cable.png)
+
+## Trim Your Calves
