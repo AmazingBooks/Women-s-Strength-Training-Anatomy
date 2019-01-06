@@ -708,3 +708,10 @@ Sit in the machine and place your legs behind the pads of the moving arms of the
 ![Thigh adduction Cable](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/cable.png)
 
 ## Trim Your Calves
+
+#### Anatomy and Morphology
+The calves are composed of two main heads:
+ 1. The gastrocnemius, which provides most of the muscle mass of the calf.
+ 2. The soleus, which is covered by, and has much less mass than, the gastrocnemius.
+ 
+
