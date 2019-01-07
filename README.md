@@ -713,5 +713,46 @@ Sit in the machine and place your legs behind the pads of the moving arms of the
 The calves are composed of two main heads:
  1. The gastrocnemius, which provides most of the muscle mass of the calf.
  2. The soleus, which is covered by, and has much less mass than, the gastrocnemius.
- 
 
+![Calves](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/calves-muscles.png)
+
+In some women, the calf muscles are very long with short tendons, whereas in others, they are very short with long tendons. No exercise will change this genetically predetermined muscle length. Long muscles are easier to develop than shorter muscles.
+The soleus, being a single-joint muscle, is recruited in all the calf raise variations, whether the leg is bent or straight. The gastrocnemius, being a multiple-joint muscle, can only be recruited when the legs are straight or at most only slightly bent.
+
+#### Take-Home Lesson for Women
+
+- Because the calves are not a muscle most women want to develop, these aren’t the muscles you want to start your workout with. The priority should therefore never be given to calf exercises. Doing calf exercises first would ruin your lower-body workout.
+ - The calves are probably one of the most exposed muscle groups (in addition to the arms). Many women aren’t seeking large, defined calves but instead are interested in toning these muscles. Therefore, the main goals of calf training should be maintaining proper blood circulation, building some strength, and maintaining good flexibility. As a result, one or two sets of 20 repetitions should be performed at least once a week at the end of leg training. In some cases, cardio training is more than enough for the calves. If excessive body fat covers your calves, the diet plus cardio training should take care of the problem. 
+Nevertheless, stretching the calves is very important especially if you wear heels because they tend to shorten and stiffen the calves’ tendons.
+ - There are also many angles from which to stretch your calf muscles. As a general rule, do the following while stretching your calves to have the following effects:
+  • Keep your leg straight to primarily stretch the gastrocnemius muscle.
+  • Bend your leg to stretch the soleus muscle.
+  • Twist your ankle to the side to stretch the lateral muscles of the calves.
+Just perfomr the standing cald stretch. 
+ - The exercise below stretches the muscles on the outside of the calves. These are the muscles you strain when you violently twist your ankle. Because the slightest excessive stretch of these muscles will prevent you from walking, it is important to work on flexibility to prevent injuries. Stand with your feet close together and put your weight on your left foot. Roll your right foot as far over to the side as possible. Slowly move your weight over to the right foot. You should do this stretch progressively and slowly so that you do not tear a muscle or a tendon. Once you have stretched the right foot, stretch the left foot.
+![STReTCH THe CALveS](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/calves.png)
+
+#### Calf Exercise
+Because the seated calf raise neglects the gastrocnemius, the standing straightleg calf raise is the only exercise from which women who are looking to shape their calves can benefit.
+
+**How to Do It**
+With the balls of your feet (or one foot) on a weight platform or board and your heels hanging off the edge, stretch your calves as much as possible by allowing your heels to hang below the platform. Then, rise up as high as you can onto the balls of your feet. Hold the contracted position for one second; then lower your heels to the floor. If you need to, hold on to a wall to maintain your balance.
+
+**Pro**
+  - This exercise really isolates the calf muscles.
+  
+**Cons**
+  - If you are doing other leg exercises or cardio training, in many cases doing a separate exercise for the calves isn’t necessary.
+
+**Tips**
+  - You can perform the calf raise unilaterally to apply the weight of the whole body to one calf. Working one calf at a time provides
+a better stretch and better contraction of the muscle, which increases the range of motion.
+  - If you suffer from bad leg circulation, it is very important to train your calves often with very high reps to push back the blood and flush out any excessive water retention. Using your body weight as resistance, perform a set of 50 to 100 reps at home before bedtime or whenever you suffer from lower-body pain.
+  - Many trainers recommend straightening the legs completely to work the gastrocnemius muscles, but the gastrocnemius muscle is actually stronger when the knees are slightly bent because of the more advantageous length–tension relationship.
+  
+**Barbell and Machine Variations**
+ - Another alternative is to place a long barbell across your shoulders. However, you will not be as stable, and you will not benefit from as big a range of motion.
+ - A seated or incline leg press machine can be used instead of a calf raise machine. The main advantage of these machines is that they stretch the calves even more because the seated position stretches the calves at the knee level and not at the ankle only. This double stretch is possible because the gastrocnemius is a multiple-joint muscle that can be flexed by the two joints it crosses. These machines also take a lot of pressure off your back. Leg press machines are a great alternative to standing calf raise machines.
+ 
+ 
+## Flatten Your Abs
