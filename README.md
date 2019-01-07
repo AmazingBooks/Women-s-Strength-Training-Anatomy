@@ -730,6 +730,7 @@ Nevertheless, stretching the calves is very important especially if you wear hee
   • Twist your ankle to the side to stretch the lateral muscles of the calves.
 Just perfomr the standing cald stretch. 
  - The exercise below stretches the muscles on the outside of the calves. These are the muscles you strain when you violently twist your ankle. Because the slightest excessive stretch of these muscles will prevent you from walking, it is important to work on flexibility to prevent injuries. Stand with your feet close together and put your weight on your left foot. Roll your right foot as far over to the side as possible. Slowly move your weight over to the right foot. You should do this stretch progressively and slowly so that you do not tear a muscle or a tendon. Once you have stretched the right foot, stretch the left foot.
+
 ![STReTCH THe CALveS](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/calves.png)
 
 #### Calf Exercise
