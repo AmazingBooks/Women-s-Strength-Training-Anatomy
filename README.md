@@ -757,3 +757,83 @@ a better stretch and better contraction of the muscle, which increases the range
  
  
 ## Flatten Your Abs
+
+**Anatomy and Morphology** 
+  - The abdominal wall is made up of a very complex mesh of muscles that belong to the group known as the core muscles:
+      1. The rectus abdominis, commonly called the abs
+      2. The external obliques, on both sides of the rectus abdominis
+      3. The internal obliques, under the external obliques
+      4. The transversus abdominis, under the obliques
+      
+The abdominal muscles contract on both ends. Exercises that lift the torso recruit the upper abdominal muscles mostly; those that lift the lower part of the body recruit the lower abdominal muscles (although, as with the upper abdominal muscles, not exclusively).
+
+The oblique muscles are located on both sides of the abdomen. They support the spine and have a major role in rotating the pelvis.
+Unfortunately, the lower abdominal muscles are much more difficult to target and develop than the upper abdominal muscles are. Consider the fact that you can perform leg raises mostly with the strength of your upper abdominal muscles. This makes leg raises harder to execute than crunches. However, the lower abdominal muscles have the largest role in protecting the spine and keeping off belly fat (which is where fat accumulates most easily). A good abdominal training regimen, therefore, works not only the upper abdominals but also the lower ones.
+      
+**Take-Home Lesson for Women**
+  - Even if you do not carry any extra body fat, you can suffer from a hanging belly because your abs lack muscle tone. By training them regularly for a couple of weeks, you can tighten them up, which will automatically flatten your abdomen. Even if your belly problems result from an excess of body fat, training your abs will shrink your belly for the same reason even if you do not lose an ounce of fat.
+ - The good news, then, is that the benefits of an abdominal training program manifest in less than a month, providing very rapid gratification. Following the initial tightening of your abdominal muscles, you should get rid of some body fat to continue to shrink your belly and enhance your silhouette. Women often have one of the following very different goals as far as abs are concerned:
+      • A very flat abdomen with as little fat as possible
+      • A little abdomen with abdominal muscles covered by a very thin layer of fat
+Although these goals may seem opposed, they have one thing in common: a well-developed abdominal muscle wall, as opposed to a fl abby belly hanging forward because of a lack of muscle tone. So, whatever your goal is, you must work your abdominal muscles hard.
+      
+      
+**Core Muscles and Your Health**
+When we speak of the abdominal muscles, the first image many associate with them is primarily cosmetic: prominent and well-defined abs are synonymous with a flat belly devoid of unnecessary fat. However, nature has not provided us with abdominal muscles to look pretty.
+Our core muscles perform vital functions for **locomotion** and **health**. The acquisition of "six-pack abs" is therefore not the only reason to train your core muscles. 
+
+Following are six good reasons to take care of your abs, in addition to the visual aspect:
+    **1. Relief of muscle tension** - The lumbar muscles often remain overly contracted during the night, resulting in the spine not regenerating as it should during sleep. The person then wakes feeling tired and with a sore back. A few minutes of ab work before bed can be enough to relax the lower back and release spinal tension.
+    **2. Protection of the spine** -  Along with the back muscles, the abs support the spine. A lack of abdominal tone increases tension in the intervertebral discs, resulting in an increased risk of lumbar degeneration.
+    **3. Reduced risk of developing diseases such as type 2 diabetes** - Type 2 diabetes develops with age, largely as a result of an excessive accumulation of fat in the abdominal area.
+    **4. Improved digestive health** - Abdominal work facilitates digestion, preventing bloating and constipation.
+    **5. Increased athletic performance** -  The abs play an important role in all daily physical activities as well as in sports that require fast running or twisting of the core. 
+    **6. Cardiovascular health** - Circuit training the abs is an excellent cardiorespiratory workout that spares the knees and hips.
+      
+      
+**Evolution of the Modern Woman**
+Women have not historically accumulated much fat on their bellies. However, the combination of birth control pills (especially those rich in progesterone) and an excess intake of dietary fat and sugar (e.g., soda, chocolate, bread, pasta, cake) has revolutionized genetics. More and more women now have a gut, like men. In this case, gender equality is not good! At menopause, the cessation of natural estrogen production upsets the hormonal balance. With lower levels of female hormones, the endocrine system tends to behave in a more masculine way. The result is a disruption of the sites of fat storage: Fat suddenly colonizes women’s bellies. For this reason, women must redouble their ab training efforts at the onset of menopause to minimize this reshuffling effect.
+
+**Spotting Ineffective and Dangerous Abdominal Exercises**
+The world of fitness is rife with fake abdominal exercises that are not only a waste of time but can also endanger the spine. Fortunately, there is an easy way to tell the good exercises from the bad ones. In a bad exercise, the lower back arches during the contraction; in a good exercise, the back is rounded. Exercises that arch the lumbar spine do not work the abdominal muscles effectively.
+
+For example, exercises that involve putting your legs in the air for as long as possible and scissors movements while lying down
+are “back breakers.” Because the abdominal muscles are attached to the pelvis and not to the thighs, they cannot make the legs move.
+In addition to being dangerous, contraindicated movements are also painful. Because arching the back is dangerous for the lumbar discs, the abdominal muscles intervene to straighten the spine by contracting isometrically (i.e., without moving). Because local blood circulation is blocked during isometric action, the abdominal muscles are deprived of oxygen. Poor circulation also keeps the abdominal muscles from removing lactic acid, resulting in a buildup of large quantities which is also dangerous and counterproductive to good performance. Keep in mind that isometric contraction does not develop the abdominal muscles or burn fat.
+
+**Warm Up the Abs**
+You can either start or finish your workout with ab training. At the end of the training, there is no need for a specific warm-up; just do a very easy first set if you plan to overload your abs with extra weights. If you start your workout with ab work, do at least one light set of crunches before moving to harder exercises.
+
+**Abdominal Exercises**
+There are six main categories of exercises for the abdominal muscles from which women can benefit:
+  1. Crunches
+  2. Leg raise
+  3. Side crunch
+  4. Twist
+  5. Static stability
+  6. Plank
+  
+#### 1. Crunches
+
+
+ 
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
