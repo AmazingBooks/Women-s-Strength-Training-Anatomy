@@ -783,12 +783,18 @@ When we speak of the abdominal muscles, the first image many associate with them
 Our core muscles perform vital functions for **locomotion** and **health**. The acquisition of "six-pack abs" is therefore not the only reason to train your core muscles. 
 
 Following are six good reasons to take care of your abs, in addition to the visual aspect:
-    **1. Relief of muscle tension** - The lumbar muscles often remain overly contracted during the night, resulting in the spine not regenerating as it should during sleep. The person then wakes feeling tired and with a sore back. A few minutes of ab work before bed can be enough to relax the lower back and release spinal tension.
-    **2. Protection of the spine** -  Along with the back muscles, the abs support the spine. A lack of abdominal tone increases tension in the intervertebral discs, resulting in an increased risk of lumbar degeneration.
-    **3. Reduced risk of developing diseases such as type 2 diabetes** - Type 2 diabetes develops with age, largely as a result of an excessive accumulation of fat in the abdominal area.
-    **4. Improved digestive health** - Abdominal work facilitates digestion, preventing bloating and constipation.
-    **5. Increased athletic performance** -  The abs play an important role in all daily physical activities as well as in sports that require fast running or twisting of the core. 
-    **6. Cardiovascular health** - Circuit training the abs is an excellent cardiorespiratory workout that spares the knees and hips.
+
+   **1. Relief of muscle tension** - The lumbar muscles often remain overly contracted during the night, resulting in the spine not regenerating as it should during sleep. The person then wakes feeling tired and with a sore back. A few minutes of ab work before bed can be enough to relax the lower back and release spinal tension.
+    
+   **2. Protection of the spine** -  Along with the back muscles, the abs support the spine. A lack of abdominal tone increases tension in the intervertebral discs, resulting in an increased risk of lumbar degeneration.
+   
+   **3. Reduced risk of developing diseases such as type 2 diabetes** - Type 2 diabetes develops with age, largely as a result of an excessive accumulation of fat in the abdominal area.
+   
+   **4. Improved digestive health** - Abdominal work facilitates digestion, preventing bloating and constipation.
+   
+   **5. Increased athletic performance** -  The abs play an important role in all daily physical activities as well as in sports that require fast running or twisting of the core. 
+   
+   **6. Cardiovascular health** - Circuit training the abs is an excellent cardiorespiratory workout that spares the knees and hips.
       
       
 **Evolution of the Modern Woman**
