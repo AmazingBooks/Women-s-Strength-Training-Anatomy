@@ -821,20 +821,62 @@ There are six main categories of exercises for the abdominal muscles from which 
   
 #### 1. Crunches
 
+The crunch belongs in the isolated, single joint exercise category. It does not recruit much of the muscle groups surrounding the abs and primarily targets the upper abdominal zone.
 
- 
+![Crunches](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/crunch.png)
+
+**How to Do It**
+Lie on the floor, with your feet either flat on the floor or on a bench (putting your feet up on a bench helps prevent the lower back from arching). Place your hands behind or to the sides of your head. Slowly, without jerking, lift your shoulders and then your upper spine off the floor. ause for two seconds at the top of the lift while maintaining a strong contraction in your abdominal muscles. Return slowly to the starting position and perform the exercise again, smoothly. Because emptying the lungs increases the contraction, exhale while contracting your abdominal muscles. Then, breathe in while lowering your torso to the floor. Be sure your head is in line with your spine.
+
+![Crunches](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/crunch-basic.png)
+
+**Pro**
+  - The crunch is a simple exercise that targets the abdominal muscles while being easy on the spine.
+  
+**Cons**
+  - The crunch is not an exercise that stimulates the muscles over a great range of motion. Instead, it produces a contraction over a rather small range (about 6 inches, or 15 cm). So, it is of the utmost importance to squeeze the abs as hard as possible during each repetition to make up for this limited motion.
+
+**Tips**
+  - You may be tempted to try to increase your range of motion by lifting your entire torso off the floor. This is no longer a crunch, but a sit-up. In a sit-up, the abdominal work is secondary and tension is greater in your lower back. A BOSU ball or a curved bench can help you increase your range of motion in a crunch, thereby enhancing the difficulty of the movement while providing extra support for your lower back. 
+  -  Where you place your hands determines the difficulty of the crunch. The exercise is harder when your hands are behind your head, easier with your hands crossed on your chest, and easier still when you stretch your arms forward along your body. Consider this combination: Begin with your arms behind your head, and when you can’t do any more repetitions that way, stretch your arms out in front so that you can do a few more.
+  
+  ![Crunches](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/crunch-hands.png)
+  
+  - Don’t tilt your head up to look at the ceiling during crunches. With your head up, you are likely to arch your back. During abdominal exercises, keep your head tilted forward to keep your eyes on your abdomen, but don’t tilt so far forward that you strain your neck.
+  
+    ![Crunches](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/crunch-head.png)
+  
+  - Performing a crunch while stabilizing your feet (typically on a wall or by a partner) will enhance your lower back curvature but also puts pressure on your spinal discs. One study showed that whenever crunches or sit-ups were performed with the feet restrained,
+the rectus femoris was recruited much more powerfully than it was when the feet were unrestrained. The **hip flexor muscles** come into
+play far more powerfully when the feet are blocked.
+
+   ![Crunches](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/crunch-feets.png)
       
+   - If you use an incline bench instead of the floor to increase the difficulty of the exercise, you will have to block your feet to stabilize your body. The higher the inclination of the bench is, the more resistance the abs will have to overcome to raise your torso.
       
+   ![Crunches](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/crunch-bench.png)
+   
+   
+   - To better target the oblique muscles with the crunch, you can rotate your torso to the side instead of coming straight up. As mentioned earlier, the exercise is easier when you stretch your arms along your body and harder when you place both hands behind your head. It is also easier with your feet on the floor instead of raised in the air. To work your left side, gently move your right hand or elbow toward your left knee using your abdominal muscles. Do not try to touch your knee with your elbow; the movement generally stops halfway. Hold the contracted position for two seconds before lowering. 
+   
+     ![Crunches](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/crunch-oblique.png)
+     
+   Instead of keeping your legs still, you can bring one of them toward your torso in sync with your shoulder rotations in a variation often called a bicycle crunch because of the pedaling motion of the legs. This advanced variation is more difficult to perform because of the more intense oblique contraction it produces.
+   
+   ![Crunches](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/crunch-bycicle.png)
+   
       
-      
-      
-      
-      
-      
-      
-      
-      
-      
+**Machine Variations**
+   
+  - Abdominal machines are plentiful. Unfortunately, many are not well designed. If you find one that allows you to contract your abs well, use it. But if it feels weird, especially at the lower back level, you are better off with crunches. A good machine lets you choose the precise level of resistance to place on your abs. Crunches might be too hard for a beginner and way too light for an advanced trainer. Machines accommodate everybody as far as resistance is concerned.
+  
+  
+   ![Crunches](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/crunch-machine1.png)
+   
+   
+   ![Crunches](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/crunch-machine2.png)
+  
+  
       
       
       
