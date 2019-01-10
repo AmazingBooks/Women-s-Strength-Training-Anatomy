@@ -878,10 +878,37 @@ play far more powerfully when the feet are blocked.
   
   
       
+#### 2. LEG RAISE
+Leg raises recruit the abs as well as the hip flexors. When performed properly, they target the entire abdominal wall but emphasize
+the lower abdominal area.
+
+**How to Do It**
+Leg raises can be performed while lying on the floor (the easiest version) or seated (harder) or while hanging from a pull-up bar
+(the hardest variation).
+
+**Lying leg raise:**
+Lying on the floor with your arms at your sides and your legs bent to 90 degrees, lift your buttocks and then your lower back. Roll
+slowly and stop when you feel your upper back starting to come off the floor. Imagine touching your lower abdominal muscles to your pectorali muscles. Although they will not actually touch, visualizing this will help you achieve the correct movement. Pause for at least two seconds at the top of the raise with your abdominal muscles strongly contracted. Return slowly to the starting position and stop before your buttocks touch the floor to maintain continuous tension. Keep your head straight on the floor during this exercise, taking care not to move your neck. It is possible to do leg raises that move the legs off the floor very little, but take in consideration that these variations are very effective to firm up your abs.
+
+**Seated leg raise:**
+Sit on the edge of a bench with your arms at your sides, holding on to the bench so that you remain perfectly stable. While keeping your legs bent to 90 degrees, bring your lower abdominal muscles up so that they push on the upper part of your abs by rounding your back rather than lifting your legs. The total range of motion is only a few inches or centimeters. Pause for at least two seconds in the upper position while deeply contracting your abdominal muscles. Return slowly to the starting position and repeat. The main problem with this variation is that it is harder to roll the abdominal muscles from low to high. The weight placed on the lower back interferes with the mobility of the spine. This exercise is difficult to do sitting down because, if you cannot roll well, muscles other than the abdominals will do the majority of the work.
+
+**Hanging leg raise:**
+To make the leg raise harder, you can perform it while hanging from a pull-up bar. Hang on to the bar with pronated hands (thumbs facing each other) about shoulder-width apart. Bring your legs to 90 degrees in relation to your torso so that your thighs are parallel to the floor. You can keep your legs straight (this makes the exercise a lot more difficult) or bring your calves under your thighs (this makes the exercise easier). An advanced combination consists of beginning with the legs straight and, at failure, bending the legs so that you can do a few more repetitions. Using your lower abdominal muscles, move your pelvis up while bringing your knees up toward your chest. Lift your pelvis as high as possible while rolling yourself up as much as you can. Hold the position for one second before lowering your pelvis. Be careful not to lower your legs past the point where the thighs are parallel to the floor. The hardest thing about this variation when you first try it is to keep your body from swinging too much. As you train more, you will learn to stabilize yourself naturally. Alternatively, specially designed ab benches or chairs provide back support to stabilize your body while hanging.
+
+**Pro**
+  - The lower abdominals are the most difficult muscles to work. The leg raise is the best exercise for learning how to work them.
+  
+**Con**
+  - This exercise is easier done poorly than it is done well. If you feel a pulling sensation in your lower spine, you are performing the exercise incorrectly. Mastering this exercise to the point that you are contracting the lower part of your abdominal muscles properly takes time.
+
+**Tips**
+  - Arching your lower back works the wrong muscles and pinches the lumbar discs. The goal of this exercise is not so much lifting the legs, but lifting the hips, which lifts the thighs.
+
+
+![LEG RAISE](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/hanging.png)
+   
+![LEG RAISE](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/lifting.png)  
       
-      
-      
-      
-      
-      
+![LEG RAISE](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/bench.png)      
       
