@@ -769,6 +769,8 @@ The abdominal muscles contract on both ends. Exercises that lift the torso recru
 
 The oblique muscles are located on both sides of the abdomen. They support the spine and have a major role in rotating the pelvis.
 Unfortunately, the lower abdominal muscles are much more difficult to target and develop than the upper abdominal muscles are. Consider the fact that you can perform leg raises mostly with the strength of your upper abdominal muscles. This makes leg raises harder to execute than crunches. However, the lower abdominal muscles have the largest role in protecting the spine and keeping off belly fat (which is where fat accumulates most easily). A good abdominal training regimen, therefore, works not only the upper abdominals but also the lower ones.
+
+![Abs](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/abs.png) 
       
 **Take-Home Lesson for Women**
   - Even if you do not carry any extra body fat, you can suffer from a hanging belly because your abs lack muscle tone. By training them regularly for a couple of weeks, you can tighten them up, which will automatically flatten your abdomen. Even if your belly problems result from an excess of body fat, training your abs will shrink your belly for the same reason even if you do not lose an ounce of fat.
@@ -781,6 +783,9 @@ Although these goals may seem opposed, they have one thing in common: a well-dev
 **Core Muscles and Your Health**
 When we speak of the abdominal muscles, the first image many associate with them is primarily cosmetic: prominent and well-defined abs are synonymous with a flat belly devoid of unnecessary fat. However, nature has not provided us with abdominal muscles to look pretty.
 Our core muscles perform vital functions for **locomotion** and **health**. The acquisition of "six-pack abs" is therefore not the only reason to train your core muscles. 
+
+![Abs](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/abs1.png) 
+
 
 Following are six good reasons to take care of your abs, in addition to the visual aspect:
 
@@ -799,6 +804,8 @@ Following are six good reasons to take care of your abs, in addition to the visu
       
 **Evolution of the Modern Woman**
 Women have not historically accumulated much fat on their bellies. However, the combination of birth control pills (especially those rich in progesterone) and an excess intake of dietary fat and sugar (e.g., soda, chocolate, bread, pasta, cake) has revolutionized genetics. More and more women now have a gut, like men. In this case, gender equality is not good! At menopause, the cessation of natural estrogen production upsets the hormonal balance. With lower levels of female hormones, the endocrine system tends to behave in a more masculine way. The result is a disruption of the sites of fat storage: Fat suddenly colonizes women’s bellies. For this reason, women must redouble their ab training efforts at the onset of menopause to minimize this reshuffling effect.
+
+![Abs](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/abs2.png) 
 
 **Spotting Ineffective and Dangerous Abdominal Exercises**
 The world of fitness is rife with fake abdominal exercises that are not only a waste of time but can also endanger the spine. Fortunately, there is an easy way to tell the good exercises from the bad ones. In a bad exercise, the lower back arches during the contraction; in a good exercise, the back is rounded. Exercises that arch the lumbar spine do not work the abdominal muscles effectively.
@@ -912,3 +919,42 @@ To make the leg raise harder, you can perform it while hanging from a pull-up ba
       
 ![LEG RAISE](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/bench.png)      
       
+
+#### 2.SIDE CRUNCH
+
+This exercise isolates the obliques more than the oblique crunch does, which targets both the rectus abdominis and the obliques. 
+
+**How to Do It**
+Lie on your left side on the floor. Put your right hand behind your head to support it. Using your obliques, bring your right elbow
+toward your right hip. Your left shoulder will come off the floor about an inch (2.5 cm) or so. Hold the position for one to two seconds before lowering your torso. Bring your left shoulder to the floor, but not your head, so that you can maintain a continuous tension in your obliques. Once you have finished a set on your left side, move immediately to your right side.
+
+![Side Crunches Clasic](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/side.png) 
+
+**Pro**
+  - This is the best exercise for working the obliques.
+  - You will feel your muscles working immediately if you perform it correctly
+  
+**Cons**
+  - Using heavy weights with side crunches increases muscle size, but large obliques and a bigger waist are not what you are looking for. Unless you are involved in a strength sport, do not use too heavy a weight when working your obliques. Light weights and long sets will help you eliminate the fat that easily accumulates in this area.
+
+**Tips**
+  - Rotate your torso slightly from back to front while contracting your obliques. This exercise is not meant to be performed in a straight line.
+  - Place your left hand on your obliques so that you can better feel the muscles working.
+  - Do not begin your ab routine with the side crunch. It is better to end your abdominal workout with the obliques rather than starting with them because your priority should be to work the rectus abdominis.
+  
+**Variations**
+Where you place your free hand determines the degree of resistance during this exercise. The position described here (i.e., your hand behind your head) is an intermediate position. To increase the resistance, extend your arm away from your body and next to your head. To reduce the resistance, extend your arm toward your thighs, parallel to your body. onsider using a descending set strategy. Begin the exercise with our arm straight up by your head, and when you can’t perform any more repetitions that way, place your hand behind your head so that you can do a few more. When you reach failure again, stretch your arm down toward your legs so that you can continue the exercise. By using this descending set strategy, you will be able to induce a very profound muscle fatigue, and typically one set will be enough for each side, which will save you time.
+
+
+![Side Crunches](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/side1.png) 
+
+
+> NOTE:
+> Avoid standing side bend exercises that use dumbbells or a low cable pulley to train the obliques because they  put unnecessary       > tension on the spine while placing the back in a very awkward position. These exercises are useful only in strength sports in which   > the spine needs to resist enormous tension.
+
+
+![Side Crunches](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/side2.png) 
+
+
+
+
