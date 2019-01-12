@@ -958,11 +958,11 @@ Where you place your free hand determines the degree of resistance during this e
 
 #### 3.TWIST
 
-Twisting rotations belong in the isolated, single-joint exercise category. Their main advantage is that they attack “love handles” better than any other exercise does.
+Twisting rotations belong in the isolated, single-joint exercise category. 
+Their main advantage is that they attack “love handles” better than any other exercise does.
 
 
 **How to do it**
-
   **(1) - Twist with a broomstick:** - Sit on a bench or stand up while holding a broomstick on your shoulders. Slowly rotate from
 left to right using a reduced range of motion. Avoid jerky movements. 
 
