@@ -1015,9 +1015,36 @@ Press your lower back as powerfully as possible against a wall with your feet ab
   
   - If you cannot last 15 seconds in the standing position, do the exercise lying on the floor on your back with your legs bent at 90 degrees. gently stretch your legs without arching your back. The objective here is to push the lumbar spine as strongly as possible against the floor. When you feel the lower back lift off the floor, stop extending your legs. Avoid pushing on your heels to keep your lower back against the floor. When this floor exercise becomes too easy, stand up to do it leaning against a wall.
 
+#### 5. PLANK
+The plank works most of the core muscles, and there is no machine for this exercise. Thus, you can do it at home whenever you want and as frequently as you want.
 
+![Muscles triggered by plank exercisses](https://yurielkaim.com/wp-content/uploads/2013/08/Core-Muscles.jpg) 
 
+**How to do it**
+Lie on the floor, facedown, resting on both your elbows and forearms and on the balls of your feet and your toes. Hold this static position for at least 15 seconds while keeping your body as straight as possible.
 
+![Planks](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/planks.png)
+
+![Performing Plank](https://thumbs.gfycat.com/WhisperedSoggyDwarfrabbit-mobile.jpg)
+
+**Pros**
+  - Because this isometric exercise requires no equipment, it can be done in very little time.
+
+**Con**
+  - Isometric exercises are not the best for improving the aesthetic appearance of your abs. However, this exercise may be very appropriate for you if you require a strong core to compete in a combat or team contact sport.
+
+**Tips**
+  - If you experience any pain while putting your palms on the floor, make fists and put your hands in a neutral position (with only the pinkies in contact with the floor).
+  - If the weight of your head becomes too uncomfortable, bend your neck forward to let it rest against your hands.
+  - A gym mat (or at least a towel) will help you avoid pain in your forearms.
+  - Don’t arch your lower back to make the exercise easier. If you bow your back excessively, you may pinch the intervertebral discs. 
+  - A recent study suggests that the plank is three times more effective if you hollow your abdominal muscles (i.e., contract your glutes while tilting your pelvis slightly up and tucking your chest toward your abs).
+  - To work the obliques, you can perform the exercise in a lateral position. If this version is too difficult, use your free hand for support by placing it on the floor in front of you.
+  
+  ![Side planks](https://cdn-xi3mbccdkztvoept8hl.netdna-ssl.com/wp-content/uploads/watermarked/Side_Plank_F_WorkoutLabs.png)
+  
+  
+  
 
 
 
