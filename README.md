@@ -956,8 +956,7 @@ Where you place your free hand determines the degree of resistance during this e
 ![Side Crunches](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/side2.png) 
 
 
-#### 3.TWIST
-
+#### 3. TWIST
 Twisting rotations belong in the isolated, single-joint exercise category. 
 Their main advantage is that they attack “love handles” better than any other exercise does.
 
@@ -991,5 +990,56 @@ left to right using a reduced range of motion. Avoid jerky movements.
   -Twist while hanging on a pull-up bar with either bent legs (easier) or straight legs (much harder). This version provides the added advantage of decompressing the spine at the end of a workout
   
 ![Twist while hanging](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/twist-hanging.png) 
+
+
+#### 4. STATIC STABILITY
+This static exercise targets the transversus abdominis and the obliques as well as many deep core muscles that support the spine.
+
+
+**How to do it**
+Press your lower back as powerfully as possible against a wall with your feet about two feet (55 cm) away from the wall. Once in position, slowly bring your feet closer to the wall by taking very small steps. As you move, your lower back should remain in contact with the wall. When you reach the point where you are losing contact, stop moving your feet and hold the position for at least 20 seconds. 
+
+![Static stability exercises](https://www.whyiexercise.com/images/knee.strengthening.exercises.thumbnails.jpg) 
+
+**Pro**
+  - Regular practice of this exercise helps to prevent back pain by training the core muscles that support the spine.
+  - No machine allows you to directly contract the transversus abdominis. You can easily do this exercise at home, whenever you want and as frequently as you want, because no equipment is required.
+
+**Con**
+  - Because this exercise seems so easy, many women neglect it. This is a mistake.
+
+**Tips**
+  - Although this exercise looks easy, you will feel a very strong contraction in your abdominal muscles. Because these core muscles are not used to such a powerful contraction, you will be amazed at how fast they get tired.
+  
+![Twist while lying on the floor](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/twist-lying.png) 
+    
+  - If the wall version becomes too easy, perform it while standing without the wall for support.
+  
+  - If you cannot last 15 seconds in the standing position, do the exercise lying on the floor on your back with your legs bent at 90 degrees. gently stretch your legs without arching your back. The objective here is to push the lumbar spine as strongly as possible against the floor. When you feel the lower back lift off the floor, stop extending your legs. Avoid pushing on your heels to keep your lower back against the floor. When this floor exercise becomes too easy, stand up to do it leaning against a wall.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
