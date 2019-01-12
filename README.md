@@ -1049,7 +1049,9 @@ Lie on the floor, facedown, resting on both your elbows and forearms and on the 
   **Anatomy and Morphology** 
 The deltoid is the muscle responsible for moving the arm in all directions. Aesthetically, your shoulders define your build. The deltoid is divided into three parts:
    (1). The front of the shoulder, which lifts the arm in front or overhead;
+   
    (2). The lateral part of the shoulder, which raises the arm to the side;
+   
    (3). The back of the shoulder, which pulls the arm backward; 
 
 The deltoid is a single-joint muscle because it crosses only the shoulder joint. On the other hand, because of its various heads, you can work this muscle from plenty of angles by raising your arms in front of you, overhead, laterally, and posteriorly.
