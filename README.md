@@ -956,5 +956,40 @@ Where you place your free hand determines the degree of resistance during this e
 ![Side Crunches](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/side2.png) 
 
 
+#### 3.TWIST
+
+Twisting rotations belong in the isolated, single-joint exercise category. Their main advantage is that they attack “love handles” better than any other exercise does.
+
+
+**How to do it**
+
+  **(1) - Twist with a broomstick:** - Sit on a bench or stand up while holding a broomstick on your shoulders. Slowly rotate from
+left to right using a reduced range of motion. Avoid jerky movements. 
+
+![Twist with a broomstick](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/twist-seated.png) 
+
+  **(2) - Twist with an elastic band:** - Attach a band to a fixed point that is at about shoulder height. Standing, grasp the band in both hands and step forward. The farther you step from where the band is attached, the greater the resistance will be. Standing with your legs apart to increase stability, rotate from right to left. Do not turn your torso more than 45 degrees. When you have finished working the right side, move immediately to the left side.
+  
+  **(3) - Twist with a machine:** -Sit, stand, or kneel, depending on the equipment. Slowly rotate from left to right. Do not exaggerate the range of motion.
+
+![Twist with a machine](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/twist-machine.png) 
+
+
+**Pro**
+  - This is one of only a very few exercises that target love handles. Even so, love handles are not easy to get rid of. A proper diet and specific exercises will help. 
+
+**Con**
+  - This exercise can exacerbate back problems. If you have any back problems at all, do not perform the twist.
+
+**Tips**
+  - Don’t try to rotate over the greatest range of motion possible. Use a reduced range of motion (no more than 10 in., or 25 cm, of rotation on each side). Slow your pace to make up for the short range of motion.
+  - Do this exercise slowly using long sets (e.g., 25 repetitions). Performing two to four sets every day will combat love handles.
+  - Do the twist while lying on the floor. Instead of moving your upper body, your legs perform the rotations. You can do the twist either with bent legs (easier) or straight legs (far more difficult).
+  
+![Twist while lying on the floor](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/twist-lying.png) 
+  
+  -Twist while hanging on a pull-up bar with either bent legs (easier) or straight legs (much harder). This version provides the added advantage of decompressing the spine at the end of a workout
+  
+![Twist while hanging](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/twist-hanging.png) 
 
 
