@@ -1011,8 +1011,6 @@ Press your lower back as powerfully as possible against a wall with your feet ab
 **Tips**
   - Although this exercise looks easy, you will feel a very strong contraction in your abdominal muscles. Because these core muscles are not used to such a powerful contraction, you will be amazed at how fast they get tired.
   
-![Twist while lying on the floor](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/twist-lying.png) 
-    
   - If the wall version becomes too easy, perform it while standing without the wall for support.
   
   - If you cannot last 15 seconds in the standing position, do the exercise lying on the floor on your back with your legs bent at 90 degrees. gently stretch your legs without arching your back. The objective here is to push the lumbar spine as strongly as possible against the floor. When you feel the lower back lift off the floor, stop extending your legs. Avoid pushing on your heels to keep your lower back against the floor. When this floor exercise becomes too easy, stand up to do it leaning against a wall.
