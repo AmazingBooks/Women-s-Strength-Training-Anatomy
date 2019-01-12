@@ -826,7 +826,7 @@ There are six main categories of exercises for the abdominal muscles from which 
   5. Static stability
   6. Plank
   
-#### 1. Crunches
+### 1. Crunches
 
 The crunch belongs in the isolated, single joint exercise category. It does not recruit much of the muscle groups surrounding the abs and primarily targets the upper abdominal zone.
 
@@ -885,7 +885,7 @@ play far more powerfully when the feet are blocked.
   
   
       
-#### 2. LEG RAISE
+### 2. LEG RAISE
 Leg raises recruit the abs as well as the hip flexors. When performed properly, they target the entire abdominal wall but emphasize
 the lower abdominal area.
 
@@ -920,7 +920,7 @@ To make the leg raise harder, you can perform it while hanging from a pull-up ba
 ![LEG RAISE](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/bench.png)      
       
 
-#### 2.SIDE CRUNCH
+### 3.SIDE CRUNCH
 
 This exercise isolates the obliques more than the oblique crunch does, which targets both the rectus abdominis and the obliques. 
 
@@ -956,7 +956,7 @@ Where you place your free hand determines the degree of resistance during this e
 ![Side Crunches](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/side2.png) 
 
 
-#### 3. TWIST
+### 4. TWIST
 Twisting rotations belong in the isolated, single-joint exercise category. 
 Their main advantage is that they attack “love handles” better than any other exercise does.
 
@@ -992,7 +992,7 @@ left to right using a reduced range of motion. Avoid jerky movements.
 ![Twist while hanging](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/twist-hanging.png) 
 
 
-#### 4. STATIC STABILITY
+### 5. STATIC STABILITY
 This static exercise targets the transversus abdominis and the obliques as well as many deep core muscles that support the spine.
 
 
@@ -1015,7 +1015,7 @@ Press your lower back as powerfully as possible against a wall with your feet ab
   
   - If you cannot last 15 seconds in the standing position, do the exercise lying on the floor on your back with your legs bent at 90 degrees. gently stretch your legs without arching your back. The objective here is to push the lumbar spine as strongly as possible against the floor. When you feel the lower back lift off the floor, stop extending your legs. Avoid pushing on your heels to keep your lower back against the floor. When this floor exercise becomes too easy, stand up to do it leaning against a wall.
 
-#### 5. PLANK
+### 6. PLANK
 The plank works most of the core muscles, and there is no machine for this exercise. Thus, you can do it at home whenever you want and as frequently as you want.
 
 ![Muscles triggered by plank exercisses](https://yurielkaim.com/wp-content/uploads/2013/08/Core-Muscles.jpg) 
@@ -1044,10 +1044,17 @@ Lie on the floor, facedown, resting on both your elbows and forearms and on the 
   ![Side planks](https://cdn-xi3mbccdkztvoept8hl.netdna-ssl.com/wp-content/uploads/watermarked/Side_Plank_F_WorkoutLabs.png)
   
   
+## Curve Your Shoulders
   
+  **Anatomy and Morphology** 
+  - The deltoid is the muscle responsible for moving the arm in all directions. Aesthetically, your shoulders define your build. The deltoid is divided into three parts:
+      1. The front of the shoulder, which lifts the arm in front or overhead;
+      2. The lateral part of the shoulder, which raises the arm to the side;
+      3. The back of the shoulder, which pulls the arm backward; 
 
+The deltoid is a single-joint muscle because it crosses only the shoulder joint. On the other hand, because of its various heads, you can work this muscle from plenty of angles by raising your arms in front of you, overhead, laterally, and posteriorly.
 
-
+![Shoulder Muscles](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/shoulders.png)
 
 
 
