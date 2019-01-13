@@ -1068,14 +1068,14 @@ The deltoid is a single-joint muscle because it crosses only the shoulder joint.
   <img src="https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/shoulders.png">
 </p>
 
-#### Take-Home Lesson for Women
+### Take-Home Lesson for Women
 Most sedentary females suffer from an anterior deltoid tilt. Such poor posture hides the breasts and often creates back pain. Weight training the shoulders will improve your posture, prevent back pain, and make you look even more attractive. Curved shoulders, created by pulling your arms backward, not only bring your breasts up but also make you appear taller. Most women have a structural imbalance between the front and the back of the shoulders. 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/posture.png">
 </p>
 
-#### Shoulder Exercises: 
+### Shoulder Exercises: 
 There are three main categories of exercises for the shoulders from which women can benefit:
 
        (1). Lateral raise
@@ -1084,7 +1084,77 @@ There are three main categories of exercises for the shoulders from which women 
        
        (3). Bent-over lateral raise
    
-   
+
+Each category has several versions, which guarantees a great variety of movements and allows you to choose the ones that best suit both your anatomy and your goals.
+
+**TIPS:**
+  - The chest press already stimulates the front part of the shoulders. If you are seriously training your chest, it is not necessary to focus on the front of the shoulder, especially because this zone of the deltoid is the easiest to develop.
+  - Performing both chest and shoulder presses places unnecessary stress on the shoulder, elbow, and wrist joints, which is likely to translate into pain and injuries. Avoiding the shoulder press will save you time and lighten the burden on your joints.
+  - Overly developed front delts will deteriorate your posture.
+
+#### 1. LATERAL RAISE
+The lateral raise belongs in the isolating exercise category because only the shoulder joint is mobilized. As a consequence, the elevations do not recruit much muscle except the lateral part of the deltoids. This elevation of the arm is not very common in sports or in daily life, which explains why the role of the middle part of the shoulder is mostly aesthetic. The nice curve it provides justifies making the lateral raise the first exercise whenever shoulders are trained.
+
+
+**How to do it** - Grab two dumbbells or the handles of a cable or a machine. Raise your arms up while keeping them as straight as possible. At all times, keep them in line with your body. raise your arms until they are parallel to the floor. Stop for one second, bring your arms down, and repeat the movement slowly. The lateral raise can be performed with dumbbells, a machine, or a cable. Analyze the advantages and disadvantages of each version presented later in this section to choose the one that suits you best.
+
+
+**Pro**
+  - Because the deltoids are very isolated muscles, they are conducive to drop sets when people want to work them deeply. You do not have to worry about any other muscle wearing out before the deltoids. As explained in part I, a descending set allows you to continue a set once you have reached fatigue without having to cheat. It involves briefly stopping the movement to rapidly remove around one third of the weight you are using and immediately resume your set. This allows you to continue the exercise and keep the muscle burn going. You can drop the load once or twice depending upon the level of muscular intensity you want to reach (the more drops you do per set, the more intense it   is for your muscles).
+
+**Cons**
+  - Many people are tempted to cheat in this exercise so they can handle heavier weight, which is counterproductive.
+  - Almost any kind of lateral raise puts pressure on the lower back. Therefore, it is a good idea to use a lifting belt to reduce this pressure as much as possible.
+
+**Cons of the Dumbbell Lateral Raise**
+   - As you start raising your arms, most of the work is performed by the supraspinatus, not the deltoids. The deltoid muscles intervene only during the last two thirds of the movement. Because the supraspinatus is a fragile muscle, excessive stimulation is likely to result in chronic shoulder pain.
+   - The deltoids receive only a weak prestretch. Because the resistance from dumbbells diminishes rapidly when the arms come back to the body, the deltoids are not stretched very much.
+   - Of all the lateral raise versions, the dumbbell lateral raise is the least productive and the most traumatic.
+
+<p align="center">
+  <img src="https://www.burnthefatinnercircle.com/members/images/1509c.jpg?cb=20181128102317">
+</p>
+
+**Pro and Cons of Machine Lateral Raise**:
+ 
+ (1) - **Pro** - A good lateral raise machine is very effective because the resistance comes from the side. This is exactly the direction required to recruit the middle part of the deltoid. It is because the resistance of the dumbbells comes from the floor whereas free weights recruit the supraspinatus excessively.
+    
+ (2) - **Cons**: 
+        - As with dumbbells, muscle prestretch is close to nonexistent, which reduces the range of motion of the exercise.
+        - To get the maximum benefit from a machine, do your set by raising only one arm at a time. This way, you can place your working shoulder exactly within the axis of rotation of the machine. 
+        - To better target the middle shoulder–rear shoulder tie-in, you can change the orientation of your upper body by bending a little bit forward or laterally. If you do so, keep your spine straight and use a lifting belt to protect your lower back.
+        
+<p align="center">
+  <img src="https://i.pinimg.com/originals/48/4b/de/484bdebece68d87419b6e924d0e8b9eb.jpg">
+</p>
+
+
+**Pros and Cons of Cable Lateral Raise**:
+ 
+ (1) - **Pros**:
+        - Low cable pulleys are more widely available than machines. They present a superior way of performing lateral raises in the safest manner possible;
+        - The range of motion is increased because the pulley allows your arms to cross your torso in the bottom part of the movement. Your right arm can go much farther to the left and your left arm can go much farther to the right than either can with dumbbells or a machine.
+    
+ (2) - **Cons**: 
+        - A cable makes it impractical to train both arms at the same time. You will have to work one arm at a time.
+        - When the pulley has to remain close to the floor, the resistance does not come from the side very much, which reduces the involvement of the deltoid in favor of the supraspinatus, which isn’t a big improvement over dumbbells.
+        
+<p align="center">
+  <img src="https://i.pinimg.com/originals/48/4b/de/484bdebece68d87419b6e924d0e8b9eb.jpg">
+</p>
+
+
+**Tips**
+  - With dumbbells or a cable, at all times during the exercise, the thumbs should be lower than the pinkie fingers so that you really focus your efforts on the lateral part of the deltoids.
+  - With dumbbells, to train your shoulders really hard, start the exercise normally. At failure, move on immediately to dumbbell upright rows(discussed later). This is an advanced superset technique.
+  
+<p align="center">
+  <img src="https://cdn-xi3mbccdkztvoept8hl.netdna-ssl.com/wp-content/uploads/watermarked/Single_Arm_Cable_Lateral_Side_Raise.png">
+</p>
+
+
+
+
 
 
 
