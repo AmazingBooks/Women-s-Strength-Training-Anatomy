@@ -1046,7 +1046,7 @@ Lie on the floor, facedown, resting on both your elbows and forearms and on the 
   
 ## Curve Your Shoulders
   
-  **Anatomy and Morphology** 
+**Anatomy and Morphology** 
 The deltoid is the muscle responsible for moving the arm in all directions. Aesthetically, your shoulders define your build. The deltoid is divided into three parts:
 
      (1). The front of the shoulder, which lifts the arm in front or overhead;
