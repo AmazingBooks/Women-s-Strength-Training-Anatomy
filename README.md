@@ -1061,6 +1061,13 @@ The deltoid is a single-joint muscle because it crosses only the shoulder joint.
   <img src="https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/shoulders.png">
 </p>
 
+#### Take-Home Lesson for Women
+Most sedentary females suffer from an anterior deltoid tilt. Such poor posture hides the breasts and often creates back pain. Weight training the shoulders will improve your posture, prevent back pain, and make you look even more attractive. Curved shoulders, created by pulling your arms backward, not only bring your breasts up but also make you appear taller. Most women have a structural imbalance between the front and the back of the shoulders. 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/posture.png">
+</p>
+
 
 
 
