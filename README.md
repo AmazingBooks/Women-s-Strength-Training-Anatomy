@@ -1105,18 +1105,25 @@ The lateral raise belongs in the isolating exercise category because only the sh
 **Cons**
   - Many people are tempted to cheat in this exercise so they can handle heavier weight, which is counterproductive.
   - Almost any kind of lateral raise puts pressure on the lower back. Therefore, it is a good idea to use a lifting belt to reduce this pressure as much as possible.
-
-**Cons of the Dumbbell Lateral Raise**
-   - As you start raising your arms, most of the work is performed by the supraspinatus, not the deltoids. The deltoid muscles intervene only during the last two thirds of the movement. Because the supraspinatus is a fragile muscle, excessive stimulation is likely to result in chronic shoulder pain.
-   - The deltoids receive only a weak prestretch. Because the resistance from dumbbells diminishes rapidly when the arms come back to the body, the deltoids are not stretched very much.
-   - Of all the lateral raise versions, the dumbbell lateral raise is the least productive and the most traumatic.
+  
+  
+  
+##### Pro and Cons of Dumbell Lateral Raise: 
+ (1) - **Pro**:
+          - Equipment is readily available. You can use dumbbells or any kind of weight you can hold (e.g., water bottles).
+          - You can better target the middle shoulder–rear shoulder tie-in by changing the orientation of your upper body (i.e., bending a little bit forward or laterally). If you do so, keep your spine straight and use a lifting belt to protect your lower back.
+          
+ (2) - **Cons**: 
+         - As you start raising your arms, most of the work is performed by the supraspinatus, not the deltoids. The deltoid muscles intervene only during the last two thirds of the movement. Because the supraspinatus is a fragile muscle, excessive stimulation is likely to result in chronic shoulder pain.
+         - The deltoids receive only a weak prestretch. Because the resistance from dumbbells diminishes rapidly when the arms come back to the body, the deltoids are not stretched very much.
+         - Of all the lateral raise versions, the dumbbell lateral raise is the least productive and the most traumatic.
 
 <p align="center">
   <img src="https://www.burnthefatinnercircle.com/members/images/1509c.jpg?cb=20181128102317">
 </p>
 
-**Pro and Cons of Machine Lateral Raise**:
- 
+
+##### Pro and Cons of Machine Lateral Raise: 
  (1) - **Pro** - A good lateral raise machine is very effective because the resistance comes from the side. This is exactly the direction required to recruit the middle part of the deltoid. It is because the resistance of the dumbbells comes from the floor whereas free weights recruit the supraspinatus excessively.
     
  (2) - **Cons**: 
@@ -1130,7 +1137,7 @@ The lateral raise belongs in the isolating exercise category because only the sh
 
 
 
-**Pros and Cons of Cable Lateral Raise**: 
+##### Pros and Cons of Cable Lateral Raise: 
  (1) - **Pros**:
         - Low cable pulleys are more widely available than machines. They present a superior way of performing lateral raises in the safest manner possible;
         - The range of motion is increased because the pulley allows your arms to cross your torso in the bottom part of the movement. Your right arm can go much farther to the left and your left arm can go much farther to the right than either can with dumbbells or a machine.
