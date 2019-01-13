@@ -1140,17 +1140,14 @@ The lateral raise belongs in the isolating exercise category because only the sh
         - When the pulley has to remain close to the floor, the resistance does not come from the side very much, which reduces the involvement of the deltoid in favor of the supraspinatus, which isn’t a big improvement over dumbbells.
         
 <p align="center">
-  <img src="https://i.pinimg.com/originals/48/4b/de/484bdebece68d87419b6e924d0e8b9eb.jpg">
+  <img src="https://cdn-xi3mbccdkztvoept8hl.netdna-ssl.com/wp-content/uploads/watermarked/Single_Arm_Cable_Lateral_Side_Raise.png">
 </p>
-
 
 **Tips**
   - With dumbbells or a cable, at all times during the exercise, the thumbs should be lower than the pinkie fingers so that you really focus your efforts on the lateral part of the deltoids.
   - With dumbbells, to train your shoulders really hard, start the exercise normally. At failure, move on immediately to dumbbell upright rows(discussed later). This is an advanced superset technique.
   
-<p align="center">
-  <img src="https://cdn-xi3mbccdkztvoept8hl.netdna-ssl.com/wp-content/uploads/watermarked/Single_Arm_Cable_Lateral_Side_Raise.png">
-</p>
+
 
 
 
