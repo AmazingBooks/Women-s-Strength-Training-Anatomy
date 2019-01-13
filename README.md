@@ -1129,8 +1129,8 @@ The lateral raise belongs in the isolating exercise category because only the sh
 </p>
 
 
-**Pros and Cons of Cable Lateral Raise**:
- 
+
+**Pros and Cons of Cable Lateral Raise**: 
  (1) - **Pros**:
         - Low cable pulleys are more widely available than machines. They present a superior way of performing lateral raises in the safest manner possible;
         - The range of motion is increased because the pulley allows your arms to cross your torso in the bottom part of the movement. Your right arm can go much farther to the left and your left arm can go much farther to the right than either can with dumbbells or a machine.
