@@ -1023,9 +1023,13 @@ The plank works most of the core muscles, and there is no machine for this exerc
 **How to do it**
 Lie on the floor, facedown, resting on both your elbows and forearms and on the balls of your feet and your toes. Hold this static position for at least 15 seconds while keeping your body as straight as possible.
 
-![Planks](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/planks.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/planks.png">
+</p>
 
-![Performing Plank](https://thumbs.gfycat.com/WhisperedSoggyDwarfrabbit-mobile.jpg)
+<p align="center">
+  <img src="https://thumbs.gfycat.com/WhisperedSoggyDwarfrabbit-mobile.jpg">
+</p>
 
 **Pros**
   - Because this isometric exercise requires no equipment, it can be done in very little time.
