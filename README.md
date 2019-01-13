@@ -1018,7 +1018,9 @@ Press your lower back as powerfully as possible against a wall with your feet ab
 ### 6. PLANK
 The plank works most of the core muscles, and there is no machine for this exercise. Thus, you can do it at home whenever you want and as frequently as you want.
 
-![Muscles triggered by plank exercisses](https://yurielkaim.com/wp-content/uploads/2013/08/Core-Muscles.jpg) 
+<p align="center">
+  <img src="https://yurielkaim.com/wp-content/uploads/2013/08/Core-Muscles.jpg">
+</p>
 
 **How to do it**
 Lie on the floor, facedown, resting on both your elbows and forearms and on the balls of your feet and your toes. Hold this static position for at least 15 seconds while keeping your body as straight as possible.
@@ -1031,10 +1033,10 @@ Lie on the floor, facedown, resting on both your elbows and forearms and on the 
   <img src="https://thumbs.gfycat.com/WhisperedSoggyDwarfrabbit-mobile.jpg">
 </p>
 
-**Pros**
+**Pros**:
   - Because this isometric exercise requires no equipment, it can be done in very little time.
 
-**Con**
+**Con**:
   - Isometric exercises are not the best for improving the aesthetic appearance of your abs. However, this exercise may be very appropriate for you if you require a strong core to compete in a combat or team contact sport.
 
 **Tips**
@@ -1096,10 +1098,11 @@ Each category has several versions, which guarantees a great variety of movement
 The lateral raise belongs in the isolating exercise category because only the shoulder joint is mobilized. As a consequence, the elevations do not recruit much muscle except the lateral part of the deltoids. This elevation of the arm is not very common in sports or in daily life, which explains why the role of the middle part of the shoulder is mostly aesthetic. The nice curve it provides justifies making the lateral raise the first exercise whenever shoulders are trained.
 
 
-**How to do it** - Grab two dumbbells or the handles of a cable or a machine. Raise your arms up while keeping them as straight as possible. At all times, keep them in line with your body. raise your arms until they are parallel to the floor. Stop for one second, bring your arms down, and repeat the movement slowly. The lateral raise can be performed with dumbbells, a machine, or a cable. Analyze the advantages and disadvantages of each version presented later in this section to choose the one that suits you best.
+**How to do it**:
+  - Grab two dumbbells or the handles of a cable or a machine. Raise your arms up while keeping them as straight as possible. At all times, keep them in line with your body. raise your arms until they are parallel to the floor. Stop for one second, bring your arms down, and repeat the movement slowly. The lateral raise can be performed with dumbbells, a machine, or a cable. Analyze the advantages and disadvantages of each version presented later in this section to choose the one that suits you best.
 
 
-**Pro**
+**Pro**:
   - Because the deltoids are very isolated muscles, they are conducive to drop sets when people want to work them deeply. You do not have to worry about any other muscle wearing out before the deltoids. As explained in part I, a descending set allows you to continue a set once you have reached fatigue without having to cheat. It involves briefly stopping the movement to rapidly remove around one third of the weight you are using and immediately resume your set. This allows you to continue the exercise and keep the muscle burn going. You can drop the load once or twice depending upon the level of muscular intensity you want to reach (the more drops you do per set, the more intense it   is for your muscles).
 
 **Cons**
@@ -1124,7 +1127,7 @@ The lateral raise belongs in the isolating exercise category because only the sh
 
 
 ##### Pro and Cons of Machine Lateral Raise: 
- (1) - **Pro**
+ (1) - **Pro**:
   - A good lateral raise machine is very effective because the resistance comes from the side. This is exactly the direction required to recruit the middle part of the deltoid. It is because the resistance of the dumbbells comes from the floor whereas free weights recruit the supraspinatus excessively.
     
  (2) - **Cons**: 
