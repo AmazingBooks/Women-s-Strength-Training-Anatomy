@@ -1075,7 +1075,13 @@ Most sedentary females suffer from an anterior deltoid tilt. Such poor posture h
   <img src="https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/posture.png">
 </p>
 
-
+#### Shoulder Exercises: 
+There are three main categories of exercises for the shoulders from which women can benefit:
+   [1]. Lateral raise
+   [2]. Upright row
+   [3]. Bent-over lateral raise
+   
+   
 
 
 
