@@ -1110,13 +1110,13 @@ The lateral raise belongs in the isolating exercise category because only the sh
   
 ##### Pro and Cons of Dumbell Lateral Raise: 
  (1) - **Pro**:
-          - Equipment is readily available. You can use dumbbells or any kind of weight you can hold (e.g., water bottles).
-          - You can better target the middle shoulder–rear shoulder tie-in by changing the orientation of your upper body (i.e., bending a little bit forward or laterally). If you do so, keep your spine straight and use a lifting belt to protect your lower back.
+  - Equipment is readily available. You can use dumbbells or any kind of weight you can hold (e.g., water bottles).
+  - You can better target the middle shoulder–rear shoulder tie-in by changing the orientation of your upper body (i.e., bending a little bit forward or laterally). If you do so, keep your spine straight and use a lifting belt to protect your lower back.
           
  (2) - **Cons**: 
-         - As you start raising your arms, most of the work is performed by the supraspinatus, not the deltoids. The deltoid muscles intervene only during the last two thirds of the movement. Because the supraspinatus is a fragile muscle, excessive stimulation is likely to result in chronic shoulder pain.
-         - The deltoids receive only a weak prestretch. Because the resistance from dumbbells diminishes rapidly when the arms come back to the body, the deltoids are not stretched very much.
-         - Of all the lateral raise versions, the dumbbell lateral raise is the least productive and the most traumatic.
+  -  As you start raising your arms, most of the work is performed by the supraspinatus, not the deltoids. The deltoid muscles intervene only during the last two thirds of the movement. Because the supraspinatus is a fragile muscle, excessive stimulation is likely to result in chronic shoulder pain.
+  - The deltoids receive only a weak prestretch. Because the resistance from dumbbells diminishes rapidly when the arms come back to the body, the deltoids are not stretched very much.
+  - Of all the lateral raise versions, the dumbbell lateral raise is the least productive and the most traumatic.
 
 <p align="center">
   <img src="https://www.burnthefatinnercircle.com/members/images/1509c.jpg?cb=20181128102317">
@@ -1124,12 +1124,13 @@ The lateral raise belongs in the isolating exercise category because only the sh
 
 
 ##### Pro and Cons of Machine Lateral Raise: 
- (1) - **Pro** - A good lateral raise machine is very effective because the resistance comes from the side. This is exactly the direction required to recruit the middle part of the deltoid. It is because the resistance of the dumbbells comes from the floor whereas free weights recruit the supraspinatus excessively.
+ (1) - **Pro**
+  - A good lateral raise machine is very effective because the resistance comes from the side. This is exactly the direction required to recruit the middle part of the deltoid. It is because the resistance of the dumbbells comes from the floor whereas free weights recruit the supraspinatus excessively.
     
  (2) - **Cons**: 
-        - As with dumbbells, muscle prestretch is close to nonexistent, which reduces the range of motion of the exercise.
-        - To get the maximum benefit from a machine, do your set by raising only one arm at a time. This way, you can place your working shoulder exactly within the axis of rotation of the machine. 
-        - To better target the middle shoulder–rear shoulder tie-in, you can change the orientation of your upper body by bending a little bit forward or laterally. If you do so, keep your spine straight and use a lifting belt to protect your lower back.
+  - As with dumbbells, muscle prestretch is close to nonexistent, which reduces the range of motion of the exercise.
+  - To get the maximum benefit from a machine, do your set by raising only one arm at a time. This way, you can place your working shoulder exactly within the axis of rotation of the machine. 
+  - To better target the middle shoulder–rear shoulder tie-in, you can change the orientation of your upper body by bending a little bit forward or laterally. If you do so, keep your spine straight and use a lifting belt to protect your lower back.
         
 <p align="center">
   <img src="https://i.pinimg.com/originals/48/4b/de/484bdebece68d87419b6e924d0e8b9eb.jpg">
@@ -1139,12 +1140,12 @@ The lateral raise belongs in the isolating exercise category because only the sh
 
 ##### Pros and Cons of Cable Lateral Raise: 
  (1) - **Pros**:
-        - Low cable pulleys are more widely available than machines. They present a superior way of performing lateral raises in the safest manner possible;
-        - The range of motion is increased because the pulley allows your arms to cross your torso in the bottom part of the movement. Your right arm can go much farther to the left and your left arm can go much farther to the right than either can with dumbbells or a machine.
+  - Low cable pulleys are more widely available than machines. They present a superior way of performing lateral raises in the safest manner possible;
+  - The range of motion is increased because the pulley allows your arms to cross your torso in the bottom part of the movement. Your right arm can go much farther to the left and your left arm can go much farther to the right than either can with dumbbells or a machine.
     
  (2) - **Cons**: 
-        - A cable makes it impractical to train both arms at the same time. You will have to work one arm at a time.
-        - When the pulley has to remain close to the floor, the resistance does not come from the side very much, which reduces the involvement of the deltoid in favor of the supraspinatus, which isn’t a big improvement over dumbbells.
+  - A cable makes it impractical to train both arms at the same time. You will have to work one arm at a time.
+  - When the pulley has to remain close to the floor, the resistance does not come from the side very much, which reduces the involvement of the deltoid in favor of the supraspinatus, which isn’t a big improvement over dumbbells.
         
 <p align="center">
   <img src="https://cdn-xi3mbccdkztvoept8hl.netdna-ssl.com/wp-content/uploads/watermarked/Single_Arm_Cable_Lateral_Side_Raise.png">
