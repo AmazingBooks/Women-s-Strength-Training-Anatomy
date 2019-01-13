@@ -1057,7 +1057,7 @@ The deltoid is the muscle responsible for moving the arm in all directions. Aest
 
 The deltoid is a single-joint muscle because it crosses only the shoulder joint. On the other hand, because of its various heads, you can work this muscle from plenty of angles by raising your arms in front of you, overhead, laterally, and posteriorly.
 
-![Shoulder Muscles](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/shoulders.png)
+<center>![Shoulder Muscles](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/shoulders.png) </center>
 
 
 
