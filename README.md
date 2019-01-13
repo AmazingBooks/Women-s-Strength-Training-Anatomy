@@ -1041,7 +1041,10 @@ Lie on the floor, facedown, resting on both your elbows and forearms and on the 
   - A recent study suggests that the plank is three times more effective if you hollow your abdominal muscles (i.e., contract your glutes while tilting your pelvis slightly up and tucking your chest toward your abs).
   - To work the obliques, you can perform the exercise in a lateral position. If this version is too difficult, use your free hand for support by placing it on the floor in front of you.
   
-  ![Side planks](https://cdn-xi3mbccdkztvoept8hl.netdna-ssl.com/wp-content/uploads/watermarked/Side_Plank_F_WorkoutLabs.png)
+<p align="center">
+  <img src="https://cdn-xi3mbccdkztvoept8hl.netdna-ssl.com/wp-content/uploads/watermarked/Side_Plank_F_WorkoutLabs.png">
+</p>
+
   
   
 ## Curve Your Shoulders
