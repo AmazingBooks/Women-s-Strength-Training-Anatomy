@@ -1215,7 +1215,7 @@ your trapezius will come into play.
   - Arching your lower back permits you to handle heavier weight, but it lso makes you more prone to spinal injuries.
   
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/twist-lying.png">
+  <img src="https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/bar-row.png">
 </p>
 
   
