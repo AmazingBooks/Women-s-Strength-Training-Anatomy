@@ -1157,24 +1157,137 @@ The lateral raise belongs in the isolating exercise category because only the sh
 **Tips**
   - With dumbbells or a cable, at all times during the exercise, the thumbs should be lower than the pinkie fingers so that you really focus your efforts on the lateral part of the deltoids.
   - With dumbbells, to train your shoulders really hard, start the exercise normally. At failure, move on immediately to dumbbell upright rows(discussed later). This is an advanced superset technique.
+  - You can increase the range of motion of this exercise by raising your hands as high as possible rather than stopping them at shoulder level. If you do so, you should slowly rotate your hands so that your palms end up facing each other when the weights touch at the top of the movement. As you bring the weights down, slowly rotate the hands back so that your thumbs face the front as the dumbbells touch your legs. This variation will target your front shoulders and your upper trapezius more than the regular version.
+  - With dumbbells, you can do this exercise while sitting or standing. In general, your execution form is better when sitting than when standing. One approach is to begin this exercise sitting down and, at failure, stand up so that you can perform a few more repetitions.
   
 
+### 2. UPRIGHT ROW
+The upright row recruits many muscles in addition to the shoulders: the upper trapezius, biceps, and forearms.
+
+**How to do it** - Stand holding a barbell, dumbbells, or pulley handle using a pronated, palmsdown grip. Lift your arms while bending them, keeping your hands as close to your body as possible. You can lift the weight all the way to your chin, but many people prefer to lift the weight only as high as the chest.
+        
+<p align="center">
+  <img src="https://weighttraining.guide/wp-content/uploads/2016/05/Barbell-Wide-Grip-Upright-Row.png">
+</p>
 
 
+##### Smith Machine Upright Row: 
+ (1) - **Pro**:
+  - Because the weight does not have to be balanced, this version is very beginner friendly.
+          
+ (2) - **Con**: 
+  - The hands are even less free to move than with a barbell, which increases the risk of twisting the wrists during the lift.
+        
+<p align="center">
+  <img src="https://www.muscleandperformance.com/.image/t_share/MTQ1MzY2OTYwNjAyNjg3MDMx/image-placeholder-title.jpg">
+</p>
+
+##### Dumbbell Upright Row: 
+
+ (1) - **Pro**:
+  - The hand is completely free to move, which minimizes any unnatural twisting of the wrists and allows you to rotate your hands to optimize the recruitment of the lateral part of the deltoids.
+          
+ (2) - **Con**: 
+  - Because of the freedom of movement of both arms, balancing the weight is challenging, which may be difficult for beginners. however, getting used to controlling the dumbbells so that both arms are lifted simultaneously happens quickly.
+        
+<p align="center">
+  <img src="https://cdn-xi3mbccdkztvoept8hl.netdna-ssl.com/wp-content/uploads/watermarked/Dumbbell_Upright_Row2.png">
+</p>
 
 
+##### Cable Upright Row: 
+
+ (1) - **Pros**:
+  - A low cable is much gentler for the shoulder joint than free weights are.
+  - Performing this exercise while lying on the floor greatly minimizes the pressure placed on the spine. If you suffer from mild back pain and insist on training your shoulders, this is the version of choice.
+  
+ (2) - **Con**: 
+  - If you are using a straight bar, you face the same wrist problems that you would with a barbell. If possible, use an EZ bar instead.
+        
+<p align="center">
+  <img src="https://weighttraining.guide/wp-content/uploads/2017/03/Cable-Upright-Row.png">
+</p>
 
 
+**TIPS:**
+  - You must place your hands at the proper width to recruit the deltoids rather than the trapezius. Following are general rules: The wider the grip is, the less the trapezius will be involved. The higher you pull the bar, dumbbells, or pulley handle, the more
+your trapezius will come into play.
+  - Arching your lower back permits you to handle heavier weight, but it lso makes you more prone to spinal injuries.
+  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/twist-lying.png">
+</p>
+
+  
+### 3. BENT-OVER LATERAL RAISE
+The bent-over lateral raise recruits many of the muscle groups surrounding the deltoids—namely, the upper back (trapezius, rhomboids, and part of the latissimus dorsi) as well as the long head of the triceps. Bent-over laterals can be performed with dumbbells, a cable, or a machine.
+
+<p align="center">
+  <img src="https://www.worldwidelifestyles.com/wp-content/uploads/2017/12/Bent-over-Lateral-Raise.png.jpg">
+</p>
+ 
+ **How to Do It: Dumbbells and Cable** 
+  - With dumbbells or a cable, lean forward so that your torso forms a 90-degree to 120-degree angle to the floor. Grab the dumbbells or cable handle using a pronated, palms-down grip (thumbs toward each other). A neutral grip (hammer grip with thumbs facing the front) can also be adopted with the cable handle. Lift your arms to the sides as high as possible while keeping them as straight as possible. hold the contracted position for one to two seconds; then lower the weights.
+  
+<p align="center">
+  <img src="https://weighttraining.guide/wp-content/uploads/2016/05/Dumbbell-Rear-Lateral-Raise.png">
+</p>
+
+##### Pro and Cons of Dumbell Lateral Raise: 
+ (1) - **Pro**:
+  - Equipment is readily available. You can use dumbbells or any kind of weight you can hold (e.g., water bottles).
+          
+ (2) - **Cons**: 
+  - This version places significant tension on the lower back.
+  - The bent-over position may not be comfortable.
+  - The range of motion of the exercise is limited by a lack of resistance in the stretched part of the movement.
+   
+##### Pro and Cons of Cable Lateral Raise: 
+ (1) - **Pro**:
+  - Because of the pronounced stretch at the bottom of the movement, a cable allows a much longer range of motion than dumbbells and even machines. Because the upper back region is difficult to develop, using the greatest range of motion possible, especially by increasing the stretched portion of the movement, is very effective.
+          
+ (2) - **Cons**: 
+  - The cable makes it very impractical to train both arms at the same time. You will need to work one arm at a time, which will increase the duration of your training.
+  - Unnecessary tension is placed on the lower back.
+  - The bent-over position may not be comfortable.
+ 
+**How to Do It: Rear Deltoid Machine*   
+  - Sit in the machine and make sure the pad does not compress your breasts excessively, which may become painful as the set goes on. depending on the machine, you can adopt either a neutral (hammer) or pronated (palms-down) grip. Pull your arms to the rear as far as possible. hold the contracted position for one to two seconds before bringing your arms back to the front.
+    
+<p align="center">
+  <img src="https://i.ytimg.com/vi/_tplmUrUVw8/maxresdefault.jpg">
+</p>
 
 
+##### Pros and Con of Machine Lateral Raise: 
+ (1) - **Pros**:
+  - Machines are much safer for the lower back because most of them have you perform the movement in a seated position. As a result, the pressure on the spine is reduced compared to a bent-over standing position.
+  - The seated position is also much more comfortable because breathing is easier than when you bend over to lift weights.
+          
+ (2) - **Con**: 
+  - Machines are not readily available. If you do not have access to one, use a low pulley and work one arm at a time. Only in the absence of either a machine or a pulley do we recommend the dumbbell bent-over lateral raise.
+
+**TIPS**:
+  - The rear deltoid is the most neglected and most underdeveloped part of the shoulder. As discussed in the introduction of this section, women often neglect the backs of their shoulders. It is wise to work the rear of the shoulders as often as possible with the bent-over lateral raise. This is a key exercise for this area.
+  - Perform this exercise using descending sets to make sure you really work the muscle to the maximum.
+  - Keep your head very straight and look straight ahead with your gaze slightly upward to keep your back perfectly aligned
+  - The movement is easier if you do not keep your arms perfectly perpendicular to your torso. drifting them downward allows you to use heavier weights, but it does not isolate your rear shoulders nearly as well. So, make sure you raise your arms straight up to your sides even if you have to lighten your weight to do so.
+
+  
+  
+  
+  
+  <!-- 
 
 
+<p align="center">
+  <img src="https://weighttraining.guide/wp-content/uploads/2017/03/Cable-Upright-Row.png">
+</p>
 
 
+![Twist while lying on the floor](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/twist-lying.png) 
 
-
-
-
-
-
+-->
+  
+  
 
