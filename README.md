@@ -1274,8 +1274,6 @@ The bent-over lateral raise recruits many of the muscle groups surrounding the d
   - The movement is easier if you do not keep your arms perfectly perpendicular to your torso. drifting them downward allows you to use heavier weights, but it does not isolate your rear shoulders nearly as well. So, make sure you raise your arms straight up to your sides even if you have to lighten your weight to do so.
 
 
-
-
 ## Develop a Pain-Free Upper Back
   
 **Anatomy and Morphology** 
@@ -1289,9 +1287,77 @@ Covering almost the entire back, the latissimus dorsi muscles create the torsoâ€
   <img src="https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/back.png">
 </p>
   
-  
-  
-  <!-- 
+### Take-Home Lesson for Women
+At first the idea of strengthening your back for aesthetic reasons may sound strange. However, a back V-taper can make your waist and hips appear smaller. You do not need to develop an impressive back; you just have to define it a little. Overly developed upper traps (trapezius muscles) are not aesthetically pleasing on women. Therefore, women are counseled to avoid exercises such as shrugs, which directly stimulate the upper part of the trapezius.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/back1.png">
+</p>
+
+### Upper Back Exercises:
+There are three main categories of exercises for the upper back from which women can benefit:
+
+       (1). Row
+       
+       (2). Pull down
+       
+       (3). Pullover
+       
+Each category has several versions, which guarantees a great variety of movements and allows you to choose the ones that best suit both your anatomy and your goals.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 
 
 
 <p align="center">
