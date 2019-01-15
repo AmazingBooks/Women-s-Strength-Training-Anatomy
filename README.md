@@ -1273,7 +1273,21 @@ The bent-over lateral raise recruits many of the muscle groups surrounding the d
   - Keep your head very straight and look straight ahead with your gaze slightly upward to keep your back perfectly aligned
   - The movement is easier if you do not keep your arms perfectly perpendicular to your torso. drifting them downward allows you to use heavier weights, but it does not isolate your rear shoulders nearly as well. So, make sure you raise your arms straight up to your sides even if you have to lighten your weight to do so.
 
+
+
+
+## Develop a Pain-Free Upper Back
   
+**Anatomy and Morphology** 
+Covering almost the entire back, the latissimus dorsi muscles create the torso’s V-shape. Anatomically, these are the muscles that pull the arms behind the body. In this task, they are assisted by the rear part of the deltoids, the middle and lower trapezius, and the rhomboids. The rhomboids stabilize the scapula, but you cannot see them as they are hidden by the trapezius. The trapezius muscles are divided into two major parts:
+
+     (1). The upper trapezius muscles, which raise the shoulders;
+   
+     (2). The middle and lower trapezius muscles, which lower the arms and prevent the shoulder blades from winging
+     
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/back.png">
+</p>
   
   
   
