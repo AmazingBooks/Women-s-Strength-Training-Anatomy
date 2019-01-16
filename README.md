@@ -1305,20 +1305,154 @@ There are three main categories of exercises for the upper back from which women
        
 Each category has several versions, which guarantees a great variety of movements and allows you to choose the ones that best suit both your anatomy and your goals.
 
+### 1. ROW
+Rowing recruits many muscles in addition to the entire back: the rear shoulders, the biceps, the long head of the triceps, and the forearms. The row is considered a good starting exercise because it stimulates many muscle groups of the upper body. 
+
+##### How to Do It: 
+- **Dumbbell row**: Lean forward so that your torso forms a 90- to 120- degree angle to the floor. Hold two dumbbells in a neutral grip with the thumbs forward. Some people prefer to have their thumbs slightly turned in, and others like them slightly turned out. 
+Choose whichever position allows you the most powerful muscle contraction. 
+
+<p align="center">
+  <img src="https://weighttraining.guide/wp-content/uploads/2017/01/bent-over-two-arm-dumbbell-row.png">
+</p>
+
+<p align="center">
+  <img src="https://media1.popsugar-assets.com/files/thumbor/ZsH0rl33mEr1f1h_bD_aT_SOvKY/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2016/03/15/062/n/1922729/2da5e4fc118dcb52_2._0c1c6b430aa0ae9f_bench-row/i/Dumbbell-Row.jpg">
+</p>
 
 
+- **Barbell row**: Lean forward so that your torso forms a 90- to 120-degree angle to the floor. Grab a barbell with a supinated or pronated grip (see the Variations section for information to make the best choice for you).
+
+<p align="center">
+  <img src="https://weighttraining.guide/wp-content/uploads/2016/10/Barbell-Bent-Over-Row.png">
+</p>
+
+<p align="center">
+  <img src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/bent-over-barbellrow-1441211036.jpg?resize=480:*">
+</p>
 
 
+- **Cable machine row**: Lean forward so that your torso forms a 90- to 120- degree angle to the floor. Hold two dumbbells in a neutral grip with the thumbs forward. Some people prefer to have their thumbs slightly turned in, and others like them slightly turned out. choose whichever position allows you the most powerful muscle contraction. 
+
+<p align="center">
+  <img src="https://weighttraining.guide/wp-content/uploads/2016/05/cablerow.png">
+</p>
+
+<p align="center">
+  <img src="https://blog.nasm.org/wp-content/uploads/2014/11/NASMND14_WORKOUT_1.2_1208x808.jpg">
+</p>
+
+For all versions of the row, pull your arms along your body, bending them and bringing your elbows as far back as possible. Squeeze your shoulder blades together and maintain the contracted position for one to two seconds; then lower the weights and repeat. As a general rule, you should pull your hands back to your navel. Some people pull to their chests, and others, a little lower, near their thighs.
+
+**Pros**:
+- Rowing works the muscles of the entire back, particularly the middle and lower trapezius.
+- Rowing is better than pull-downs at targeting the muscles that enhance posture.
+- rowing is better than pull-downs at protecting the lower back.
+  
+**Cons**: 
+- Leaning forward can interfere with breathing when working intensely.
+- The leaning position places the spine in a precarious position.
+- Rowing with both hands, especially with heavy weights, can put the back at risk. You can reduce this risk by not bending to the
+often-recommended 90 degrees. Instead, lift your torso only until it is at a 120-degree angle to the floor. Because you may find it easier to feel your upper back muscles work from this position, you may feel stronger using it.
+        
+**TIPS**:
+- Keep a continuous tension in your back muscles so you do not straighten your arms too much in the stretched position. Doing so will prevent the biceps and shoulder injuries that can occur from repeatedly straightening the arms too much.
+- Keep your head straight, especially during the contraction phase of the exercise. Avoid turning your head to either side.
+- With dumbbells and barbells, and on some machines, you can alter your grip. A neutral grip (thumbs facing up) provides the most strength and places your arms in a way that makes you less prone to damaging your biceps. A pronated grip (palms facing down) is possible, but it provides the least amount of strength and thus is not recommended.
+
+### 2. PULL DOWN
+The pull-down recruits many muscles in addition to the back: the rear shoulders, the biceps, the long head of the triceps, and the forearms.
+
+##### How to Do It: 
+- Sit at a high-pulley machine and grab the bar with supinated hands (palms up, pinkie fingers facing each other). Your hands should be about shoulder-width apart. You can also use a pronated grip (palms down, thumbs facing each other) to change the angle of attack for this exercise, as shown. In that case, use a wider grip. Vary the position of your hands until you find the one that works best for you. Using a close grip with supinated hands is easier than using a wider grip in pronation; however, the biceps work more and the back works less with this version. If you are a beginner, a supinated, close grip is good to use until your strength increases.
+- A neutral grip is also an option; this grip allows you to be stronger than in a pronated position. The back muscles stretch more in the bottom position, but the range of motion is more limited in the contracted position. Pull the bar down at least to your forehead. If you feel comfortable enough, bring the bar to your upper chest. maintain the contracted position for one second before slowly returning the bar to its starting position. Do not straighten your arms completely before repeating. You have the option of bringing the bar in front of or behind the head. This latter version is the most difficult and the most traumatizing to the shoulder joints, and we don’t recommend it.
+  
+<p align="center">
+  <img src="https://weighttraining.guide/wp-content/uploads/2016/05/wide-grip-lat-pulldown.png">
+</p>
+
+<p align="center">
+  <img src="https://www.bodyrecomposition.com/wp-content/uploads/2009/07/medpulldownback.jpg">
+</p>
 
 
+- **Chin-Up Variation**: As you gain strength from performing machine pull-downs, you will be ready to do chin-ups on a bar. To do so, grab the bar using a supinated grip (palms up) and with your hands about shoulder-width apart. pull your feet up behind you to create a 90-degree angle between your calves and thighs. cross your legs until your right foot pushes against your left ankle. ensure a good grip on the bar by placing your thumb on your index finger (and your middle finger if your thumb is long enough). Using your back muscles, pull yourself up until your forehead reaches the bar. If you can, bring your chin (or your neck) to the bar while tilting your
+head back. Hold the contracted position for one second before coming down slowly. Do not straighten your arms completely. maintain continuous tension to prevent injuries. With chin-ups, your body tends to sway. To avoid this problem and keep your body straight, squeeze your buttocks together hard and push your right foot against your left ankle. This extra rigidity will keep you from swaying.
+To increase the challenge when you can easily do 12 to 15 chin-ups with your body weight, you can add resistance by squeezing a dumbbell or medicine ball between your calves or your thighs.
+
+<p align="center">
+  <img src="https://www.climbing.com/.image/t_share/MTM3MzI0NDMzMjY5MzM1MjA5/trainingperfectpullupsjpg.jpg">
+</p>
+
+**Pros**:
+- In very little time, pull-downs work a very large section of the muscles in the torso.
+- Pull-downs allow you to choose the resistance you want to apply to your muscles. You can increase this resistance by a small amount set after set, which is much harder to do with chin-ups.
+  
+**Cons**: 
+- Many women, unfortunately, are unable to pull themselves up using a horizontal bar, which can be frustrating. To cope with this situation, chin-up machines can be very handy because they allow you to choose the resistance that suits your strength level so you can do a normal set.
+        
+**TIPS**:
+- Never straighten your arms when performing the pull-down or the chin-up variation described later. Doing so creates an extreme stretch that puts the biceps and shoulders at risk of tearing. Instead, maintain continuous tension during the entire stretching part of the exercise. Some people straighten their arms to rest between repetitions. If youchoose to do this, keep in mind that your shoulder ligaments are in a vulnerable position when you are hanging; take extra care to resume the pull-down or chin-up smoothly, without jerking.
 
 
+### 3. PULL OVER
+The pullover recruits major muscles such as the latissimus dorsi and the lower traps and, to a lesser extent, the pectoralis and the long head of the triceps. The serratus anterior muscle might also come into play. Despite this large recruitment, the pullover is more a stretching exercise than a muscle-building one. It is a good way to increase the flexibility of your rib cag.
+
+##### How to Do It: Dumbbell
+- Lie supine on a bench with your head at the edge of the bench. Hold a dumbbell with both hands in a neutral grip (thumbs toward the floor) or a pronated grip (thumbs touching), bend your arms to 90 degrees, and move your arms above your head. keeping your arms bent, lower them behind your head. Bring them as lowas possible and then raise them back up. Do not bring the weight all the way back up. raise it only as long as you feel resistance; if this resistance disappears, you went too far to maintain continuous tension.
+  
+<p align="center">
+  <img src="https://weighttraining.guide/wp-content/uploads/2016/06/Dumbbell-Pullover-edited.png">
+</p>
+
+<p align="center">
+  <img src="https://www.oxygenmag.com/.image/t_share/MTU3OTM1Mzg2NDY5ODY5NTE4/dumbbell-bent-arm-pullover-crop.jpg">
+</p>
 
 
+##### How to Do It: Machine
+- Adjust the seat and grab the movement arm or bar using a pronated, supinated, or neutral grip (this will depend on the type of machine you are using). Pull the arms along the length of your body with the strength of your lats so that your elbows get as close as possible to the rear of your obliques. maintain the contracted position for one to two seconds while squeezing your shoulder blades together before raising your arms again and repeating the movement. If you do not have access to a machine, you can use a high pulley. With your arms straight and your hands close to each other, bring the bar down, keeping your arms straight.
+  
+<p align="center">
+  <img src="https://i.pinimg.com/originals/5a/7f/2c/5a7f2c9ba89318b70acf87d7f18bebff.jpg">
+</p>
+
+**Pro**:
+- If you feel only your biceps working and not your back muscles when performing chin-ups, pull-downs, or rows, then pullovers can really help you. This is because the biceps do not interfere during pullovers. Pre-exhausting your back muscles by starting with the pullover will allow you to feel your lats working more and your biceps less during pull-downs or rows.
+  
+**Cons**: 
+- Because pullovers place the shoulder joints in a relatively unstable position, you should avoid using too much weight. To increase the work, increase the number of repetitions rather than the weight.
+        
+**TIPS**:
+- Don’t train your triceps before starting pullovers; if you do, you run the risk of them being too tired, which will prevent the lats from working as hard as they are supposed to. By either keeping your arms straight or bending them a little, you can modify your position to minimize the recruitment of your triceps.
+- If you are using an adjustable dumbbell, make sure any weights are securely attached because you do not want them to fall off when they are above your head!
+- With dumbbells, as your muscles tire toward the end of the set, you may tend to pull more with one arm than the other. Try to pull in as perfect a line as possible to avoid damaging your shoulder joints.
 
 
+## Protect Your Lower Back
+  
+**Anatomy and Morphology** 
+- The lumbar muscles support the spine. When they are sufficiently developed, these muscles can take pressure off the spine. The lumbar muscles are also responsible for bringing the torso upright from a forward-leaning position. in this task, the lumbar muscles rarely work alone; they typically contract along with the glutes and the hamstrings. Studies have shown that lower back pain is directly related to weak lumbar musculature. Strengthening the lower back muscles is the best way to reduce lower back pain and prevent future back pain. So, it is much wiser to train your back as a preventive measure rather than once back pain has begun to affect your well-being.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/lumbar.png">
+</p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/lumbar1.png">
+</p>
+
+### Take-Home Lesson for Women
+The spine is a weak structure, especially as it ages. Weight training can both strengthen your muscles and increase your bone density, but it can also endanger your spine. Always be careful when you perform exercises that place pressure on your spinal column.
+
+### Lower Back Exercises: 
+There are three main categories of exercises for the shoulders from which women can benefit:
+
+       (1). Deadlift
+       
+       (2). Hyperextension
+
+Each category has several versions, which guarantees a great variety of movements and allows you to choose the ones that best suit both your anatomy and your goals.
 
 
 
@@ -1364,8 +1498,7 @@ Each category has several versions, which guarantees a great variety of movement
   <img src="https://weighttraining.guide/wp-content/uploads/2017/03/Cable-Upright-Row.png">
 </p>
 
-
-![Twist while lying on the floor](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/twist-lying.png) 
+https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/twist-lying.png
 
 -->
   
