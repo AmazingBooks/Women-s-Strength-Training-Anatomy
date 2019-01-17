@@ -1496,7 +1496,7 @@ start position:
 - Keeping the slight natural arch in your back becomes more difficult as your lumbar muscles tire. At that point, your spine starts to curve. By arching your spine forward, you’ll be able to handle heavier weight or push through a few more repetitions, which is why most women shift from a perfectly aligned back to a forward arch as the set progresses. However, this position places your back in a very hazardous position for the sake of a few more reps; the risk of injury is high. Keep your back aligned even if it means you don’t perform as many reps.
 
 <p align="center">
-  <img src="https://weighttraining.guide/wp-content/uploads/2017/03/deadlift-1.png">
+  <img src="https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/deadlift-1.png">
 </p>
 
 
@@ -1535,8 +1535,7 @@ start position:
 <p align="center">
   <img src="https://weighttraining.guide/wp-content/uploads/2017/03/Cable-Upright-Row.png">
 </p>
-
-https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/twist-lying.png
+<img src="https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/deadlift-1.png">
 
 -->
   
