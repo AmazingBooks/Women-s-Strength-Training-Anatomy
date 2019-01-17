@@ -1454,12 +1454,50 @@ There are three main categories of exercises for the shoulders from which women 
 
 Each category has several versions, which guarantees a great variety of movements and allows you to choose the ones that best suit both your anatomy and your goals.
 
+### DEADLIFT:
+Deadlift recruits many muscles in addition to the lumbar muscles: the latissimus dorsi, the glutes, the hamstrings, and the quads.
+The deadlift is considered a good overall exercise because it stimulates so many muscle groups throughout the body. If you do not have much time to train, the deadlift will strengthen several muscles in the limited amount of time you do have.
+
+##### How to Do It: Dumbbells
+- With your feet shoulder-width apart and with a dumbbell beside each foot, bend your knees so your thighs are about perpendicular to the floor. Lift the dumbbells while keeping your back level. a semi-pronated grip, somewhere between a neutral grip (thumbs forward) and a pronated grip (thumbs facing each other) is ideal, but use whichever feels the most natural. allow your back to arch slightly backward to respect the natural curve of your spine. Push down through your heels and pull with your back to stand up. Synchronize the movements of your legs and back as much as possible. From the standing position, bend your legs while leaning to return to the
+start position: 
+  
+<p align="center">
+  <img src="https://qph.fs.quoracdn.net/main-qimg-f3f09b411c7768fa7f90f94d57897e8f">
+</p>
+
+<p align="center">
+  <img src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/workouts/2016/03/dumbbelldeadlift-1457044319.gif">
+</p>
+
+##### How to Do It: Barbell
+- With your feet shoulder-width apart, bend your knees so your thighs are about perpendicular to the floor. Keeping your back level, use a pronated grip (thumbs facing each other) to grab the barbell from the floor. To handle heavier weights, place one hand in a supinated position with the palm up. allow your back to arch slightly backward to respect the natural curve of your spine. Push down through your heels and pull with your back to stand up. Synchronize the movements of your legs and back as much as possible. From the standing position, bend your legs while leaning forward to return to the start position. 
+  
+<p align="center">
+  <img src="https://weighttraining.guide/wp-content/uploads/2016/05/barbell-deadlift.png">
+</p>
+
+<p align="center">
+  <img src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/workouts/2016/03/barbelldeadlift-1457038089.gif">
+</p>
 
 
+**Pro**:
+- Because this exercise works so many muscles in very little time, it is one of the most complete and economical weight training exercises.
+  
+**Cons**: 
+- The number of muscles this exercise recruits can make it very exhausting. Risks of accidents are high as a result of a poor mastering of technique or a loss of balance from fatigue.
+- The deadlift may seem simple, but it is actually a very technical exercise. for this reason, you may want to avoid using it when you first start weightlifting.
+- The deadlift may not be the best way to isolate and therefore specifically strengthen the lower back. Furthermore, it is far riskier for the spine than isolating exercises such as the hyperextension performed on a bench (see the next exercise).
+        
+**TIPS**:
+- To lift dumbbells or a barbell, do not pull with your legs first and then your back. Use them both at the same time.
+- Curving your back to grab the weights (e.g., if you have long legs and short arms) puts your back in a bad position. if you can’t reach the weights without curving your back, consider setting them on a bench a bit below knee level to reduce your range of motion.
+- Keeping the slight natural arch in your back becomes more difficult as your lumbar muscles tire. At that point, your spine starts to curve. By arching your spine forward, you’ll be able to handle heavier weight or push through a few more repetitions, which is why most women shift from a perfectly aligned back to a forward arch as the set progresses. However, this position places your back in a very hazardous position for the sake of a few more reps; the risk of injury is high. Keep your back aligned even if it means you don’t perform as many reps.
 
-
-
-
+<p align="center">
+  <img src="https://weighttraining.guide/wp-content/uploads/2017/03/deadlift-1.png">
+</p>
 
 
 
