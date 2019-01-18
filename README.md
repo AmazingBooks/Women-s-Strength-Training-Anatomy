@@ -1501,9 +1501,24 @@ start position:
 
 
 
+### HYPEREXTENSIONS:
+Hyperextension belongs in the isolating exercise category because only the hip joint is mobilized. nevertheless, the hyperextension does recruit large muscle groups such as the lumbar muscles, the glutes, and the hamstrings. Unlike the deadlift, which tends to compress the intervertebral discs, the hyperextension is safer for the lower back but less effective in terms of overall strengthening. However, if your lower back is fragile, we recommend this isolating exercise over the deadlift.
 
+##### How to Do It: 
+- Enter the bench, place your ankles under the padded brace, and bend over. Relax your spine for a second before slowly starting to raise your torso using your lumbar muscles. once you are parallel to the floor (on a classic bench) or perpendicular to the floor (on a 45-degree bench), remain in the contracted position for a second before returning to the starting position and repeating.
+  
+<p align="center">
+  <img src="https://i.pinimg.com/originals/a4/a3/fc/a4a3fc65d1af3dc6faf5fbb9d16eceed.gif">
+</p>
 
+**Pro**:
+- 
 
+**Cons**: 
+- 
+
+**TIPS**:
+- 
 
 
 
