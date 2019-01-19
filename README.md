@@ -1575,28 +1575,9 @@ The chest press belongs in the basic, multiple-joint exercise category because b
 - Lie with your back on a bench or the seat of a machine. Grab the barbell, dumbbells, or handles. If you are using dumbbells, bring them to your shoulders with a pronated grip (thumbs toward each other). straighten your arms using your chest muscles. Dumbbells should touch at the height of the movement. Then, lower the weight by bending your arms.
 
 <p align="center">
-  <img src="http://roicandbru.com/wp-content/uploads/2016/12/MASTER-ROTATING-CHEST-copy.gif>
+  <img src="http://roicandbru.com/wp-content/uploads/2016/12/MASTER-ROTATING-CHEST-copy.gif">
 </p>
 
 
 
-
-
-
-
-
-
-
-
-
-
-<!-- 
-<p align="center">
-  <img src="https://weighttraining.guide/wp-content/uploads/2017/03/Cable-Upright-Row.png">
-</p>
-<img src="https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/deadlift-1.png">
-
--->
-  
-  
 
