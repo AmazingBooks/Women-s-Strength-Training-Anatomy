@@ -1512,20 +1512,29 @@ Hyperextension belongs in the isolating exercise category because only the hip j
 </p>
 
 **Pro**:
-- 
+- Hyperextension is a safe way to strengthen the lumbar muscles, because, unlike the deadlift, it places very little tension on the intervertebral discs.
 
 **Cons**: 
-- 
+- The movement becomes very easy very quickly, which reduces its effectiveness even if you try to overload the movement by holding a weight plate over your head or against your chest.
+- To avoid damaging your spine, perform the hyperextension in a slow, controlled manner. The lower back muscles are meant to contract more in an isometric manner rather than explosively. If you feel any pain in your spine on the way up, do not raise your back any higher.
 
 **TIPS**:
-- 
+- Placing the padded brace low over your quadriceps forces your glutes to provide most of the work, reducing the involvement of your lower back muscles. Placing the brace over your lower abs forces the lumbar muscles to provide most of the effort. as you can see, the hyperextension can become a lumbar or a glute exercise depending on where you place the brace that holds your torso.
 
+**VARIATIONS**:
+Two main lower back benches are available.
 
+- **90-degree bench**: As shown earlier, the classic bench places you parallel to the floor. this bench is not very comfortable to get into and use, but it provides more resistance for the lumbar muscles and a stronger stretch for the spine in the bottom position. it is therefore a more advanced bench.
 
+- **45-degree bench**: Because of its inclination, this bench is easy to get into and out of. the resistance imposed by gravity is less than with a 90-degree bench, so it is easier to start with. However, the range of motion as well as the stretch of the spine is less than with a 90-degree bench. the 45-degree bench is a good choice if you are a beginner or cannot stand to have your head upside down.
 
+<p align="center">
+  <img src="https://abmachinesguide.com/wp-content/uploads/2018/03/roman-chair-45-vs-90.png">
+</p>
 
-
-
+<p align="center">
+  <img src="https://i.pinimg.com/originals/a4/a3/fc/a4a3fc65d1af3dc6faf5fbb9d16eceed.gif">
+</p>
 
 
 
