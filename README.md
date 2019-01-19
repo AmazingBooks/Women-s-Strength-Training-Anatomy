@@ -1591,8 +1591,6 @@ The chest press belongs in the basic, multiple-joint exercise category because b
 
 
 <!-- 
-
-
 <p align="center">
   <img src="https://weighttraining.guide/wp-content/uploads/2017/03/Cable-Upright-Row.png">
 </p>
