@@ -1500,13 +1500,11 @@ start position:
 </p>
 
 
-
 ### HYPEREXTENSIONS:
 Hyperextension belongs in the isolating exercise category because only the hip joint is mobilized. nevertheless, the hyperextension does recruit large muscle groups such as the lumbar muscles, the glutes, and the hamstrings. Unlike the deadlift, which tends to compress the intervertebral discs, the hyperextension is safer for the lower back but less effective in terms of overall strengthening. However, if your lower back is fragile, we recommend this isolating exercise over the deadlift.
 
 ##### How to Do It: 
 - Enter the bench, place your ankles under the padded brace, and bend over. Relax your spine for a second before slowly starting to raise your torso using your lumbar muscles. once you are parallel to the floor (on a classic bench) or perpendicular to the floor (on a 45-degree bench), remain in the contracted position for a second before returning to the starting position and repeating.
-  
 <p align="center">
   <img src="https://i.pinimg.com/originals/a4/a3/fc/a4a3fc65d1af3dc6faf5fbb9d16eceed.gif">
 </p>
@@ -1532,14 +1530,53 @@ Two main lower back benches are available.
   <img src="https://abmachinesguide.com/wp-content/uploads/2018/03/roman-chair-45-vs-90.png">
 </p>
 
+
+
+
+
+## Enhance your Chest
+  
+**Anatomy and Morphology** 
+The pectoralis muscles allow you to move your arms forward when they must overcome a resistance (e.g., when pushing a door). they are also indispensable for keeping your arms together; for example, when holding a baby. In that case, the biceps are doing most of the work, but the chest muscles ensure that your arms remain close together. Without them, you would not be able to hold a baby very long.
+The pectoralis major contains three heads:
+
+     (1). The clavicular head, also known as the upper chest;
+   
+     (2). The sternocostal head, which is the central part of the chest;
+     
+     (3). The abdominal head, which is the lower chest;
+     
 <p align="center">
-  <img src="https://i.pinimg.com/originals/a4/a3/fc/a4a3fc65d1af3dc6faf5fbb9d16eceed.gif">
+  <img src="https://www.earthslab.com/wp-content/uploads/2017/07/pectoral-region-muscles.jpg">
+</p>
+  
+### Take-Home Lesson for Women
+In women, only the upper part of the chest is visible because of the presence of the breasts (which are mammary glands covered with fat, not muscle). For this reason, we concentrate on this area. however, this does not mean that the lower part of the chest will be neglected. When you concentrate primarily on the upper chest, the inferior part receives more than enough indirect stimulation. Unfortunately, contrary to popular belief, working the chest muscles does not prevent the breasts from sagging or make them any bigger.
+The breasts are natural fat storage areas in women:
+<p align="center">
+  <img src="http://www.otzone.co.za/wp-content/uploads/2016/09/lymph-nodes-600x390.jpeg">
 </p>
 
+### Chest exercises:
+There are three main categories of exercises for the pectoralis muscles from which women can benefit:
 
+       (1). Press
+       
+       (2). Fly
+       
+       (3). Pullover
+       
+Each category has several versions, which guarantees a great variety of movements and allows you to choose the ones that best suit both your anatomy and your goals.
 
+### 1. PRESS
+The chest press belongs in the basic, multiple-joint exercise category because both the shoulder and the elbow joints are mobilized. as a result, the press recruits many muscle groups in addition to the chest: the front area of the shoulders, the triceps, and the upper part of the back. the press is considered a good starting exercise because it stimulates so many muscles of the upper body. Because of this diversity of muscle recruitment, people can handle a significant amount of weight.
 
+##### How to Do It: 
+- Lie with your back on a bench or the seat of a machine. Grab the barbell, dumbbells, or handles. If you are using dumbbells, bring them to your shoulders with a pronated grip (thumbs toward each other). straighten your arms using your chest muscles. Dumbbells should touch at the height of the movement. Then, lower the weight by bending your arms.
 
+<p align="center">
+  <img src="http://roicandbru.com/wp-content/uploads/2016/12/MASTER-ROTATING-CHEST-copy.gif>
+</p>
 
 
 
