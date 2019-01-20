@@ -1530,12 +1530,7 @@ Two main lower back benches are available.
   <img src="https://abmachinesguide.com/wp-content/uploads/2018/03/roman-chair-45-vs-90.png">
 </p>
 
-
-
-
-
 ## Enhance your Chest
-  
 **Anatomy and Morphology** 
 The pectoralis muscles allow you to move your arms forward when they must overcome a resistance (e.g., when pushing a door). they are also indispensable for keeping your arms together; for example, when holding a baby. In that case, the biceps are doing most of the work, but the chest muscles ensure that your arms remain close together. Without them, you would not be able to hold a baby very long.
 The pectoralis major contains three heads:
@@ -1569,7 +1564,7 @@ There are three main categories of exercises for the pectoralis muscles from whi
 Each category has several versions, which guarantees a great variety of movements and allows you to choose the ones that best suit both your anatomy and your goals.
 
 ### 1. PRESS
-The chest press belongs in the basic, multiple-joint exercise category because both the shoulder and the elbow joints are mobilized. as a result, the press recruits many muscle groups in addition to the chest: the front area of the shoulders, the triceps, and the upper part of the back. the press is considered a good starting exercise because it stimulates so many muscles of the upper body. Because of this diversity of muscle recruitment, people can handle a significant amount of weight.
+The chest press belongs in the basic, multiple-joint exercise category because both the shoulder and the elbow joints are mobilized. As result, the press recruits many muscle groups in addition to the chest: the front area of the shoulders, the triceps, and the upper part of the back. the press is considered a good starting exercise because it stimulates so many muscles of the upper body. Because of this diversity of muscle recruitment, people can handle a significant amount of weight.
 
 ##### How to Do It: 
 - Lie with your back on a bench or the seat of a machine. Grab the barbell, dumbbells, or handles. If you are using dumbbells, bring them to your shoulders with a pronated grip (thumbs toward each other). straighten your arms using your chest muscles. Dumbbells should touch at the height of the movement. Then, lower the weight by bending your arms.
@@ -1578,6 +1573,87 @@ The chest press belongs in the basic, multiple-joint exercise category because b
   <img src="http://roicandbru.com/wp-content/uploads/2016/12/MASTER-ROTATING-CHEST-copy.gif">
 </p>
 
+**Pro** - Because it stimulates a large amount of muscle mass in a very short time, the press can be the cornerstone of your upper-body training.
 
+**Con**: 
+- It is easy to lose control of the load, especially with free weights. You are likely to get hurt if the weight falls on you. If possible, start by using machines instead of free weights until you master the proper pressing techniques. After a few weeks of machine training, you can switch to free weights if you so desire.
+
+##### VARIATIONS:
+       (1). Barbell Press
+       
+       (2). Dumbell Press
+       
+       (3). Smith Machine Press
+       
+       (4). Machine Press
+       
+###### 1. Barbell Press
+**Pro**:
+- You can bench press in every gym or even at home with a simple barbell and a bench. however, despite the ready availability of the equipment, using a barbell has more drawbacks than advantages.
+
+**Cons**:
+- Balancing a long barbell is not easy and might even prove dangerous for beginners.
+- Unracking the barbell and replacing it are hazardous for the joints; these movements offer no muscle-strengthening effects.
+- The barbell may fall on you at the end of a set when your muscle strength suddenly diminishes.
+- You can bench press in every gym or even at home with a simple barbell and a bench. however, despite the ready availability of the equipment, using a barbell has more drawbacks than advantages.
+
+###### 2. Dumbell Press
+**Pros**:
+- The degree of contraction is far greater with dumbbells than with a barbell because in the contracted position your hands end up closer together.
+- You can adopt any hand and elbow position. This freedom is much more restricted with a barbell.
+
+**Con**:
+- Balancing dumbbells is not easy and might even prove dangerous if you let one go during the last repetition of a set as your strength lessens. most common with beginners.
+
+
+###### 3. Smith Machine Press
+**Pros**:
+- A Smith Machine can be a good compromise between a barbell and a machine, yet safer than free weights for a beginner. The advantage of a smith machine is that you do not have to balance the weight, which reduces the need for a partner.
+- Safety pins are available on every good smith machine. In the case of a sudden loss of strength, the bar will crash on them rather than on you, therefore, do not forget to put them on!
+
+**Con**:
+- The movement involves a potentially dangerous (for some women’s morphology), unnatural linear trajectory rather than a slightly circular arc, as it does with free weights and with most good machines.
+
+###### 4. Machine Press
+**Pros**:
+- If you are a beginner, you may have difficulty pressing while lying on a bench. It may even feel very unnatural to be forced to mobilize all your strength in that position. In that case, machines that allow you to press while seated may be better suited for you.
+- Machines are very stable and do not require you to balance the weight.
+- No manipulation of the barbell or dumbbells is required. everything is already in place. You need only press, concentrating strictly on your chest muscles.
+- Overall, good machines are much safer and easier to use than free weights, especially if you are new to fitness.
+
+**Con**:
+- There are more poorly designed machines than there are good ones. As a beginner, it is hard to know which ones are good and which ones are bad. As a rule of thumb, with the best machines, you bring your hands closer together as you press the weight; as you bring the weight down, your hands get farther apart. A good machine duplicates the range of motion of dumbbells without the constraint of having to balance the load. 
+
+**Variations in Bench angle** - The three main variations of the press are performed as follows:
+- On a flat bench, to recruit the whole chest muscle;
+- On an incline bench, to favor the recruitment of the upper part of the chest;
+- On a decline bench, to better target the lower chest;
+
+Machines also offer these variations, although because you are seated, they may not be apparent. How you are pushing on the machine indicates the variation as follows:
+- Pushing up duplicates the motion of an incline bench;
+- Pushing out in front of you targets the whole chest just as a flat bench does;
+- Pushing down mimics the motion on a decline bench.
+
+> For women, using an **incline bench** or a **machine that duplicates** it is most appropriate because this version recruits more of
+> the upper part of the chest as well as the front shoulders. It is far more useful for women to work the visible part of the chest. 
+> Therefore, the incline press is most effective and saves time as well. Note that because the effort is more localized in the upper  
+> chest area rather than in the overall pectoral, you cannot handle as heavy a weight with the incline press as you can with a flat or > decline press. The declined position is useful only for men who want to accentuate the separation of the chest from the upper abs. 
+> It has no utility for women.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+**TIPS**:
+- Placing the padded brace low over your quadriceps forces your glutes to provide most of the work, reducing the involvement of your lower back muscles. Placing the brace over your lower abs forces the lumbar muscles to provide most of the effort. as you can see, the hyperextension can become a lumbar or a glute exercise depending on where you place the brace that holds your torso.
 
 
