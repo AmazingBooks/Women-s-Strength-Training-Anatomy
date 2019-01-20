@@ -1634,13 +1634,13 @@ Machines also offer these variations, although because you are seated, they may 
 - Pushing out in front of you targets the whole chest just as a flat bench does;
 - Pushing down mimics the motion on a decline bench.
 
-```
-For women, using an **incline bench** or a **machine that duplicates** it is most appropriate because this version recruits more of
+
+_For women, using an **incline bench** or a **machine that duplicates** it is most appropriate because this version recruits more of
 the upper part of the chest as well as the front shoulders. It is far more useful for women to work the visible part of the chest. 
 Therefore, the incline press is most effective and saves time as well. Note that because the effort is more localized in the upper  
 chest area rather than in the overall pectoral, you cannot handle as heavy a weight with the incline press as you can with a flat or decline press. The declined position is useful only for men who want to accentuate the separation of the chest from the upper abs. 
-It has no utility for women.
-```
+It has no utility for women._
+
 
 
 
