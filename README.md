@@ -1635,14 +1635,139 @@ Machines also offer these variations, although because you are seated, they may 
 - Pushing down mimics the motion on a decline bench.
 
 
-_For women, using an **incline bench** or a **machine that duplicates** it is most appropriate because this version recruits more of
+> NOTE:
+> For women, using an **incline bench** or a **machine that duplicates** it is most appropriate because this version recruits more of
 the upper part of the chest as well as the front shoulders. It is far more useful for women to work the visible part of the chest. 
 Therefore, the incline press is most effective and saves time as well. Note that because the effort is more localized in the upper  
 chest area rather than in the overall pectoral, you cannot handle as heavy a weight with the incline press as you can with a flat or decline press. The declined position is useful only for men who want to accentuate the separation of the chest from the upper abs. 
-It has no utility for women._
+It has no utility for women.
+
+**TIPS**:
+- Arching your lower back reduces the range of motion, allowing you to handle heavier weights. however, it makes you more prone to back
+injuries and transfers the muscular tension from the upper to the lower part of the chest, rendering the exercise less productive. Arching the back might be a good strategy for men, but not for women..
+- So not move your head from side to side or up and down while pressing. Keep it safely on the bench to avoid any shaking movement of the neck.
+- The bench press is like a reverse push-up. Instead of moving your body, you move only your arms. If you do not have access to weightlifting equipment, push-ups are a good alternative.
+
+### 2. FLY
+The press recruits many muscle groups in addition to the chest: the front area of the shoulders, the triceps, and the upper part of the back. the press is considered a good starting exercise because it stimulates so many muscles of the upper body. Because of this diversity of muscle recruitment, people can handle a significant amount of weight.
+
+##### How to Do It: 
+- Grab two dumbbells, sit on the edge of the bench, and bring the dumbbells to your shoulders using a neutral hand grip (thumbs pointing up) as you lower your back onto the bench. Straighten your arms in front of you as if you were doing a bench press.
+Once in position, lower your arms to your sides while keeping them semistraight. When your hands are at about the same level as your chest, bring the dumbbells together using your chest muscles. then, lower the weights again by moving the dumbbells apart without bending your arms too much.
+
+<p align="center">
+  <img src="http://roicandbru.com/wp-content/uploads/2016/12/MASTER-ROTATING-CHEST-copy.gif">
+</p>
+
+**Pro** - Because it stimulates a large amount of muscle mass in a very short time, the press can be the cornerstone of your upper-body training.
+
+**Con**: 
+- It is easy to lose control of the load, especially with free weights. You are likely to get hurt if the weight falls on you. If possible, start by using machines instead of free weights until you master the proper pressing techniques. After a few weeks of machine training, you can switch to free weights if you so desire.
+
+##### How to Do It - Dumbells: 
+- Lie with your back on a bench or the seat of a machine. Grab the barbell, dumbbells, or handles. If you are using dumbbells, bring them to your shoulders with a pronated grip (thumbs toward each other). straighten your arms using your chest muscles. Dumbbells should touch at the height of the movement. Then, lower the weight by bending your arms.
+
+<p align="center">
+  <img src="https://www.cyanartstudios.com/upload/2019/01/08/dumbbell-bench-flyes-28-images-134-best-images-about-flat-bench-dumbbell-fly-l-09ef023b76906c28.gif">
+</p>
+
+The dumbbells do not have to touch at the top of the movement. In fact, there is little resistance at the height of the exercise. If you cannot feel your chest muscles when your arms are up, it is better to work under continuous tension. To avoid losing the contraction in your chest muscle, stop the dumbbells at three quarters of the movement rather than perform it completely. With dumbbells, you can rotate your wrists to feel the pectoralis muscles contracting more. 
+
+##### How to Do It - Machine Fly: 
+Sit in the machine and grab one pad or handle, and then the other. Bring the two pads or handles together until they touch. remain in this contracted position for one second and bring your arms back. Unlike with dumbbells, make sure you bring your hands as close as possible to really squeeze the chest muscles. Do not overstretch your chest in the starting position.
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/32/9a/cb/329acb7b9bd72c0a657dc022cc52df8b.gif">
+</p>
+
+##### How to Do It - Cable Crossover: 
+Grab one handle and then the other with your arms parallel to the floor, forming a t with your body. Then bring your arms in toward your body. Remain in this contracted position for one second and bring your arms back up (you can also cross your arms as shown to increase the range of motion). The main advantage of the cable over dumbbells or a machine is that you can bring your arms either toward your abdomen or toward your head (or anywhere else between these two points) to change the angle at which the pectoralis
+muscles work. In fact, the chest area should be worked at a variety of angles. The lower you bring your arms down, the more you’ll target your lower chest. A higher arm position at the shoulder or head level stimulates the upper portion of the chest more. as noted earlier, from an aesthetic standpoint, women typically don’t need to train the lower part of the chest intensely; the upper chest is more important.
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/78/04/ef/7804efe5c2d98d50939d01c823be2157.gif">
+</p>
+
+**Pros**:
+- The chest fly provides a good stretch for the pectoralis muscles.
+- Unlike with the bench press, the triceps muscles are not involved, which means they will not tire before the pectoralis muscles do.
+
+**Cons**: 
+- It can be difficult to focus the contraction on the pectoralis muscles only and not on the shoulders.
+- Because almost no resistance exists at the top of the movement, it can be difficult to feel the pectoralis muscles contract when using dumbbells.
+- Never straighten your arms completely during the exercise because doing so places too much unwanted stress on the biceps tendons.
+
+**TIPS**: 
+- To really stimulate your chest muscles, you must do this exercise slowly and with continuous tension. Avoid any jerking of the weights.
+- If you have trouble feeling your pectoralis muscles during multiple-joint exercises such as the press, you can learn to feel their contractions using the fly. After a few weeks of training with this isolating movement, you will have better sensations during the basic pectoralis exercises.
+- With dumbbells or with the cable crossover, the exercise is much easier if you bend your arms; this is why you should make an effort not to bend your arms more and more as the set goes on. When you reach failure, you can always bend your arms a little so that you can perform a few more repetitions. The same problem occurs on machines, which have you perform the fly with your arms in a semistraight position.
+
+### 3. PULLOVER
+The pullover should not be considered a muscle-building exercise for the chest. Rather, use it to stretch your shoulders and rib cage to improve your posture.
+
+##### How to Do It: 
+- Grab a dumbbell, holding it with both hands in a neutral grip (thumbs toward your head). Lie on your back either completely on the bench or across the bench. Your head should be just on the edge of the bench so that your arms can hang freely over it. This will provide a greater range of motion and a better stretch. If you are lying across the bench, your shoulders should be just on the edge of the bench to avoid any excessive stretch. Once in position, straighten your arms above your head. take a deep breath so that you inflate your rib cage to its maximum, and try to squeeze your shoulder blades together. You should feel your rib cage opening up.
+While keeping your arms in a semistraight position, lower the weight behind your head. When your arms are extended from your body,
+raise them back up using the strength of your pectoralis muscles while exhaling all the air so that you deflate your rib cage. Stop
+the movement when the dumbbell is above your head, and then lower it again.
+
+<p align="center">
+  <img src="https://www.rd.com/wp-content/uploads/2017/01/14-dumbbell-pullover-the-best-14-upper-body-exercises-dumbbells.gif">
+</p>
+
+**Pros**:
+- The pullover stretches the pectoralis muscles and shoulders simultaneously (two groups that tend to naturally lack flexibility).
+- It helps increase endurance because of the respiratory muscle work it provides.
+
+**Cons**: 
+- The pullover places the shoulder joints in a relatively unstable position. For this reason, avoid using a weight that’s too heavy. Increase the number of repetitions rather than the weight. 
+
+**TIPS**: 
+- You can bend your arms very slightly to increase the stretch, but if you bend them too much, the work will transfer to the back muscles, robbing the effort from the pectoralis muscles.
+- Don’t bring the dumbbell all the way back down to your abdomen; stop it when it is above your head. With free weights, the more you bring your arms up, the less resistance you place on your muscles. therefore, it is best to use a limited range of motion by not raising your arms too high past your head.
 
 
+## Firm Up Your arms
+The arm is divided into three muscle groups:
 
+       (1). Biceps
+       
+       (2). Triceps
+       
+       (3). Forearms
+ 
+## 1. BICEPS
+**Anatomy and Morphology** 
+- The role of the biceps is to flex the forearm and lift it toward the upper arm. The biceps itself has two heads (parts of the muscle):
+      
+       (1). The long head (the one on the exterior), which is the most visible;
+       
+       (2). The short head (the internal part of the biceps), which is somewhat hidden by the torso because it is close to the body;
 
+  <p align="center">
+    <img src="https://anatomyinfo.com/wp-content/uploads/2018/05/arm-muscles.jpg">
+  </p>
+
+Aside from the biceps, the forearm flexor muscles have two other lesserknown muscles:     
+
+      (1). The brachialis muscle, which is located underneath the biceps and functions somewhat like a second biceps;
+       
+      (2). The brachioradialis muscle, which is on the forearm but is somewhat fused with the biceps;
+       
+### Take-Home Lesson for Women
+Having strong arms is useful in everyday life. However, the goal for most women is not to develop huge biceps, but to tone them. Therefore, do not spend too much time on the following biceps exercises, especially given that the biceps are already strongly involved in all the basic exercises for the back.
+
+### Biceps Exercises: 
+Curls are the main category of exercise for the biceps. Many types of curls exist, but the lifting technique is the same for all of them. The only difference is the degree of involvement of the forearm flexors depending on your wrist and elbow positions. However, curls can be performed in very different ways depending on how you hold the weight and how your elbow is positioned (in front of you, beside your torso, or behind it). Each version targets the forearm flexor muscles in a unique way.  The curl does not recruit much of the muscle groups surrounding the biceps and the forearms. Following are the five curl variations addressed in this section:
+
+       (1). Supinated curl
+       
+       (2). Hammer curl
+       
+       (3). Reverse curl
+              
+       (4). Curl with the elbows elevated
+       
+       (5). Curl with the elbows behind the body
 
 
