@@ -1770,4 +1770,29 @@ Curls are the main category of exercise for the biceps. Many types of curls exis
        
        (5). Curl with the elbows behind the body
 
+### Three Hand Positions for the Curl: 
+The curl is the main exercise for training the forearm flexor muscles. The three hand positions used with the curl, however, affect the arm muscles very differently.
+
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/hands-position.png">
+  </p>
+
+**Pro**:
+- With dumbbell curls, your arms are free to use the most natural path possible for your anatomy;
+
+**Cons**: 
+- Because the temptation to cheat is stronger in this exercise than any other, many people do not really work the biceps.
+
+**TIPS**:
+- Do not perform several forms of curls during the same workout. If you like variety, alternate by doing classic supinated curls during one workout and a different form of curl in the next workout.
+
+## 1. Supinated CURL
+##### How to Do It: 
+- Grasp a dumbbell in each hand using a supinated hand position. Use your biceps to bend your arm. Bring the weight as high as possible and hold at the top, contracted position for one second while squeezing your forearm tightly against your biceps. Lower the weight slowly back to your start position. Repeat with the other arm. Another option is to lift both dumbbells at once.
+
+Lifting both arms simultaneously saves you time and forces you to work on your balance. On the other hand, alternating arms allows you to lift slightly more weight or do more repetitions with the same weight because one arm is provided extra rest time while you flex the other. 
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/supinated-curl.png">
+  </p>
+
 
