@@ -1794,5 +1794,22 @@ Lifting both arms simultaneously saves you time and forces you to work on your b
   <p align="center">
     <img src="https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/supinated-curl.png">
   </p>
+  
+## 2. Hammer Curl
+##### How to Do It: 
+- Hold two dumbbells in a neutral position (thumbs up) during the whole set. As opposed to supinated curls, this isolation exercise targets the brachialis and brachioradialis muscles and does not stimulate the biceps as much. We show here hammer curls with dumbbells, a low pulley, and weight plates. All three versions are very similar as far as their muscle focus; try them all to discover which one is the most comfortable and works the best for you.
 
+Your arm is stronger when you use a neutral, rather than a supinated, hand position. For this reason, you can use heavier weights with hammer curls than with classic supinated curls. Just be careful that the weight doesn’t result in a reduced range of motion.
+  <p align="center">
+    <img src="https://i.pinimg.com/originals/3d/3e/d1/3d3ed14e7b432f78b0bd7e50d31f8822.gif">
+  </p>
+  
+## 3. Reverse Curl
+##### How to Do It: 
+- Hold two dumbbells or a bar using a pronated hand position (palms down with the thumbs facing each other) during the whole set. This isolation exercise specifically targets the brachioradialis, the brachialis, and a little bit of the biceps.
 
+If you feel that a straight bar places too much stress on your wrists, try using an EZ bar instead. If you still feel an unnatural twist of your forearms, dumbbells are the solution. In that case, instead of having both thumbs facing each other, bring them up slightly so that you minimize the rotation of your hands.
+  <p align="center">
+    <img src="https://musclewiki.org/media/uploads/female-behind-the-back-barbell-wrist-curl-front.gif">
+  </p>
+  
