@@ -1838,3 +1838,27 @@ If you feel that a straight bar places too much stress on your wrists, try using
    <p align="center">
     <img src="https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/desc.png">
   </p>
+
+
+## TRICEPS
+
+**Anatomy and Morphology** 
+The triceps has three heads. The lateral head (on the exterior) is the most visible. The other two heads are somewhat hidden by the torso. Therefore, you should focus on developing the lateral head so you can quickly see the results of your training. The triceps is the antagonistic muscle to the biceps and the brachialis. It extends the arm. The long head of the triceps is the only one of the three heads of the triceps that is a multiple-joint muscle. It does more than just extend the arm as the other two heads do; it also helps bring the arm toward the body or to the rear, in conjunction with the back and rear shoulder muscles. As such, it is involved in all back and rear shoulder exercises. For this reason, to avoid the all-too-common elbow injuries, carefully warm up your elbows before working your back.
+
+<p align="center">
+  <img src="https://www.rd.com/wp-content/uploads/2017/01/tricpes.png">
+</p>
+
+### Take-Home Lesson for Women
+As with the biceps, most women do not strive to develop huge triceps. Simply toning them a little is a common goal. The main difference between biceps and triceps is that the back of the arm is an important storage area for fat in women. By training your triceps frequently with lighter weight and high repetitions, you can prevent this deposit of fat. Triceps training is important not only for immediate results but also for the future: After menopause, many women lose the fat covering the triceps as a result of hormonal disruptions. This shift can leave an excess of skin hanging from your arms. Once this sagging skin is in place, there is not much you can do to get rid of it except through surgery. This is why it is important to prevent the accumulation of fat on your triceps early in life.
+
+#### TRICEPS EXERCISES
+
+       (1). Cable push-down
+       
+       (2). Triceps extension
+       
+       (3). Triceps kickback
+              
+       (4). Narrow grip press 
+
