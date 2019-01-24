@@ -912,14 +912,17 @@ To make the leg raise harder, you can perform it while hanging from a pull-up ba
 **Tips**
   - Arching your lower back works the wrong muscles and pinches the lumbar discs. The goal of this exercise is not so much lifting the legs, but lifting the hips, which lifts the thighs.
 
-
-![LEG RAISE](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/hanging.png)
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/hanging.png">
+  </p>
+    <p align="center">
+    <img src="https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/lifting.png">
+  </p>
+    <p align="center">
+    <img src="https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/bench.png">
+  </p>
    
-![LEG RAISE](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/lifting.png)  
-      
-![LEG RAISE](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/bench.png)      
-      
-
+    
 ### 3.SIDE CRUNCH
 
 This exercise isolates the obliques more than the oblique crunch does, which targets both the rectus abdominis and the obliques. 
@@ -928,7 +931,9 @@ This exercise isolates the obliques more than the oblique crunch does, which tar
 Lie on your left side on the floor. Put your right hand behind your head to support it. Using your obliques, bring your right elbow
 toward your right hip. Your left shoulder will come off the floor about an inch (2.5 cm) or so. Hold the position for one to two seconds before lowering your torso. Bring your left shoulder to the floor, but not your head, so that you can maintain a continuous tension in your obliques. Once you have finished a set on your left side, move immediately to your right side.
 
-![Side Crunches Clasic](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/side.png) 
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/side.png">
+  </p>
 
 **Pro**
   - This is the best exercise for working the obliques.
@@ -945,16 +950,17 @@ toward your right hip. Your left shoulder will come off the floor about an inch 
 **Variations**
 Where you place your free hand determines the degree of resistance during this exercise. The position described here (i.e., your hand behind your head) is an intermediate position. To increase the resistance, extend your arm away from your body and next to your head. To reduce the resistance, extend your arm toward your thighs, parallel to your body. onsider using a descending set strategy. Begin the exercise with our arm straight up by your head, and when you can’t perform any more repetitions that way, place your hand behind your head so that you can do a few more. When you reach failure again, stretch your arm down toward your legs so that you can continue the exercise. By using this descending set strategy, you will be able to induce a very profound muscle fatigue, and typically one set will be enough for each side, which will save you time.
 
-
-![Side Crunches](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/side1.png) 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/side1.png">
+</p>
 
 
 > NOTE:
 > Avoid standing side bend exercises that use dumbbells or a low cable pulley to train the obliques because they  put unnecessary       > tension on the spine while placing the back in a very awkward position. These exercises are useful only in strength sports in which   > the spine needs to resist enormous tension.
 
-
-![Side Crunches](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/side2.png) 
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/side2.png">
+</p>
 
 ### 4. TWIST
 Twisting rotations belong in the isolated, single-joint exercise category. 
@@ -965,14 +971,17 @@ Their main advantage is that they attack “love handles” better than any othe
   **(1) - Twist with a broomstick:** - Sit on a bench or stand up while holding a broomstick on your shoulders. Slowly rotate from
 left to right using a reduced range of motion. Avoid jerky movements. 
 
-![Twist with a broomstick](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/twist-seated.png) 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/twist-seated.png">
+</p>
 
   **(2) - Twist with an elastic band:** - Attach a band to a fixed point that is at about shoulder height. Standing, grasp the band in both hands and step forward. The farther you step from where the band is attached, the greater the resistance will be. Standing with your legs apart to increase stability, rotate from right to left. Do not turn your torso more than 45 degrees. When you have finished working the right side, move immediately to the left side.
   
   **(3) - Twist with a machine:** -Sit, stand, or kneel, depending on the equipment. Slowly rotate from left to right. Do not exaggerate the range of motion.
 
-![Twist with a machine](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/twist-machine.png) 
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/twist-machine.png">
+</p>
 
 **Pro**
   - This is one of only a very few exercises that target love handles. Even so, love handles are not easy to get rid of. A proper diet and specific exercises will help. 
@@ -985,12 +994,15 @@ left to right using a reduced range of motion. Avoid jerky movements.
   - Do this exercise slowly using long sets (e.g., 25 repetitions). Performing two to four sets every day will combat love handles.
   - Do the twist while lying on the floor. Instead of moving your upper body, your legs perform the rotations. You can do the twist either with bent legs (easier) or straight legs (far more difficult).
   
-![Twist while lying on the floor](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/twist-lying.png) 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/twist-lying.png">
+</p>
   
   -Twist while hanging on a pull-up bar with either bent legs (easier) or straight legs (much harder). This version provides the added advantage of decompressing the spine at the end of a workout
-  
-![Twist while hanging](https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/twist-hanging.png) 
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/twist-hanging.png">
+</p>
 
 ### 5. STATIC STABILITY
 This static exercise targets the transversus abdominis and the obliques as well as many deep core muscles that support the spine.
@@ -999,7 +1011,9 @@ This static exercise targets the transversus abdominis and the obliques as well 
 **How to do it**
 Press your lower back as powerfully as possible against a wall with your feet about two feet (55 cm) away from the wall. Once in position, slowly bring your feet closer to the wall by taking very small steps. As you move, your lower back should remain in contact with the wall. When you reach the point where you are losing contact, stop moving your feet and hold the position for at least 20 seconds. 
 
-![Static stability exercises](https://www.whyiexercise.com/images/knee.strengthening.exercises.thumbnails.jpg) 
+<p align="center">
+  <img src="https://www.whyiexercise.com/images/knee.strengthening.exercises.thumbnails.jpg">
+</p>
 
 **Pro**
   - Regular practice of this exercise helps to prevent back pain by training the core muscles that support the spine.
