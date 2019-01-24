@@ -1838,6 +1838,16 @@ If you feel that a straight bar places too much stress on your wrists, try using
    <p align="center">
     <img src="https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/desc.png">
   </p>
+  
+ ## 5. Curl With the Elbows Behind the Body
+ ##### How to Do It: 
+- Whenever you place your elbow behind your body (as during curls performed on an incline bench), you better isolate the exterior of the biceps. The interior head and the brachialis receive less stimulation.
+
+If you feel an overwhelming stretch at the shoulder level, it means your arms are too far behind your body, a position that could damage the long head of the biceps tendon. This risk comes from using too flat of a bench; adjust it up closer to the 90° position instead.
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/behind-body.png">
+  </p>
+
 
 
 ## TRICEPS
@@ -1860,5 +1870,4 @@ As with the biceps, most women do not strive to develop huge triceps. Simply ton
        
        (3). Triceps kickback
               
-       (4). Narrow grip press 
-
+       (4). Narrow grip press   
