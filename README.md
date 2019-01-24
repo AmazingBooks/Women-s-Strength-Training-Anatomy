@@ -1856,7 +1856,7 @@ If you feel an overwhelming stretch at the shoulder level, it means your arms ar
 The triceps has three heads. The lateral head (on the exterior) is the most visible. The other two heads are somewhat hidden by the torso. Therefore, you should focus on developing the lateral head so you can quickly see the results of your training. The triceps is the antagonistic muscle to the biceps and the brachialis. It extends the arm. The long head of the triceps is the only one of the three heads of the triceps that is a multiple-joint muscle. It does more than just extend the arm as the other two heads do; it also helps bring the arm toward the body or to the rear, in conjunction with the back and rear shoulder muscles. As such, it is involved in all back and rear shoulder exercises. For this reason, to avoid the all-too-common elbow injuries, carefully warm up your elbows before working your back.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/tricpes.png">
+  <img src="https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/triceps.png">
 </p>
 
 ### Take-Home Lesson for Women
