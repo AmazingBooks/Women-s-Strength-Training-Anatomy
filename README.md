@@ -1812,4 +1812,18 @@ If you feel that a straight bar places too much stress on your wrists, try using
   <p align="center">
     <img src="https://musclewiki.org/media/uploads/female-behind-the-back-barbell-wrist-curl-front.gif">
   </p>
-  
+
+## 4. Curl with the Elbows Elevated
+##### How to Do It: 
+- When your elbow is elevated, the brachialis muscle works a bit more and the biceps a bit less than with classic (supinated) curls. This particularly emphasizes the interior of the biceps. Straightening the arms completely is even more dangerous with the elbows elevated than with regular curls. Shortening your range of motion will minimize the risk of tearing your biceps tendons.
+  <p align="center">
+    <img src="https://musclewiki.org/media/uploads/female-behind-the-back-barbell-wrist-curl-front.gif">
+  </p>
+
+If you feel that a straight bar places too much stress on your wrists, try using an EZ bar instead. If you still feel an unnatural twist of your forearms, dumbbells are the solution. In that case, instead of having both thumbs facing each other, bring them up slightly so that you minimize the rotation of your hands.
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/elbows.png">
+  </p>
+   <p align="center">
+    <img src="https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/desc.png">
+  </p>
