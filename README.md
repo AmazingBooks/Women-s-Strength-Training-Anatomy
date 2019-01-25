@@ -1871,3 +1871,17 @@ As with the biceps, most women do not strive to develop huge triceps. Simply ton
        (3). Triceps kickback
               
        (4). Narrow grip press   
+       
+### ATENTION - Protect Your Elbow Joints:
+The elbow joint is very fragile. This is why we recommend avoiding using heavy weights for the direct triceps exercises. High repetitions with lighter weights are safer for the elbows. This strategy is also more in tune with your primary goal of keeping fat off your triceps. The elbow joint is especially fragile in women as a result of their much greater range of forearm motion than men. Women’s much more pronounced recurvatum at the elbow allows them to bring their forearms farther back than men can. This enhances the contraction of the triceps, but it also places the elbow joint in a very vulnerable position. If you are using heavy weights in
+any triceps exercises or in the chest or shoulder presses, do not straighten your arms completely to avoid placing your elbow joints in this precarious position.
+
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/elbow.png">
+  </p>
+
+
+## 1. Cable push-down
+##### How to Do It: 
+- Grasp a dumbbell in each hand using a supinated hand position. Use your biceps to bend your arm. Bring the weight as high as possible and hold at the top, contracted position for one second while squeezing your forearm tightly against your biceps. Lower the weight slowly back to your start position. Repeat with the other arm. Another option is to lift both dumbbells at once.
+
