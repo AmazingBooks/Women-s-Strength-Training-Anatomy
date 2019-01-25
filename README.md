@@ -1882,6 +1882,10 @@ any triceps exercises or in the chest or shoulder presses, do not straighten you
 
 
 ## 1. Cable push-down
+- The push-down does not recruit many muscles except the triceps and the forearm flexors.
 ##### How to Do It: 
-- Grasp a dumbbell in each hand using a supinated hand position. Use your biceps to bend your arm. Bring the weight as high as possible and hold at the top, contracted position for one second while squeezing your forearm tightly against your biceps. Lower the weight slowly back to your start position. Repeat with the other arm. Another option is to lift both dumbbells at once.
+Attach a short triceps bar, straight bar, or rope to the upper part of a pulley machine. You can grab the rope with your hands in a neutral position (thumbs pointing up), the triceps bar in a semineutral or pronated position (thumbs facing each other), and the straight bar in a pronated position. use whichever grip allows you to contract your triceps the most. Push on the bar or rope so that you bring your hands to your thighs while keeping your elbows close to your sides. Hold the contracted position for one second before returning to the starting position without moving your elbows. You can stand with your feet together, or staggered; the staggered stance shown here is more challenging to your balance.
 
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/push-down.png">
+  </p>
