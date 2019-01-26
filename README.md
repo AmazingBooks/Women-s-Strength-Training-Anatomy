@@ -1889,3 +1889,41 @@ Attach a short triceps bar, straight bar, or rope to the upper part of a pulley 
   <p align="center">
     <img src="https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/pull-down.png">
   </p>
+  
+**Pro**:
+- Working the triceps with a pulley is less traumatic for the elbow joints than using your body weight (as in doing push-ups), dumbbells, a barbell, or any other kind of machines. A more complex pulley network reduces the forces and thus is gentler for the joints.;
+
+**Con**: 
+- Because the triceps is not used on a daily basis, many beginners have trouble feeling this muscle working. At first, do this exercise slowly so that you can learn to feel your triceps contracting.
+
+**TIP**:
+- Lifting your elbows while the bar is moving up is perceived as a mistake. This is true if you are trying to isolate your triceps. However, to work the triceps and the back in synergy as nature intended, you can lift your elbows to your chin or nose level while the bar is rising. Both your hands and your elbows will be pushed down as you press the bar. Many people in the gym are likely to comment that this technique is a mistake, but this only reveals their lack of anatomy knowledge. Do not let these people influence you.
+- While lying, seated, or standing, grab an EZ bar or a dumbbell with both hands (for bilateral work) or a dumbbell with one hand (for unilateral work). Lower the weight to your forehead (if lying) or behind your head (if seated or standing) with your elbows and pinkie fingers pointing toward the ceiling. Using your triceps, straighten your arms before bringing the weight back down. With dumbbells, you can shift from a neutral grip (thumbs facing down) in the stretched position to a pronated grip (thumbs facing each other) in the
+contracted position to better squeeze your triceps.
+
+<p align="center">
+  <img src="https://rishavgupta.files.wordpress.com/2018/02/lyingtwoarmtricepsextension.gif">
+</p>
+
+## 2. Triceps extension
+##### How to Do It: 
+You can use a high or low pulley to work either both arms at the same time or to alternate between arms. Attach a rope that you can grab with one or both hands. To work both arms at the same time, grab the rope and stand facing away from a high pulley with your feet staggered and your upper body leaning forward at about a 120-degree angle to the floor. Extend your arms straight ahead and then slowly bend them to lower the weight back down. To work one arm at a time, stand perpendicular to a low pulley with your nonworking arm closer to the machine. Grab the rope behind your head with your elbow bent and extend your arm straight up; then slowly bend it to lower the weight back down.
+
+  <p align="center">
+    <img src="https://www.sparkpeople.com/assets/exercises/Standing-Overhead-Triceps-Pull-on-Cable-Cross-Machine.gif">
+  </p>
+  
+**Pro**:
+- This exercise is unique in the category of triceps exercises in that it provides a good stretch;
+
+**Con**: 
+- With free weights, as fatigue sets in, it is easy to lose your form, arch your back, or hit yourself in the head with the weight.
+
+**TIPS**:
+- The farther your elbows are from your torso, the more you are going to recruit the long head of the triceps.
+- Doing this exercise unilaterally creates a better stretch and a more pronounced contraction as a result of a greater range of motion.
+- Performing this exercise standing forces you to arch your back, which may cause disc compressions. The seated position is safer. The lying position is the safest as far as back protection is concerned. Lying on a bench or on the floor not only protects your back but also improves your form by preventing you from swinging your torso.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/triceps-extensions.png">
+</p>
