@@ -1927,3 +1927,31 @@ You can use a high or low pulley to work either both arms at the same time or to
 <p align="center">
   <img src="https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/triceps-extensions.png">
 </p>
+
+## 2. Triceps Kickback
+The triceps kickback does not recruit many muscles except the triceps and the forearm flexors.
+
+##### How to Do It: 
+This exercise can be done unilaterally. While leaning forward, grab a dumbbell with your hand in the neutral position (thumb pointing forward). In the starting position, your upper arm should be close to your side and roughly parallel to the floor. The elbow is bent to about a 90-degree angle with the upper arm. using your triceps, straighten your arm along your side. Hold the position for at least one
+second with the arm extended before lowering the weight. The unilateral version places less stress on the lower back and allows you
+to perform the movement in a stricter manner with perfect technique. The bilateral version takes less time.
+  <p align="center">
+    <img src="https://static1.squarespace.com/static/540d3a95e4b0dacce669ebcb/t/5bb197df0d929713f2aa5eb8/1539112448937/Tricep+Kickback+gif.gif  ">
+  </p>
+  
+**Pro**:
+- Of all the free-weight triceps exercises, this one is the safest on the elbow. You should be able to perform triceps kickbacks even if your elbows hurt a little when you do other triceps exercises.
+
+**Con**: 
+- Little muscle stretch is provided by this exercise, so some women have difficulty feeling the triceps contraction.
+
+**TIPS**:
+- Hold the extended position as long as possible to contract your triceps as much as possible. In fact, you have to generate a lot of muscle tension to keep your arms extended during this exercise—unlike with other triceps exercises. 
+- You can focus the work on the outside portion of your triceps by turning your pinkie finger slightly to the outside in the contracted position.
+- Instead of dumbbells, you can use a low pulley. The main advantage of the pulley is that it provides more continuous and fluid tension than free weights do.
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/26/44/81/264481800e9ce0c139a13e64382d6a12.gif">
+</p>
+
+# PART III Programs
