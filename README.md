@@ -1955,3 +1955,8 @@ to perform the movement in a stricter manner with perfect technique. The bilater
 </p>
 
 # PART III Programs
+### CIRCUIT TRAINING
+If you have little time to train or if you wish to tone up your body while getting rid of as much fat as possible, or both, circuits are the most appropriate form of training. Start with one session per week; as you progress, add more training days, performing the same circuit. You will know it is time to add more training days by closely monitoring your muscle strength. At first, if you do not have any athletic background, your muscles will feel tired for days after a workout. As you progress, their recovery will get faster and faster. When you do not need as much rest as before, it is time to add new training sessions.
+
+#### Minimal equipment, Whole Body
+Do 1 or 2 circuits per workout without any rest between exercises. You should do 20 to 30 repetitions per set depending on your level of fitness.
