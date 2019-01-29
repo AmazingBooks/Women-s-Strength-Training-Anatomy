@@ -1975,6 +1975,12 @@ Do 1 or 2 circuits per workout without any rest between exercises. You should do
 <p align="center">
   <img src="https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/train5.png">
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/train6.png">
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/train7.png">
+</p>
 
-
+-----------------------------------------| THE END |-----------------------------------------
 
