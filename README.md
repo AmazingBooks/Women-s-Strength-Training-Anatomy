@@ -1960,3 +1960,12 @@ If you have little time to train or if you wish to tone up your body while getti
 
 #### Minimal equipment, Whole Body
 Do 1 or 2 circuits per workout without any rest between exercises. You should do 20 to 30 repetitions per set depending on your level of fitness.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/train1.png">
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AmazingBooks/Women-s-Strength-Training-Anatomy/master/images/train2.png">
+</p>
+
+
+
